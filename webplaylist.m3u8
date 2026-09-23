@@ -264,9 +264,11 @@ https://admin2.passionepizza.com.br/wwe.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="نمایندگان ایران در بازی‌های آسیایی ۲۰۲۶ ناگویا" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?4202" group-title="Aparat Sport Live",نمایندگان ایران در بازی‌های آسیایی ۲۰۲۶ ناگویا
+#EXTINF:-1 tvg-id="other" tvg-name="بازی‌های آسیایی ۲۰۲۶ ناگویا : شنا" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport8_small.jpg?36830" group-title="Aparat Sport Live",بازی‌های آسیایی ۲۰۲۶ ناگویا : شنا
+https://www.aparatsport.ir/adele/getAparatManifest/BSc74f765B2DB99/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="بازی‌های آسیایی ۲۰۲۶ ناگویا: ورزش های الکترونیک" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?531" group-title="Aparat Sport Live",بازی‌های آسیایی ۲۰۲۶ ناگویا: ورزش های الکترونیک
 https://www.aparatsport.ir/adele/getAparatManifest/qyZ0ba9c3B934D9/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="نمایندگان ایران در بازی‌های آسیایی ۲۰۲۶ ناگویا" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport9_small.jpg?56405" group-title="Aparat Sport Live",نمایندگان ایران در بازی‌های آسیایی ۲۰۲۶ ناگویا
+#EXTINF:-1 tvg-id="other" tvg-name="بازی‌های آسیایی ۲۰۲۶ ناگویا: نیمه نهایی های بدمینتون" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport9_small.jpg?61483" group-title="Aparat Sport Live",بازی‌های آسیایی ۲۰۲۶ ناگویا: نیمه نهایی های بدمینتون
 https://www.aparatsport.ir/adele/getAparatManifest/QfE26d09F7E49AC/master.m3u8
 
 
@@ -581,8 +583,9 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb511/playlist.m3u8?token=
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb514/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE0OjE3OTAxMzYwMTQ0OTE6Y2RubGl2ZXR2LnR2OmNjYjJkZjY1OWFkMzE2NDAuNjZiMjdiNjRhMGVmNTI0MTU3ZDQ1NDYyMzI3NTBkYmJmNmRjN2FkOWY4NzgwMDZmZjdlMDI1YjdhNGY0MmM2OQ
 
 #EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC SPORTS CALIFORNIA [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="TV",NBC SPORTS CALIFORNIA [S3]
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb515/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE1OjE3OTAxMzYwMTQ2Nzc6Y2RubGl2ZXR2LnR2OmY4MmVhMjQ1NTc2YmMxZjkuMTIyN2QyYzI3ZDRhYzFjMzg1OWQyMzkwZTQ5NzIwNDZlNjMxYTA1NWYxNDc2NWY2YzY5NDc2MTE0ZWUxNjFjMg
+https://cache0.wonvt.st/live/0iexaqu0xs8ukv01awmpa/master.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.NBC.Sports.NOW.plex" tvg-name="NBC SPORTS NOW [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="TV",NBC SPORTS NOW [S3]
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
