@@ -132,32 +132,42 @@ https://admin2.passionepizza.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Cruz Azul vs Toluca" tvg-logo="" group-title="SOCCER",Cruz Azul vs Toluca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/vix.m3u8
+https://admin2.formaturamaxi.com.br/canal5.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Cruz Azul vs Toluca" tvg-logo="" group-title="SOCCER",Cruz Azul vs Toluca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.passionepizza.com.br/vix.m3u8
+https://admin2.passionepizza.com.br/canal5.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Cruz Azul vs Toluca" tvg-logo="" group-title="SOCCER",Cruz Azul vs Toluca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/tudn.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Cruz Azul vs Toluca" tvg-logo="" group-title="SOCCER",Cruz Azul vs Toluca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.passionepizza.com.br/tudn.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Canada vs Chile" tvg-logo="" group-title="SOCCER",Canada vs Chile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/colo.m3u8
+https://tedesco.formaturamaxi.com.br/fsp.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Canada vs Chile" tvg-logo="" group-title="SOCCER",Canada vs Chile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.passionepizza.com.br/colo.m3u8
+https://tedesco.passionepizza.com.br/fsp.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Chivas vs Queretaro" tvg-logo="" group-title="SOCCER",Chivas vs Queretaro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/tudn.m3u8
+https://tedesco.formaturamaxi.com.br/usa.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Chivas vs Queretaro" tvg-logo="" group-title="SOCCER",Chivas vs Queretaro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.passionepizza.com.br/tudn.m3u8
+https://tedesco.passionepizza.com.br/usa.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Mexico vs Colombia" tvg-logo="" group-title="SOCCER",Mexico vs Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -529,11 +539,6 @@ https://admin.formaturamaxi.com.br/ncaa15.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="High Limit Racing - Race" tvg-logo="" group-title="MOTORSPORTS",High Limit Racing - Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/flo3.m3u8
-
 #EXTINF:-1 tvg-id="other" tvg-name="Lucas Oil Dirt Series - Race" tvg-logo="" group-title="MOTORSPORTS",Lucas Oil Dirt Series - Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -554,10 +559,8 @@ https://admin.formaturamaxi.com.br/flo2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/wec.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="تنیس Laver Cup: تیم اروپا - تیم جهان" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport8_small.jpg?18600" group-title="Aparat Sport Live",تنیس Laver Cup: تیم اروپا - تیم جهان
-https://www.aparatsport.ir/adele/getAparatManifest/57N11bf45061A0C/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="دوستانه ملی: آمریکا - پرو" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport5_small.jpg?64728" group-title="Aparat Sport Live",دوستانه ملی: آمریکا - پرو
-https://www.aparatsport.ir/adele/getAparatManifest/hs143f053824EF0/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="دوستانه ملی: کانادا - شیلی" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport5_small.jpg?46599" group-title="Aparat Sport Live",دوستانه ملی: کانادا - شیلی
+https://www.aparatsport.ir/adele/getAparatManifest/7N80edad72E9A7D/master.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت های اروپا: اسلوونی - اسکاتلند" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1657611966-tp.png" group-title="Aparat Sport Today",لیگ ملت های اروپا: اسلوونی - اسکاتلند
 https://www.aparatsport.ir/m/kji3b4a0E539A6A
