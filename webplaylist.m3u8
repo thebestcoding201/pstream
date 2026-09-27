@@ -82,32 +82,12 @@ https://admin2.passionepizza.com.br/foxd.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="" group-title="SOCCER",Columbus Crew vs Inter Miami
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fs2.m3u8
+https://tedesco.formaturamaxi.com.br/mls.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="" group-title="SOCCER",Columbus Crew vs Inter Miami
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.passionepizza.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="" group-title="SOCCER",Columbus Crew vs Inter Miami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/itv.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="" group-title="SOCCER",Columbus Crew vs Inter Miami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.passionepizza.com.br/itv.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="" group-title="SOCCER",Columbus Crew vs Inter Miami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/espn.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="" group-title="SOCCER",Columbus Crew vs Inter Miami
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.passionepizza.com.br/espn.m3u8
+https://tedesco.passionepizza.com.br/mls.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Curaçao vs Nicaragua" tvg-logo="" group-title="SOCCER",Curaçao vs Nicaragua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -394,6 +374,16 @@ https://admin2.formaturamaxi.com.br/nfl9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.passionepizza.com.br/nfl9.m3u8
 
+#EXTINF:-1 tvg-id="other" tvg-name="Minnesota Vikings vs Tampa Bay Buccaneers" tvg-logo="" group-title="NFL",Minnesota Vikings vs Tampa Bay Buccaneers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/bucs.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Minnesota Vikings vs Tampa Bay Buccaneers" tvg-logo="" group-title="NFL",Minnesota Vikings vs Tampa Bay Buccaneers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.passionepizza.com.br/bucs.m3u8
+
 #EXTINF:-1 tvg-id="other" tvg-name="Baltimore Ravens vs Dallas Cowboys" tvg-logo="" group-title="NFL",Baltimore Ravens vs Dallas Cowboys
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -499,8 +489,8 @@ https://admin2.formaturamaxi.com.br/nascar.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="دوستانه ملی: بولیوی - پاراگوئه" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport8_small.jpg?29560" group-title="Aparat Sport Live",دوستانه ملی: بولیوی - پاراگوئه
-https://www.aparatsport.ir/adele/getAparatManifest/Ny3638928FC87C3/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ فوتبال آمریکا MLS: کلمبوس - اینتر میامی" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport1_small.jpg?28176" group-title="Aparat Sport Live",لیگ فوتبال آمریکا MLS: کلمبوس - اینتر میامی
+https://www.aparatsport.ir/adele/getAparatManifest/Q0D1ba86ADCE2E5/master.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="دوستانه ملی: آمریکا - پرو" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1657611430-tp.png" group-title="Aparat Sport Today",دوستانه ملی: آمریکا - پرو
 https://www.aparatsport.ir/m/hs143f053824EF0
