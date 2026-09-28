@@ -74,26 +74,6 @@ https://admin.formaturamaxi.com.br/fs2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.passionepizza.com.br/fs2.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="Belgium vs France" tvg-logo="" group-title="SOCCER",Belgium vs France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Belgium vs France" tvg-logo="" group-title="SOCCER",Belgium vs France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.passionepizza.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Belgium vs France" tvg-logo="" group-title="SOCCER",Belgium vs France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/france.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Belgium vs France" tvg-logo="" group-title="SOCCER",Belgium vs France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.passionepizza.com.br/france.m3u8
-
 #EXTINF:-1 tvg-id="other" tvg-name="Botswana vs Tunisia" tvg-logo="" group-title="SOCCER",Botswana vs Tunisia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -284,13 +264,6 @@ https://admin2.formaturamaxi.com.br/nascar.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: بلژیک - فرانسه" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport1_small.jpg?22589" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: بلژیک - فرانسه
-https://www.aparatsport.ir/adele/getAparatManifest/9Zlf6de24A65BC8/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: ترکیه - ایتالیا" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport2_small.jpg?65067" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: ترکیه - ایتالیا
-https://www.aparatsport.ir/adele/getAparatManifest/aIS427095F7A843/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: ایرلند شمالی - مجارستان" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport3_small.jpg?24459" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: ایرلند شمالی - مجارستان
-https://www.aparatsport.ir/adele/getAparatManifest/Tj4a451f900C49D/master.m3u8
-
 #EXTINF:-1 tvg-id="other" tvg-name="دوستانه ملی: بولیوی - پاراگوئه" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1693940913-tp.png" group-title="Aparat Sport Today",دوستانه ملی: بولیوی - پاراگوئه
 https://www.aparatsport.ir/m/Ny3638928FC87C3
 #EXTINF:-1 tvg-id="other" tvg-name="لیگ فوتبال آمریکا MLS: کلمبوس - اینتر میامی" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1690377736-tp.png" group-title="Aparat Sport Today",لیگ فوتبال آمریکا MLS: کلمبوس - اینتر میامی
@@ -303,6 +276,12 @@ https://www.aparatsport.ir/m/Uec5804d7AF4D4C
 https://www.aparatsport.ir/m/5tva6fd0A30A05A
 #EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت های اروپا: ارمنستان - مونته‌ نگرو" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1689149549-tp.png" group-title="Aparat Sport Today",لیگ ملت های اروپا: ارمنستان - مونته‌ نگرو
 https://www.aparatsport.ir/m/x8vc154c51E421A
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت های اروپا: بلژیک - فرانسه" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1658574775-tp.png" group-title="Aparat Sport Today",لیگ ملت های اروپا: بلژیک - فرانسه
+https://www.aparatsport.ir/m/9Zlf6de24A65BC8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت های اروپا: ترکیه - ایتالیا" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1710686487-tp.png" group-title="Aparat Sport Today",لیگ ملت های اروپا: ترکیه - ایتالیا
+https://www.aparatsport.ir/m/aIS427095F7A843
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت های اروپا: ایرلند شمالی - مجارستان" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1689149887-tp.png" group-title="Aparat Sport Today",لیگ ملت های اروپا: ایرلند شمالی - مجارستان
+https://www.aparatsport.ir/m/Tj4a451f900C49D
 #EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت های اروپا: رومانی - بوسنی" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1686903224-tp.png" group-title="Aparat Sport Today",لیگ ملت های اروپا: رومانی - بوسنی
 https://www.aparatsport.ir/m/b1i0783eB9D6D68
 
