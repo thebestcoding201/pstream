@@ -12,32 +12,32 @@ https://admin2.formaturamaxi.com.br/fs2.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="France vs Belgium" tvg-logo="" group-title="SOCCER",France vs Belgium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fubo.m3u8
+https://admin2.formaturamaxi.com.br/virgin.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="France vs Belgium" tvg-logo="" group-title="SOCCER",France vs Belgium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/espn.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Ukraine vs Hungary" tvg-logo="" group-title="SOCCER",Ukraine vs Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/s4c.m3u8
+https://tedesco.formaturamaxi.com.br/fsp.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Romania vs Sweden" tvg-logo="" group-title="SOCCER",Romania vs Sweden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Romania vs Sweden" tvg-logo="" group-title="SOCCER",Romania vs Sweden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/portes.m3u8
+https://admin2.formaturamaxi.com.br/romania.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Northern Ireland vs Georgia" tvg-logo="" group-title="SOCCER",Northern Ireland vs Georgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fsp.m3u8
+https://admin2.formaturamaxi.com.br/bbc.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Bosnia & Herzegovina vs Poland" tvg-logo="" group-title="SOCCER",Bosnia & Herzegovina vs Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/tele.m3u8
+https://tedesco.formaturamaxi.com.br/fubo.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="" group-title="MLB",Chicago White Sox vs Cleveland Guardians
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -144,31 +144,32 @@ https://admin.formaturamaxi.com.br/mxgp.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/nas.m3u8
 
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: فرانسه - بلژیک" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport1_small.jpg?74270" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: فرانسه - بلژیک
+https://www.aparatsport.ir/adele/getAparatManifest/wP2491790D36518/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: ایتالیا - ترکیه" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport2_small.jpg?25517" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: ایتالیا - ترکیه
+https://www.aparatsport.ir/adele/getAparatManifest/l6T866cb2170C0F/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: مونته نگرو - ارمنستان" tvg-logo="https://live.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/aparatsport6_small.jpg?12340" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: مونته نگرو - ارمنستان
+https://www.aparatsport.ir/adele/getAparatManifest/uONd1cf9354F51A/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: ایرلند شمالی - گرجستان" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport4_small.jpg?80335" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: ایرلند شمالی - گرجستان
+https://www.aparatsport.ir/adele/getAparatManifest/3Ca76ed917E5D4A/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: رومانی - سوئد" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport5_small.jpg?20486" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: رومانی - سوئد
+https://www.aparatsport.ir/adele/getAparatManifest/U6kcd9202DD45D4/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: اوکراین - مجارستان" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport_small.jpg?91335" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: اوکراین - مجارستان
+https://www.aparatsport.ir/adele/getAparatManifest/Qfda767d73BC75E/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: بوسنی و هرزگوین - لهستان" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport3_small.jpg?71935" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: بوسنی و هرزگوین - لهستان
+https://www.aparatsport.ir/adele/getAparatManifest/fnrc30eaEED87BF/master.m3u8
+
 #EXTINF:-1 tvg-id="other" tvg-name="دوستانه ملی: ژاپن - نیوزلند" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1657610050-tp.png" group-title="Aparat Sport Today",دوستانه ملی: ژاپن - نیوزلند
 https://www.aparatsport.ir/m/H6I13558AF83327
 #EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: قبرس - لتونی" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1679687202-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: قبرس - لتونی
 https://www.aparatsport.ir/m/Ltqd0bd54DB3D24
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: فرانسه - بلژیک" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1657611493-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: فرانسه - بلژیک
-https://www.aparatsport.ir/m/wP2491790D36518
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: ایتالیا - ترکیه" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1657611369-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: ایتالیا - ترکیه
-https://www.aparatsport.ir/m/l6T866cb2170C0F
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: ایرلند شمالی - گرجستان" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1689149887-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: ایرلند شمالی - گرجستان
-https://www.aparatsport.ir/m/3Ca76ed917E5D4A
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: اوکراین - مجارستان" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1658757040-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: اوکراین - مجارستان
-https://www.aparatsport.ir/m/Qfda767d73BC75E
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: بوسنی - لهستان" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1658922798-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: بوسنی - لهستان
-https://www.aparatsport.ir/m/fnrc30eaEED87BF
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: رومانی - سوئد" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1686903224-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: رومانی - سوئد
-https://www.aparatsport.ir/m/U6kcd9202DD45D4
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت&zwnj;های اروپا: مونته‌ نگرو - ارمنستان" tvg-logo="https://static.cdn.asset.aparatsport.ir/agf/tagPic_1658923142-tp.png" group-title="Aparat Sport Today",لیگ ملت&zwnj;های اروپا: مونته‌ نگرو - ارمنستان
-https://www.aparatsport.ir/m/uONd1cf9354F51A
 
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.AE" tvg-name="ABU DHABI SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp" group-title="TV",ABU DHABI SPORTS 1 [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201&code=ae&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201&code=ae&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb0e0/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMGUwOjE3OTEyMDU4MTYxNTc6Y2RubGl2ZXR2LnR2OjY3MWZkZTRiMDE4NjExODYuYTVmODVlN2UzY2E0ODY2OTE3MDY0Y2I3MzZmNWE3NGJhZTg2MmFkZTRlYmU5ZDE2MDY3MjJhNGQ4ZDk1YTQxMA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb0e0/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMGUwOjE3OTEyMzg5NDMzMjY6Y2RubGl2ZXR2LnR2OjU3NmEwOGNhZTBhZDliOTIuMWU5OTlkMGRjZmU2MDAxNzFmZGEzYmY2Y2Y3MTM3OGVhMDUyZTdiYTYxMTRmY2E4MmJhZjYyODk2YjRiZmU3MA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="ae" tvg-name="ABU DHABI SPORTS 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp" group-title="TV",ABU DHABI SPORTS 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb0e0/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMGUwOjE3OTExNjk0ODYyNzE6Y2RubGl2ZXR2LnR2OmY0Y2I3Njk5N2MwMzI5MTUuMGQ2Nzk5MjZjNWM4ZWQ1MjNiYjRmODdhNGE0YmI5ZGE0N2Y0NmQ4Y2YyODlhYjViMjIyMzgxZTU3MjY3ZDQyYQ
@@ -178,53 +179,17 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb0e0/playlist.m3u8?token=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/0jzj42b0vbut7i12bel3a/master.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS.US" tvg-name="BEIN SPORTS [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports.webp" group-title="TV",BEIN SPORTS [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS&code=us&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS&code=us&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb58e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNThlOjE3OTEyMDU5MzEyOTk6Y2RubGl2ZXR2LnR2OmRlMmZkMzBmMzM4NTFhMjcuZmQ1OTljZjg3Njc1Nzc2YmEwZWUxNjM5Y2VlYWE2ZGIzOWNiNTVlZjNmNDU1Y2ZlZDZiZWQzOGY2OTg2N2M1NA|x-forwarded-for:109.236.88.82
-
-#EXTINF:-1 tvg-id="beINSPORTS1.FR" tvg-name="BEIN SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1.webp" group-title="TV",BEIN SPORTS 1 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3OTEyMDU5MzIwNDM6Y2RubGl2ZXR2LnR2OjFhZmE2OTg3YzZmOGFhMGYuN2Q0N2NiZDRmNDQ4ODRhMTAxMzg0YzQzYmIyN2ZhNTQ3YTAxNmFmNzE0N2QwYTgwNDQ5ODRkYzAwNjVlZmNjMg|x-forwarded-for:109.236.88.82
-
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="BEIN SPORTS 1 FRANCE [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89738_dark_360w_270h.png" group-title="TV",BEIN SPORTS 1 FRANCE [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3OTEyMjE0NTUyOTI6Y2RubGl2ZXR2LnR2OmVmOTU5ZDkzZmIxOGVjOGEuZDg2NDlhNzIxNjVlMjEzMDQxNDhlYzYzZTYyMTFjYzY5M2MwNjNhZjU3YTM1ZDc0M2MxOTI5ODU3ZGZjYWE5Nw
-
-#EXTINF:-1 tvg-id="beINSPORTS2.FR" tvg-name="BEIN SPORTS 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-2.webp" group-title="TV",BEIN SPORTS 2 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a4/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWE0OjE3OTEyMDU5MzQzMjc6Y2RubGl2ZXR2LnR2OjUzZTAzNTBjNzkyOGQ5YjkuMDIzODc0ODA3N2I4YTQxODY3YmFhZDMyYWI1NTRlYmEyNzAyYmRlZmZiNWIyNzlkZWQ1MTdmYTgwN2I3NjQxZA|x-forwarded-for:109.236.88.82
-
-#EXTINF:-1 tvg-id="beINSPORTS3.FR" tvg-name="BEIN SPORTS 3 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-3.webp" group-title="TV",BEIN SPORTS 3 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%203&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%203&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a4/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWE0OjE3OTEyMDU5MzQzMjc6Y2RubGl2ZXR2LnR2OjUzZTAzNTBjNzkyOGQ5YjkuMDIzODc0ODA3N2I4YTQxODY3YmFhZDMyYWI1NTRlYmEyNzAyYmRlZmZiNWIyNzlkZWQ1MTdmYTgwN2I3NjQxZA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3OTEyMzk0NTUxNDE6Y2RubGl2ZXR2LnR2OjI4YjdjOTkxNTE4MjQ5ZDAuYzY5ZGM2M2E4YjUxNzdiMWFlNzQ4ODFhNmFjMjNkZGZmZmFiZWI2ZmZjNTBiZWEzMWNmMjFhMDZhMWUzMjA4MA
 
 #EXTINF:-1 tvg-id="beIN.Sports.En.Español.HD.us2" tvg-name="BEIN SPORTS EN ESPAñOL [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png" group-title="TV",BEIN SPORTS EN ESPAñOL [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5d6/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWQ2OjE3OTEyMjE0NTU0ODg6Y2RubGl2ZXR2LnR2OjEwMDhkNDcyOTFkZTExZWQuYjM5NzYwYmJiMTVhNmU1NzhkN2Q0MjE2ODQ2ZDU1NjNkYzBkZmVkN2EzYTJlMmNlNjA5NGUyYzMwOWVkN2RkNw
-
-#EXTINF:-1 tvg-id="beINSPORTSMAX7.FR" tvg-name="BEIN SPORTS MAX 7 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-7.webp" group-title="TV",BEIN SPORTS MAX 7 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%207&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%207&code=fr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd243/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjQzOjE3OTEyMDU5MzU0NTg6Y2RubGl2ZXR2LnR2OjViZTRkNzEzOWU1N2NiMjAuNGM5NzIzMjRiNjQwYThjZDJkYjk4MzM5ZjI2YjYxNjViNmQ4ZDBjMjgyNTA5MjE1NjZmZjEwMDA4ZTA4ZjlkMg|x-forwarded-for:109.236.88.82
-
-#EXTINF:-1 tvg-id="beINSPORTSN.ES" tvg-name="BEIN SPORTS N [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/bein-sports-n.webp" group-title="TV",BEIN SPORTS N [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20N&code=es&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20N&code=es&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5d6/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWQ2OjE3OTEyMDU5MzYwMTk6Y2RubGl2ZXR2LnR2OjY5ZmYxZThkYjg5ZTdlMjYuZThiNzc2MmZmODU4OTQ4ODNhOGE2MDI3ZmUyZmY2NjgyMDc1Y2QxYzczNzQzNmZhZGRhYmQ3Y2ExMDI2N2E4YQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5d6/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWQ2OjE3OTEyMzk0NTUzMzQ6Y2RubGl2ZXR2LnR2OmI3N2Q5MzVkM2EzYzU2ZjguYmMxM2RmOGJkZWYxNmM3NmI0OTE0MzcwMTY2OGU0NDA0YWYxZGEzZmE3NWUwYjBiM2ViMjFlZTg5ZWMxZjEyYQ
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="BEIN SPORTS USA [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76942_dark_360w_270h.png" group-title="TV",BEIN SPORTS USA [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca97e/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOTdlOjE3OTEyMjE0NTU2OTU6Y2RubGl2ZXR2LnR2OjQ4YTAzNDYyYmI2OTY4YzMuYTMzNTBkMWVhZDE5ODYxZTg5OTdkMmRjMGJhODgwZmYzNGIyMzM1ODI1OTUyMWQ3NWFkZTBhZTQ1MTBhMmFkNQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca97e/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOTdlOjE3OTEyMzk0NTU1MzY6Y2RubGl2ZXR2LnR2OmJhMmQ1ZTg5OWI0Nzk1ZTcuYjgxNzY1ZmQzYzEyNDA3ZTRmYTkwNjUzOGY2ZTM3ZTk2ZmMyOWVkZmRlYjVkM2E5OTIxZWY4MTRiMTI3M2RmYQ
 
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="BEIN SPORTS XTRA [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113143_dark_360w_270h.png" group-title="TV",BEIN SPORTS XTRA [S3]
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -233,7 +198,7 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%20Sport&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%20Sport&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1fa/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWZhOjE3OTEyMDU4NDMwNTA6Y2RubGl2ZXR2LnR2OmJhMDg3ZWQ1ZjJhNjkzMDEuYTVmOGYzNDEwOWI3YzA3MzE4MGFjNzM4YmFhYjA4MjM5NDExYzc5M2E5ODRkYjhhMzdmOTEzYzYzOTgxNDk5OQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1fa/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWZhOjE3OTEyMzg5NjQ5Nzc6Y2RubGl2ZXR2LnR2OmNhMzcxMTFjMjQzNDI5NjYuYjllZjQ5OTJhMzQwMDdhMzhiMTZiZWU2MGFkMWRlYTM1MTA2YmRiODdhMzQ4MDgzZjM5Zjk4YWI0ZDJjY2I3Yw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="fr" tvg-name="CANAL SPORT [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-sport.webp" group-title="TV",CANAL SPORT [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1fa/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWZhOjE3OTExNjk1MDA4NzE6Y2RubGl2ZXR2LnR2OmNhMmFjOTc5ZjczMjRhN2EuNGY2ZjAxMGNkNDc3MjI5NzM4ZWIzMDQzZWZhYmQ3NzExZmY4ZjdhZDEwM2ZlNDEyZjZkZmQzZDNmYTkwYmQ3ZQ
@@ -254,7 +219,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd307/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%20Sport360&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%20Sport360&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1f7/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWY3OjE3OTEyMDU4NDM2MTU6Y2RubGl2ZXR2LnR2OmI4ODJiMDEyMzMzNjEzNzAuNjhjNWFmNTc3MGRjNDgyZGIxZDczZWE4ZGNlMjVlMmUxNjAyYzNiYjFhNDNjM2QxNzc2MWIzN2Q5MjljNjFjYQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1f7/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWY3OjE3OTEyMzg5NjUzODA6Y2RubGl2ZXR2LnR2Ojc3MjhlOWM2M2Q4ZDViNDguOGRjNGU0YmQ5YzU3MzdmZWU3ZTk5NWFlYWYwMzJjOWNiMDQxNDMyMTdmNGFhMmZlNzY3NjY2MWE1Mzc1OGUzOA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="fr" tvg-name="CANAL SPORT360 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-sport360.webp" group-title="TV",CANAL SPORT360 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1f7/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWY3OjE3OTExNjk1MDMxNjg6Y2RubGl2ZXR2LnR2OjQyZDc3MTY4ODYxMmZmZmEuMzY3ZDA2Njc0NmFmNDZiMDExYzA3NTZhNDcwY2JmMzg1YWQ0OTY0MmJlNGFmNDE4NGFkMzVhYTI2YjI0MTIxNQ
@@ -263,7 +228,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1f7/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20Sports%20Golazo&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20Sports%20Golazo&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTEyMDU4MjkzNDU6Y2RubGl2ZXR2LnR2OjEwYWI0OTNmMGQ1YmJlOTAuY2ZlZjM2MTEwZDcwYjE5ZTkzMTJkYjlhMWY5YTEwMDI5OWI1MGEyYmE3NjI5MDFjYWQ0ZmI4ZDlmMjEzMzIyYQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTEyMzg5NjE3MTY6Y2RubGl2ZXR2LnR2OjBmMzYzZjRlZDYzYzgwZDYuNjk4Nzk4ZTJlNzg2NDc3NjVmNTFjMmU5MzE5NDRhNGI2OWViYjE0NzI4NjViMmE2NWM4OGMzYTM1ZTdjZmM1OQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="us" tvg-name="CBS SPORTS GOLAZO [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-sports-golazo.webp" group-title="TV",CBS SPORTS GOLAZO [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb598/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTk4OjE3OTExNjk0OTIzNTY6Y2RubGl2ZXR2LnR2OjhjMGM5NGIwYzc2NzhhZDYuMzc0OTNlMmZhN2Q5ODY5MmVjNTUwMTYxYTc4Njg4OTNhNGUwZDQwMGQ2MTMyMGQyZDE4NDQyOWJjMDkwODUyZA
@@ -273,13 +238,13 @@ https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS SPORTS NETWORK [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="TV",CBS SPORTS NETWORK [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb597/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTk3OjE3OTEyMjE0NTYxMDk6Y2RubGl2ZXR2LnR2OjUyZTc1NWIyNWNiNjM5ZTcuNDhiMmUyNGRjZDMzYmZiMjk3NzUxNzU3ZDk4MjU0ZjYxZDVlZDY5MDQ3ODZlZTY2YjZmNjU3NTkwNmIwZDJlMg
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb597/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTk3OjE3OTEyMzk0NTU5NTQ6Y2RubGl2ZXR2LnR2OjhhNDQxNmMxNDY0ZGJkMzIuZGViZDRhNjU0NTRkNjk0ZDE2YWNjNmMyN2VlYWRmYmUwNTdiZTk4YzRkMDkyYjdkZDJlNWJkYjFkNTE0ZGE5YQ
 
 #EXTINF:-1 tvg-id="ChicagoSportsNetwork.US" tvg-name="CHICAGO SPORTS NETWORK [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-sports-network.webp" group-title="TV",CHICAGO SPORTS NETWORK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb311/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzExOjE3OTEyMDU4NDU4ODg6Y2RubGl2ZXR2LnR2OmU5NmM4YTBhN2NjZWYyZDkuZmYwNjkxOGU2YzJmMWQ5Y2U2MjM0NzNmNWFhNTQ0ZDEwNjAxMWFkODI4MDBkZDU3YmE1OTVkZGFmMzUxOWUxMQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb311/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzExOjE3OTEyMzg5NjcwMzE6Y2RubGl2ZXR2LnR2OmRiNGEyODhiOTc5Yzc1NmYuYWFlOTJkYjRmNzk5NjE0NjU2YjIyNDg4MzM4MTQxZWU3YTYwN2Q1NDU5ZDkzNWRiYmVjYzlmMzkzNmRmZjVmMA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="us" tvg-name="CHICAGO SPORTS NETWORK [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-sports-network.webp" group-title="TV",CHICAGO SPORTS NETWORK [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb311/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzExOjE3OTExNjk1MDU3Mjg6Y2RubGl2ZXR2LnR2OmI3YzJjNWU1ZTY0MDdkY2UuMGMyMWY2Y2YxODNkYjkxMmI2Y2ZjOGM5MWE0NDE1NTZkMWNlNjU3ZmM4YWVjNjMyYzI3YjJmYzUyYzViZGVhYQ
@@ -310,12 +275,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd613/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="gr" tvg-name="COSMOTE SPORT 9 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp" group-title="TV",COSMOTE SPORT 9 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd614/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjE0OjE3OTExNjk1MTA4MTY6Y2RubGl2ZXR2LnR2OmM0M2NhNGVhMDkxNDg5NzUuMmIyMTQyZWNiNmMyZTE5NDU3M2RjNjk3ZWE4YTQzMTlmZDEwZjQ0YzY2ZTBmZjcxNzk1ZTMzZTc5MGZkZDIwZg
 
-#EXTINF:-1 tvg-id="CytavisionSports1.CY" tvg-name="CYTAVISION SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-1.webp" group-title="TV",CYTAVISION SPORTS 1 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%201&code=cy&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%201&code=cy&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd72d/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzJkOjE3OTEyMDU4NDgxNjk6Y2RubGl2ZXR2LnR2OjFiODZkMDRkMjE0NDU2NWIuOTcwYmIwM2E3NmQzODE5Mjk1ZWZjZDNiMDkwNjg1YjRkODQzMmY3Y2E4NTkxOWM4MTBjMjZjMDlhMTcwNTUyZQ|x-forwarded-for:109.236.88.82
-
 #EXTINF:-1 tvg-id="cy" tvg-name="CYTAVISION SPORTS 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-1.webp" group-title="TV",CYTAVISION SPORTS 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd72d/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzJkOjE3OTExNjk1MTE5Mzk6Y2RubGl2ZXR2LnR2OmE1NjVjMjgxOGQ5MWI2MTIuMzMxZjY3ZmE2MTNiNWEyMmIxOWQ1OGViOWRkOTdjYjhlMDZjN2RhZjY3YjJhOTFkZjRmYmIzOTJhMTJkZjIyYg
 
@@ -330,12 +289,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd74e/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="cy" tvg-name="CYTAVISION SPORTS 5 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-5.webp" group-title="TV",CYTAVISION SPORTS 5 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd759/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzU5OjE3OTExNjk1MTMyMjY6Y2RubGl2ZXR2LnR2OjEzZTIyMTRjNGEwZjRkNjMuMTBjZWY5ZWIwNzQ0NTQwMDM4YjMxYjRmNTYxOTFjMmQ0Y2NkZWQ1ZGMyMjAwNmM4NDVjYjQ3ZGI3OTczZDNjYw
-
-#EXTINF:-1 tvg-id="CytavisionSports6.CY" tvg-name="CYTAVISION SPORTS 6 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-6.webp" group-title="TV",CYTAVISION SPORTS 6 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%206&code=cy&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%206&code=cy&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd765/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzY1OjE3OTEyMDU4NDg3Mzc6Y2RubGl2ZXR2LnR2OjZlMDQyODRmMDA1YTZkY2MuZWUzMDczZTYxM2JiOTI0NWEyZTU1Mzg5ZWQyZmY5NmUzOWM3MDUzZDUxMTFkNTQ0MmM3ZjhmMzk0MzFiNzQyZQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="cy" tvg-name="CYTAVISION SPORTS 6 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-6.webp" group-title="TV",CYTAVISION SPORTS 6 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd765/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzY1OjE3OTExNjk1MTM0MTg6Y2RubGl2ZXR2LnR2OmYyMmVlZjMyZDllZDcwYmEuZWU4MDkwZjkzZTEyYTIyNTViNjczZGM0OWEwNjVmZTI1ZDFmZWVjZjI3NWJlN2NkNzRkZGNiNjM2NDY4YzEzNQ
@@ -377,16 +330,10 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd32e/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3OTEyMDU4NTc4NjI6Y2RubGl2ZXR2LnR2OjJjOWVmNjMxZmJiZWUxMzQuYjZlYWE5MjUzZmQzNTY5MjBkNzZlNTFkMTYzMDFlOWQzYmM5OTg0ODcyNzRkYmZkNmE5OTllNzgxZDQ0Y2Y3NQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59f/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTlmOjE3OTEyMzg5ODg3MTA6Y2RubGl2ZXR2LnR2OjMxOGEwYjMyYTg3MzViMjYuY2VlNGRlZDE2OGFhYzU5OTlmZmZlNmRkZjY3ZjZmZGNiNjg1NTAwY2I2OWVmYjNmOGZlOGVhMDlmOThhZjYyMA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="EURO SPORT 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.webp" group-title="TV",EURO SPORT 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVhOjE3OTExNjk1MzE2NDA6Y2RubGl2ZXR2LnR2OmUyMzA4MTU5ZmVjMTg1ZjYuMDJjNzIwMDU3NTQ1MjZhZGNjNDg4ZWJiMmM3M2Q5OTY1Y2JhYmNmODJkMDBjZTM0NDJiYjA0MDQyM2E4NjFiNA
-
-#EXTINF:-1 tvg-id="EuroSport2.GB" tvg-name="EURO SPORT 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.webp" group-title="TV",EURO SPORT 2 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzViOjE3OTEyMDU4NTg5Nzg6Y2RubGl2ZXR2LnR2OjdjNWY1MTE3NDUwY2M1NzUuMmRhNDI5MDQ5ZWY0ZTY0ODJkZjQyNDBkZTMxM2FmMjM3MDgzMzI3NzQ0OTkyZTFiYTBhYjQyNzY4ZmQyNmMyOA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="EURO SPORT 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.webp" group-title="TV",EURO SPORT 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzViOjE3OTExNjk1MzI5Mjc6Y2RubGl2ZXR2LnR2OjNmNGMwNWRmZWUxNjljOTMuYjlhNGFiMjgwY2JjODIzYzY2MWM0ZWEzZjZiNTM2ZDA3YmI1Zjg1OGVhOGM1ZTU3YjdhMTkyZjEwZGEyY2JiYw
@@ -395,13 +342,19 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35b/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%201&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%201&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTEyMDU4NjE5NzU6Y2RubGl2ZXR2LnR2OjZhYzY0YmMwMjdlM2RkMTEuNTlhNmUxMDhmODgwYTJkNmVkNDVhMjI5Mjg4NzY1MzU5MzE2Y2U4NDA5NjczM2RiZDQzZTk4NmI4MzBjOTVkYg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTEyMzg5OTA5MjI6Y2RubGl2ZXR2LnR2OmUzZGE3OTk0OGY2Y2Q5MDQuMTk4MmI0NzJjZTFiNmVmYjkzNDZjNThjZTljNzUyNWUwNjI4YzA0MWI5NWYwM2I4OTBlYmU3MTUxMDIxMmVmNg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="us" tvg-name="FOX SPORTS 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1.webp" group-title="TV",FOX SPORTS 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTExNjk1MzQ4MDU6Y2RubGl2ZXR2LnR2OjBkN2MyYzQ4YjRmMGU0OGYuYjYzOGQ0ZDUyMDQ0N2QzYzQ5ZWRhOTE0YWY5YjBiOWZmMjA5NjQ1NDdkNjFiMWJjMThkY2U1YjczZDRmMTQ5Ng
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="TV",FOX SPORTS 1 [S3]
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports2.AR" tvg-name="FOX SPORTS 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ar/fox-sports-2.webp" group-title="TV",FOX SPORTS 2 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=ar&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20Sports%202&code=ar&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWMzOjE3OTEyMzg5OTA5MjI6Y2RubGl2ZXR2LnR2OmUzZGE3OTk0OGY2Y2Q5MDQuMTk4MmI0NzJjZTFiNmVmYjkzNDZjNThjZTljNzUyNWUwNjI4YzA0MWI5NWYwM2I4OTBlYmU3MTUxMDIxMmVmNg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="mx" tvg-name="FOX SPORTS 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/fox-sports-2.webp" group-title="TV",FOX SPORTS 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3OTExNjk1MzU0NDc6Y2RubGl2ZXR2LnR2OmE2NmRmYWY1Zjg1ZDY4MzguYTUzNTM0MzQ0ZDFiNzQ1NThkMGQ2YjJkYjk5NWNiNDQxYTc1NTNkNTZmNjU5MzgxN2EyZTI4YjZjNDI1NTBjMw
@@ -416,12 +369,6 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf1f8/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="au" tvg-name="FOX SPORTS 501 CRICKET [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-501-cricket.webp" group-title="TV",FOX SPORTS 501 CRICKET [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf203/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjAzOjE3OTExNjk1MzY2NjY6Y2RubGl2ZXR2LnR2OjBmODczZjVhYzNjZjEyM2IuYTg5N2Y4ODkzN2VkOWQ2OGU3YjdhMGMzZWEyNDIxODc2MDFiOTlkZDMwNzhkNTM3MmJkMjZiMTE1MzRiYmFmMw
-
-#EXTINF:-1 tvg-id="FoxSports502.AU" tvg-name="FOX SPORTS 502 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-502.webp" group-title="TV",FOX SPORTS 502 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%20502&code=au&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%20502&code=au&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf20e/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjBlOjE3OTEyMDU4NjI1Mzk6Y2RubGl2ZXR2LnR2OjZiNmRmOTE2ODFhM2I1MjUuOWYyMzdlNzAzNzc3NjQwYjE5ZTYzNzlkMWFmYmYxOWZlMDQ1ZjhjNjJjNWNlZTBhMjFhNmYwOTU3NjA3ZDEzMg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="au" tvg-name="FOX SPORTS 502 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-502.webp" group-title="TV",FOX SPORTS 502 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf20e/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjBlOjE3OTExNjk1MzcwMzA6Y2RubGl2ZXR2LnR2OjQ0NDkwNTY1MjUyNTY0YmEuYzU5Y2U4YTA4MmFmMzNiMWE1YTRhYzY3ZjQwNDBhMGViNDIxZDM4ODZmMzdjNDk5YTE0YmJiM2E4ZDNmMDNmNQ
@@ -438,6 +385,12 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf272/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="au" tvg-name="FOX SPORTS 507 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-507.webp" group-title="TV",FOX SPORTS 507 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf288/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjg4OjE3OTExNjk1Mzg4MDk6Y2RubGl2ZXR2LnR2OmIyNzE5YjE1OWQ1OWQ2MmIuZjUyZjI0NDc2ODg4MGY5N2IxZWM0ZDY3NmE3NTg4M2IyYmQ3MDEyMDU5MDQ0MDFiOTExYjM2MWYxYTRmMDA4ZA
 
+#EXTINF:-1 tvg-id="FoxSportsNews.AU" tvg-name="FOX SPORTS NEWS [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-news.webp" group-title="TV",FOX SPORTS NEWS [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%20News&code=au&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%20News&code=au&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf29e/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjllOjE3OTEyMzg5OTE4MTE6Y2RubGl2ZXR2LnR2OmE1MDZlOWY2ZTVlYzJlYmIuZGQwMDgwZjM1N2U3N2Y2ZjZlNmFkOGMyYmYzZjdmODRiNmQ1Mjc0OGM4OTU0N2RlMGRmNmU3MGJkMGQ5MjI5Mw|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="au" tvg-name="FOX SPORTS NEWS [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-news.webp" group-title="TV",FOX SPORTS NEWS [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf29e/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjllOjE3OTExNjk1MzkwOTA6Y2RubGl2ZXR2LnR2OjAyYzBhZjNlNjVmNDQ0OTMuZWZjYzEzYTdhODFiNzMwMzBjMDI2ZGIyMzc4YjljOGU0NTg0NTc2MmI4MDNkYzM5NjFjODFhM2I0NjUyNzcwMg
 
@@ -445,7 +398,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf29e/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3OTEyMDU4Njc4MzA6Y2RubGl2ZXR2LnR2OjhjZWJkMzMyYjMxMjJkNWEuMGVkZWViNWE0YzY3YWM3N2Y3MjM4MjlmZWQ1Nzg4NmNlZjc5ODc1NzAwMWUwNzAzMzIyOGI0OWI3MzRmOTQ4Mw|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5ce/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3OTEyMzg5OTk0NTM6Y2RubGl2ZXR2LnR2OjEyODRmNjBmNDU0YjIwYTcuNmNiNzBkNGE1NWRiYTNlNzIxZmZlYjJhMTdlMDY3YTVjNGRkODFmYWZlY2E5MzFiNzQ2OWRiOWYyNTcwZGQzMw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="us" tvg-name="MARQUEE SPORTS NETWORK [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network.webp" group-title="TV",MARQUEE SPORTS NETWORK [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5ce/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNlOjE3OTExNjk1NDcxNTc6Y2RubGl2ZXR2LnR2OjFlZGQwOTI2MzQ3ZjU3ZDcuMTQ4MTk1ODA2NzE5ZTgxMGMwZWU1MmE5NmE0NjQyODgzZmI4MTk5OWM5NWNiMWU2MmY2YjhlMWI2NGU4YWE0ZA
@@ -471,7 +424,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf4e/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Monumental%20Sports%20Network&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Monumental%20Sports%20Network&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb509/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTA5OjE3OTEyMDU4Njk1Mjk6Y2RubGl2ZXR2LnR2OjQ2Nzk5MWFjZmJhZjJlZTMuYTQ0NTMyMmI5ZGYyN2I0MjllYTY5MjE1ZDUxNzYxZDI5MWQ5YWM0OTRiNTJmNDFiNzYwMWZmYjQyZWRkZDJkMA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb509/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTA5OjE3OTEyMzkwMDIzNzg6Y2RubGl2ZXR2LnR2OmRiZThhNzI5YWZhZGIyMGIuYWNlMjMxMGM4M2Y2YTdlNzI3Y2M3Yjg5NWFkNGRhNTk3YmE1ZTVjZTZhZTI3YjRkZDJhMmFjNTYyNzMzMWRhOA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="us" tvg-name="MONUMENTAL SPORTS NETWORK [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/monumental-sports-network.webp" group-title="TV",MONUMENTAL SPORTS NETWORK [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb509/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTA5OjE3OTExNjk1NTIxMDE6Y2RubGl2ZXR2LnR2OmQ1ZTdlNmNjNDA4ZTYwNmQuMzRlYzkwMzlkNGRlZDYyY2UyNjc2NWFhYzQ3ZDc0Mzg2NzEyMTJlNTgyYWZlNTBiNmJlNmQwZTIzY2UwZDBjYg
@@ -497,26 +450,50 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC SPORTS PHILADELPHIA [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="TV",NBC SPORTS PHILADELPHIA [S3]
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="NovaSport.BG" tvg-name="NOVA SPORT [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/nova-sport.webp" group-title="TV",NOVA SPORT [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport&code=bg&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport&code=bg&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf61/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjYxOjE3OTEyMzkwMTQ4MTc6Y2RubGl2ZXR2LnR2OjgzM2Y3MjkxMjQxNmRlN2MuZTZlODc1ZjdiZWE1Njc0ZmMyNjFmZjMzOGJlNWU3YjA5NjIxNWFjZjk1NTYzZTRmMTQwM2ZjOTlhYmFmYTI1ZA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="bg" tvg-name="NOVA SPORT [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/nova-sport.webp" group-title="TV",NOVA SPORT [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf61/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjYxOjE3OTExNjk1NTkyMzc6Y2RubGl2ZXR2LnR2OjBmZmE4ZTFiMDRlZGFhODYuODU2NDY1ODNhZTg3NTIxNjNiYTM1NTIyYjM5ZmRiOGI1MTU5MGIxODRhZDEyY2ViMTlhNWE1M2EwY2VhNWMyYg
+
+#EXTINF:-1 tvg-id="NovaSport3.CZ" tvg-name="NOVA SPORT 3 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sport-3.webp" group-title="TV",NOVA SPORT 3 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd6f5/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNmY1OjE3OTEyMzkwMTUyMTM6Y2RubGl2ZXR2LnR2OmI0MGEwNjhiYzVlYTc0MmMuYTRiNjMwNjdiMDZhZWFkNzk1MmJkN2RmOTM4Y2U1NmVjYjdlYjEwNWVjZDVkYTZlM2UzZjViNTk0Yzk3OGRmNA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="cz" tvg-name="NOVA SPORT 3 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sport-3.webp" group-title="TV",NOVA SPORT 3 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd6f5/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNmY1OjE3OTExNjk1NTkyNzk6Y2RubGl2ZXR2LnR2OjZjNmNlYzcxM2FhN2I4MWYuODljNjIwYzI4NjJmMzU4YTlkNjhmMjI3NjdkNDRiN2Q1Y2QwNGFlNTg3ZTEyMmZhZjZjMDM5NDA0YzMwM2ZhMw
 
+#EXTINF:-1 tvg-id="NovaSport5.CZ" tvg-name="NOVA SPORT 5 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sport-5.webp" group-title="TV",NOVA SPORT 5 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205&code=cz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205&code=cz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd7d3/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkN2QzOjE3OTEyMzkwMTU2MTU6Y2RubGl2ZXR2LnR2OmRjZDdhYTM2Y2Y2ZWU3NmEuZGJmOGNkZDhhMjc3OTc4YzQyMGI1NjUwODgyZjg0NjFiMmQ0YTQ4Mjk5MTM1NmFiMjY3M2Y0ZTRiYWNhMmQyYw|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="cz" tvg-name="NOVA SPORT 5 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sport-5.webp" group-title="TV",NOVA SPORT 5 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd7d3/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkN2QzOjE3OTExNjk1NjA3MjQ6Y2RubGl2ZXR2LnR2OjY3OTYzZDhlMjg0NTYyYWIuN2NlNTMyNzJiM2E0MDE0YWNmOWFjMDQxMWVmMjcwZjU2YTA0YzBmZjZmZWU3ZjhiZTQyNTRiYWQ3NWRiODU3Mg
+
+#EXTINF:-1 tvg-id="NovaSportsNews.GR" tvg-name="NOVA SPORTS NEWS [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-news.webp" group-title="TV",NOVA SPORTS NEWS [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20News&code=gr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20News&code=gr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf60/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjYwOjE3OTEyMzkwMTY0MDA6Y2RubGl2ZXR2LnR2OjEzNDg1YTYxZjJkYWZiM2MuMTg4YmZkMDU1ZmNiNTBmYzAzOTBjZTQ2YTUyNTdmNjJmODU2YTQzNzZiZmM2OWVjOGMzMjM0NWM2YjY4Y2I2Mg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gr" tvg-name="NOVA SPORTS NEWS [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-news.webp" group-title="TV",NOVA SPORTS NEWS [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf60/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjYwOjE3OTExNjk1NjAzOTU6Y2RubGl2ZXR2LnR2OjkxZjQ3MTcxYTBkZTQ4NmQuZmM3ZDkzZWJkNDc0NmExMzZjYzA5MGJlNzIyOTZkOTVlMzVmMzUyZGE4YTk0YmNhZTg1YzQ3YzU3NmZkZWVlOA
 
-#EXTINF:-1 tvg-id="NovaSportsPrime.GR" tvg-name="NOVA SPORTS PRIME [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-prime.webp" group-title="TV",NOVA SPORTS PRIME [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime&code=gr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime&code=gr&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb413/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDEzOjE3OTEyMDU4NzQ2MjU6Y2RubGl2ZXR2LnR2OjE5ZGMyYzY2NGEwYWZkZWEuMmQ3MzUyMzEyZjhmNzMzMWQ5N2ZmZTQ5M2FmZDNhMmU0OWExNWI5ODkyMThlNjFkZjM5OTI3OWE0YjY1MTA5OA|x-forwarded-for:109.236.88.82
-
 #EXTINF:-1 tvg-id="gr" tvg-name="NOVA SPORTS PRIME [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-prime.webp" group-title="TV",NOVA SPORTS PRIME [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd842/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkODQyOjE3OTExNjk1NjA0MTA6Y2RubGl2ZXR2LnR2OjRmZDdkMjQzMzkzY2RkODkuYjU4ZjRiM2Y1MGNhMjg3YWY1YjIzMmU3NWNmNmI1NTg5YmMxOGNhODJiMGQyOWIxY2M5NjAxMTA1ODVjZDIyYQ
+
+#EXTINF:-1 tvg-id="NovaSportsStart.GR" tvg-name="NOVA SPORTS START [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-start.webp" group-title="TV",NOVA SPORTS START [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Start&code=gr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Start&code=gr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd64c/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjRjOjE3OTEyMzkwMTY4MzY6Y2RubGl2ZXR2LnR2OjU4Y2QzMzViOTIxNWMyYzIuM2U4YmMzNDAyMjcyN2MxNDE3MzcyYjhjYzFiN2FmZGMxY2YzMzM1NDQ3OWJmMDczMmZmNzU1MjFhOGZkYmY5Ng|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gr" tvg-name="NOVA SPORTS START [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-start.webp" group-title="TV",NOVA SPORTS START [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd64c/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjRjOjE3OTExNjk1NjE3NDM6Y2RubGl2ZXR2LnR2OmFiMjMwZDliZDIyYTE2MDYuYTdiZmE4Y2UyOTFkNWEzZTU2OGUyMDVjMDViNGM1M2U4NDg1NzdmZmRlZTM0ZGI3NzJjY2EwMTJhMDQ4YTg4ZQ
@@ -537,27 +514,27 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd37c/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTEyMDU4NzU3NTY6Y2RubGl2ZXR2LnR2OjJlZjg0ODQ4MzFjYjZmYzcuNjI4MmY0NjY3Y2Y0Y2E4NWE5ZWMyZjgyMTFiYTM2YjI0NjdjNmNhOTViMTNlY2M1ZmViN2FhMmFhNmUyN2Q3Yg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTEyMzkwMTcyNTM6Y2RubGl2ZXR2LnR2OmVjZWIyMTk2YjdiNzEyMDEuYTY5NDgzZmZjYjY3MWQwZWM2NzYyZDEwMWE3M2RhNjVmZTYzMTBiNWQ3Y2Q0MDQ5ZGM2M2QxNDEzNzA0NTY1Yg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="PREMIER SPORTS 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.webp" group-title="TV",PREMIER SPORTS 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTExNjk1NjY1NTA6Y2RubGl2ZXR2LnR2OmJiNDhjZmY2MWFjYTI5ODIuM2U2MWU4YWEzNGMyYTcxNDE2YTk1MWI4NDNiMTZjZDNiZmIwZDg1MTE2YzFhN2FiYzg2ZmYxNWNiZTVlZGNlNA
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="PREMIER SPORTS 1 [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="TV",PREMIER SPORTS 1 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTEyMjE0NjA5MjU6Y2RubGl2ZXR2LnR2OjY5OGMwMDc4YTUzYWY3NDcuYTQ1OThmZTNjOThmZjM3ZGJkOTUxZWE1NTgxODUzODM3NWMxNDJkOWVlMWY1YjA0OTNmNjViYzk2MWI1M2JmMw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTEyMzk0NjA4NTg6Y2RubGl2ZXR2LnR2OjFjZDgzMjIwYTA5OWE5N2MuYzQxMmU0MWU4ZmU4MWZmYjUyMTAzMjA3N2EzOTA0NmRjMmM5ODM1YTU2MWUwYjBjNTI3ZWVlZWJiZjhiODA5Mg
 
 #EXTINF:-1 tvg-id="PremierSports2.GB" tvg-name="PREMIER SPORTS 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.webp" group-title="TV",PREMIER SPORTS 2 [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTEyMDU4NzYzMTY6Y2RubGl2ZXR2LnR2OjdkMTRlYzg5YmEwNWUxYmIuMGE0NjUyMzA5Nzc3MDllODkyMzRmZmQ0ZGZlYTg1ZDExNDg0NThhNTJlNjU3OWQ5NDkxOWEyZGYzNGVkOTQxOQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTEyMzkwMTc2NzQ6Y2RubGl2ZXR2LnR2OjIxNzE5YTM1N2U0ZjA5Y2EuOTdjZDMyMjM4OTIwNDhiYzMyY2M3ZGYxYmUwZGVjNTczYWZhODRjOWRlNGIxZmUyZmNjNzA5MzM2OTkzOWZlNQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="PREMIER SPORTS 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.webp" group-title="TV",PREMIER SPORTS 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTExNjk1NjcyNTE6Y2RubGl2ZXR2LnR2Ojk2MTAzOGVhNzgxZjJlMDQuNzgyMDM3OGI3YTVjY2M2MTEyYzIyMDVkZGU5N2NjMDdhMDFlM2MxOGQ1YmEwMTIyOTViZDI2YWE4MmZjZjc0Mw
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-name="PREMIER SPORTS 2 [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="TV",PREMIER SPORTS 2 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTEyMjE0NjExMzU6Y2RubGl2ZXR2LnR2OjQ2OThmNzk2NWFmZTgxMjYuYWU4NzU4YzE1MmRmNzk3NWNmNWYzZWE0NDJlZWE5Y2FkYzY1NzRiNTc5MTcwNTNlN2UwMzVhY2JhOGU0MTJlZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTEyMzk0NjEwNjE6Y2RubGl2ZXR2LnR2OjJkYWM4NWFlYTE1ZmNiMzEuNTM5MDQ0NjJmMzc4OWU3NTU5MWU5Nzk4YzlmNTAyOWY1Y2U2ZjgyNGRkZWU5ZGUyYjBmZjJjMzM3Mzc1NTJhMQ
 
 #EXTINF:-1 tvg-id="ro" tvg-name="PRIMA SPORT 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.webp" group-title="TV",PRIMA SPORT 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd560/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNTYwOjE3OTExNjk1NzA0OTU6Y2RubGl2ZXR2LnR2OjgxYzc4NDBjNzM4OWZkZDAuYmIzZDQ1NzlhODNiY2NjOGMwMjNmMWQ0ZWFhZmI3ZjAxYzI1MTA2MzliNjhlZDUxNjU3YjRkZmU3YTVhMjRjNQ
@@ -569,7 +546,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd563/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d2/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQyOjE3OTEyMDU4Nzc1ODM6Y2RubGl2ZXR2LnR2OjlkOTA5ZTQ1M2I1YjczNjguNGU4ZTcwM2MwNDM5MWFlMmUwZWU2Y2Q4MmEzZmM0YmRjMTcwMWM2ZGQwOWVkYjFhMjMzNTcyNjYzNThkOGFlNg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d2/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQyOjE3OTEyMzkwMTg0Mjc6Y2RubGl2ZXR2LnR2OmIxZWNmOTM0YTg5ODVhZDUuOGYzZTZmMThlYWZlMzNmYmFjZDJlODk4YWFlZDFlMDZhMjVmODMyYmNlYTIxZTNjYTg5ZTRkMmM5MTkyZDBjNg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="fr" tvg-name="RMC SPORT 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.webp" group-title="TV",RMC SPORT 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d2/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQyOjE3OTExNjk1NzIwNTk6Y2RubGl2ZXR2LnR2OmFiZTEzZWI1Y2NhNzk3YTIuMmIwOGVkNjI1MDZkMDM2MjI1ZGJjNmJjZDM4Zjc5NDg3NWMyODA5N2VjNjEzNjIyMjQ3MGIyNmNkOGU2OTRjZA
@@ -578,7 +555,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d2/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202&code=fr&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d2/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQyOjE3OTEyMDU4Nzc1ODM6Y2RubGl2ZXR2LnR2OjlkOTA5ZTQ1M2I1YjczNjguNGU4ZTcwM2MwNDM5MWFlMmUwZWU2Y2Q4MmEzZmM0YmRjMTcwMWM2ZGQwOWVkYjFhMjMzNTcyNjYzNThkOGFlNg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d6/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQ2OjE3OTEyMzkwMTg4Nzg6Y2RubGl2ZXR2LnR2OmVlNGUyM2I0YzI2ZmQxMWYuNmMxMmVlNDMyNWZhMTQ1NzdiYzFlNzdkNjA5NjIzMjczZWQ5MTBiNDg1YzY1ZTdlODE5OTEwNzNhOTlhOGM1YQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="fr" tvg-name="RMC SPORT 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-2.webp" group-title="TV",RMC SPORT 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d6/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWQ2OjE3OTExNjk1NzE4MzE6Y2RubGl2ZXR2LnR2OjY2MDU3ZDQxYjk2MmIzMjYuNDFiNGY0ZjY5MzA3NjRjZGRkNmM3YjBhODllOTE4YzA2ZTM4ZGMwMzk1MThhM2YyMjE2OTUxMzg5YThjNmFhYQ
@@ -587,85 +564,217 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1d6/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb465/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDY1OjE3OTEyMDU4ODA0MTg6Y2RubGl2ZXR2LnR2OjBjYmQxZmM2OTJjMzk0NTYuMWNiOWIzOTQxMzFhYThjNTMyNTRkOTYyZTE5MWEzNjAzNmM0MjdkOTRjMmRkNzA4YjNkMzI0Mjc4MWRkYjk4Mg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb465/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDY1OjE3OTEyMzkwMTk3MDU6Y2RubGl2ZXR2LnR2OjUyN2UyOWRkMjJmMjM5ZmEuOWUzNDYwNzM2OTYyMmFhMjg2YWEwZGM4M2JlZmVhNmVhN2IwZTJhMTc4MzRhNGY1NzE0ZTI1YTlmZTU5Y2FlOQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="at" tvg-name="SKY SPORT 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-1.webp" group-title="TV",SKY SPORT 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccd41/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZDQxOjE3OTExNjk1Nzc0MDY6Y2RubGl2ZXR2LnR2OjgyN2Y0MzFlOTE0YWZiZWYuZWMwYTJjZmUxM2JiMWExZDk0Yzk0NzM1OTZjNmM2OGY3MDc2MmZlZWQxMDNjNmU5OTA1M2IzNjAzMjUyOGMwOA
 
+#EXTINF:-1 tvg-id="SkySport10.AT" tvg-name="SKY SPORT 10 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-10.webp" group-title="TV",SKY SPORT 10 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%2010&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%2010&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae1/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWUxOjE3OTEyMzkwMjE0MzE6Y2RubGl2ZXR2LnR2OjJjMzM5ODNjZTU1M2ZlZjAuOTBiYzgwNWRjNGNjZTIwZDY0MGY2ZGY3Y2MwYmRhNjU0NjcyNDdhZjkyZDJkNGVjNjUwYmNjNDAzYTVjYTMxOA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="at" tvg-name="SKY SPORT 10 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-10.webp" group-title="TV",SKY SPORT 10 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae1/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWUxOjE3OTExNjk1Nzg4MDU6Y2RubGl2ZXR2LnR2OjZiODQ4NWY1NWMwZTdkYzEuYzU1OTE5ZjhjYmU2ZTI5NDMyYmUzNmQwNDFiMDk5ZDI5NWMxZTI0ODAzMWFiYWYxMjZkNDkwMGU3YmJiZDlkOA
+
+#EXTINF:-1 tvg-id="SkySport2.DE" tvg-name="SKY SPORT 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-2.webp" group-title="TV",SKY SPORT 2 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccacf/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWNmOjE3OTEyMzkwMjE4MzM6Y2RubGl2ZXR2LnR2OmU5ZDk5YWRmN2RlZDljZmIuNjkxODNmZTdmMzJhNWI4NDQwZjQzNmJiNGQxYmY0OWEwNTFhNDYxYjI0ZjMzOWI0M2FiNjQ3OTJkOGM4MjkwMQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-2.webp" group-title="TV",SKY SPORT 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccacf/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWNmOjE3OTExNjk1Nzg5NjA6Y2RubGl2ZXR2LnR2OjY3ZTcxMGU1MTBjYmRjYmEuNDhkMmVhN2QxMjUxMGY0ODE5NjNiNjhkMDRlZTg1N2EyMDMxYTY1OTZjYzBjYTc4OGMyOGJkYTM2NGIyYjZiNg
 
+#EXTINF:-1 tvg-id="SkySport3.DE" tvg-name="SKY SPORT 3 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-3.webp" group-title="TV",SKY SPORT 3 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%203&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%203&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad1/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQxOjE3OTEyMzkwMjMxOTY6Y2RubGl2ZXR2LnR2OjJiNTdiMjJkZjFjM2NkOGEuOTI3MDNjNTJiZmUwYmE1Y2E1Zjg5NmMwZjYyODIzZDFhMjdhZDg3OWY5YmVhOWI4MWY5MmMzNWU1YTVkZTA2NA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT 3 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-3.webp" group-title="TV",SKY SPORT 3 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad1/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQxOjE3OTExNjk1Nzk5OTE6Y2RubGl2ZXR2LnR2OjE4YTRiOTVhODk1ZTAwZmQuMDkyZTQ2MDdlM2ZhMjkxYTg2M2YyYjZhMTY3M2E2MzY5MTNhMWY2ZTM2ZDFmYjMwMTY3ZGZmODc3NWM0MTYwYQ
+
+#EXTINF:-1 tvg-id="SkySport4.DE" tvg-name="SKY SPORT 4 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-4.webp" group-title="TV",SKY SPORT 4 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%204&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%204&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad3/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQzOjE3OTEyMzkwMjQ0ODQ6Y2RubGl2ZXR2LnR2OjkxNDZmYjZjZWE0ZWNiMjcuNzM1MTdhYjYwMjhkNzBlYzFmZGVhNTcyZThmMmY1YzFjOGNkNTBiZTQ1YjRkZmIyYmMxOWMzOGUxZWI0YWZmMQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT 4 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-4.webp" group-title="TV",SKY SPORT 4 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad3/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQzOjE3OTExNjk1ODE0MTY6Y2RubGl2ZXR2LnR2OjE5NGI5Zjk0YzM4ZTQyNzUuMDBmZDFiYjY1NjJiNmI2Y2VkYTkzNjMxMDYxOTcxZDMxM2RiZDRjZWZjZGZlMDVhZTg5NDU4Y2MzYzk1YmQwMg
 
+#EXTINF:-1 tvg-id="SkySport5.DE" tvg-name="SKY SPORT 5 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-5.webp" group-title="TV",SKY SPORT 5 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%205&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%205&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad6/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQ2OjE3OTEyMzkwMjU3Nzg6Y2RubGl2ZXR2LnR2OjkxNjdmYTc1NTk4YjdkODAuYTc3M2Y3ZWNkNzAyNGJmZmZiOTg2NjQwODEwNzE3ODllYjhlOWE1NzEzMDg5OWJjMTcwYTU2MTJlY2NmYjQzMw|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT 5 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-5.webp" group-title="TV",SKY SPORT 5 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad6/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQ2OjE3OTExNjk1ODI4OTc6Y2RubGl2ZXR2LnR2Ojc1NzZiNmU3MzQ1NjFjYWUuNGYwM2VlYjc4ZWJiM2JkZjA3MzE5NmZhMDQ1ZmEyMWQzYTRmMzIxZGVkODVjOGFmNDc3YjNiMDgwNGI1Y2VkMA
+
+#EXTINF:-1 tvg-id="SkySport6.AT" tvg-name="SKY SPORT 6 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-6.webp" group-title="TV",SKY SPORT 6 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%206&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%206&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad8/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQ4OjE3OTEyMzkwMjcwNDc6Y2RubGl2ZXR2LnR2OmU1ODA4OGY2NzU1NmFiNzAuOTAyYWIxZDRhMTIyMTk0NzdmZDE3OWNlZThhMTI0NTZkZWY5OTFhMGVhNzRkYWM0MzRjOGMxYTJhMDAxM2JkYw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="at" tvg-name="SKY SPORT 6 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-6.webp" group-title="TV",SKY SPORT 6 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccad8/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWQ4OjE3OTExNjk1ODQyODk6Y2RubGl2ZXR2LnR2OjQ2NjYyZTJiMGI2YWU1ODYuZmQwOTdjYzgyYTFiMzBkODJhN2QxNTgzMjNmYjA4YTJlYWI5YmZhNDc0NjQzMTNlOWQwNmM5YzJjZDk3MDI3ZA
 
+#EXTINF:-1 tvg-id="SkySport7.AT" tvg-name="SKY SPORT 7 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-7.webp" group-title="TV",SKY SPORT 7 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%207&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%207&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccada/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWRhOjE3OTEyMzkwMjc4NTI6Y2RubGl2ZXR2LnR2OjQ5ZTJhOTE3OTQ2ZDVlZGEuZTZiZjdlN2NkYmYyM2M5ZjAzOTU4YWNiZWFhMDMyNzJlOTNmMGVmYTk5ZjJkMTBjNDdjMjQ1ZmNiM2VkZDcxMg|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="nz" tvg-name="SKY SPORT 7 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.webp" group-title="TV",SKY SPORT 7 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf229/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjI5OjE3OTExNjk1ODU1Nzc6Y2RubGl2ZXR2LnR2Ojg4NTg0NzA1M2NkMzY4YTMuMmUwODc2M2U1ZDEyNmRlOThhYjY4NzI1YjJmZGM4YjExYjJjODkxNDRjZTViMzEwOGQ2YzBkMTY3OTY3YWNhYw
+
+#EXTINF:-1 tvg-id="SkySport8.AT" tvg-name="SKY SPORT 8 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-8.webp" group-title="TV",SKY SPORT 8 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%208&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%208&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccadc/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWRjOjE3OTEyMzkwMjg2OTY6Y2RubGl2ZXR2LnR2OjdlZWU4NmVlODYzY2QzZWEuNDllNTAxYjBjNjI2ZDIyZWQyY2ZiZGZmY2U2ODUxYjJhMDIyYmFmYmMyOWQ0YmY0YmM4MTZjMzYyYzk3N2YyMg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="at" tvg-name="SKY SPORT 8 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-8.webp" group-title="TV",SKY SPORT 8 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccadc/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWRjOjE3OTExNjk1ODU5NjQ6Y2RubGl2ZXR2LnR2OjU5Nzc0MmMyZDU4MDgwNDAuNDE3OTk5MTliYTg1ZDY5Yzk0MjBkOWQzNTI2NzFhMmJhZTEzZjRiN2U5NjE4NjliZDllNzk4MmI2NjVlZWFkZA
 
+#EXTINF:-1 tvg-id="SkySport9.AT" tvg-name="SKY SPORT 9 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-9.webp" group-title="TV",SKY SPORT 9 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%209&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%209&code=at&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccade/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWRlOjE3OTEyMzkwMjk1NDE6Y2RubGl2ZXR2LnR2OmEwNDNmYmUxNmU3NTU2OTEuNjhiZmZhMGJiMjRlNWJmZDdiYWY2MzRmZjJiNzZjNjFhMjhmYTZjNmNhZTU2NTVhNzU2YzlhOWVlMzY4ZmU4OQ|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="at" tvg-name="SKY SPORT 9 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-9.webp" group-title="TV",SKY SPORT 9 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccade/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWRlOjE3OTExNjk1ODcwNTc6Y2RubGl2ZXR2LnR2OjA1MzkwYjFhOTk5ZTY2ZjcuODNjNDc3ZDhlNzk0N2RiODI4ODBkMTZkNTNjNDRiYWM4YTM3MDZiMWJjNWUxZGM3YzEwYjI5MGQ3NDdmNjc0MA
+
+#EXTINF:-1 tvg-id="SkySportBundesliga1.DE" tvg-name="SKY SPORT BUNDESLIGA 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.webp" group-title="TV",SKY SPORT BUNDESLIGA 1 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%201&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%201&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2E5OjE3OTEyMzkwMzAzNzI6Y2RubGl2ZXR2LnR2OmI5NDQxMzk1ZDE1N2JlNjAuY2U5ZGQyMGRlYWNkOTdmZTFmNzAyMDJiNWRjZWU0ZGNkNzJiNTNkOWMxYzgwMjAzMjlhYzk2OGNkMzZlZTIwNg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.webp" group-title="TV",SKY SPORT BUNDESLIGA 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2E5OjE3OTExNjk1ODgwNzk6Y2RubGl2ZXR2LnR2OjA5ZDAxZjNlYjEwN2FiODUuNDYwMDUyMThlNzdiNTg4NzFkNTkxYzBjYzcwYmQyMzA2MGFhMzI2Mjk1YWM4OWFhODdhZDY1ODhkNDUyYzQ5ZA
 
+#EXTINF:-1 tvg-id="SkySportBundesliga10.DE" tvg-name="SKY SPORT BUNDESLIGA 10 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-10.webp" group-title="TV",SKY SPORT BUNDESLIGA 10 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%2010&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%2010&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaca/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWNhOjE3OTEyMzkwMzA3ODM6Y2RubGl2ZXR2LnR2OjQ5YzJlZmY2OTQzZmY0NDIuZWFlZGUxMjQ5OGZiNTYyY2U5NWJkZDAyZTNhYThmNTRmNGM0MGI2YmRkYjM5NWE5NmE5ZDM4MDBlNTE1MDI0YQ|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 10 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-10.webp" group-title="TV",SKY SPORT BUNDESLIGA 10 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaca/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWNhOjE3OTExNjk1ODgyMTg6Y2RubGl2ZXR2LnR2Ojk2OGI3NTU3ZDZhMmFkM2IuZWZlYzQ5ZGY0MGQyNjE2OGVjMDA5MjZiMTVlMjcwZTZkN2I1YjY0MWIwYmY4ZmNiNGIxMTVhZmFjZjVhMDMwYg
+
+#EXTINF:-1 tvg-id="SkySportBundesliga2.DE" tvg-name="SKY SPORT BUNDESLIGA 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.webp" group-title="TV",SKY SPORT BUNDESLIGA 2 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%202&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%202&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccab/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2FiOjE3OTEyMzkwMzExOTU6Y2RubGl2ZXR2LnR2OjNlMDkwMjAzMTMyZmI3MjMuZmQyZjNlZDIyYzBhMGI3M2JiNDczYmYyZTM2MzI2MzI4MGFhYzg4YjFmOWE0ZmMzYWY1ZjBiMmRlNDQwYmUxNA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.webp" group-title="TV",SKY SPORT BUNDESLIGA 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccab/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2FiOjE3OTExNjk1ODg2ODM6Y2RubGl2ZXR2LnR2OjA3NmQwNzgwZmM4Mjg5ODIuOGM3ODg2OTVmNGZiMDI0MWJkNDlmZTI1ODlkZmY4ZTZiYzg4ZDkwNmRmZTgxOWI1OTg3MmZlYzZmY2NlMDY2NQ
 
+#EXTINF:-1 tvg-id="SkySportBundesliga3.DE" tvg-name="SKY SPORT BUNDESLIGA 3 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-3.webp" group-title="TV",SKY SPORT BUNDESLIGA 3 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%203&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%203&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccad/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2FkOjE3OTEyMzkwMzE2NDU6Y2RubGl2ZXR2LnR2OjQzOTc0NmI0OWM4NDU1OTAuMWRiZTZjNDFlNzg2OWNlMzc4NWIwNjliZTc3NjNlNGQ0MTM0MGM3N2YxNDFhNmVjZTU0ODAzYjJhZTcxYzE2Mw|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 3 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-3.webp" group-title="TV",SKY SPORT BUNDESLIGA 3 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccad/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2FkOjE3OTExNjk1ODkzMjU6Y2RubGl2ZXR2LnR2OmZlOTZmMGE4NzA5ZDQ3MDguMjk4YmNmNGI5N2VlYzhlNzVmMjZmYTlkODliYWI2Y2M5NWNiYjhlOWJiOWVjZmIxYjhlNmU0NGNjNGZhZTdmNg
+
+#EXTINF:-1 tvg-id="SkySportBundesliga4.DE" tvg-name="SKY SPORT BUNDESLIGA 4 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.webp" group-title="TV",SKY SPORT BUNDESLIGA 4 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%204&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%204&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccaf/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2FmOjE3OTEyMzkwMzIwNjM6Y2RubGl2ZXR2LnR2OjEzZmI4MTAyZjFhMTQyYmEuZmJlYzQ0NWJhNGRjZjg3YTUxMjg0ODZlNDdmYmM2ZDA2NjZiYTI4NTdlOTg1OGM2OGM4ZjkwNTc1YWE0NjRiYg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 4 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.webp" group-title="TV",SKY SPORT BUNDESLIGA 4 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccaf/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2FmOjE3OTExNjk1ODk2MTU6Y2RubGl2ZXR2LnR2OmYzNjRlMmUwMDUxOTJmNmIuODEyYzBlZTQxNjgwYTIyMzRjZDc4YmJmN2FhMTY1NjQ1Mzg0MWUwOWZkMzNmOTU5MTY1ZTc2NTZkMDg3Mzg4NQ
 
+#EXTINF:-1 tvg-id="SkySportBundesliga5.DE" tvg-name="SKY SPORT BUNDESLIGA 5 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.webp" group-title="TV",SKY SPORT BUNDESLIGA 5 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%205&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%205&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2IyOjE3OTEyMzkwMzI0NTI6Y2RubGl2ZXR2LnR2OjlhMDUyNDJmZTA4ZjBmZmQuNjNhYTcwY2M4OTg2YmZmN2UwMTljNDExNjkxNjEzYTdmMTQyYTQ2NGY2YjJmZGExOTY1MjUyZmUxMTU5OTMwNA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 5 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.webp" group-title="TV",SKY SPORT BUNDESLIGA 5 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2IyOjE3OTExNjk1OTAwNTU6Y2RubGl2ZXR2LnR2OjYyMjQ2MjJmNDI5ZDg5N2UuNDkzMzMzYjA4YzNhZWE5MTY1M2FlMTU4MmIxZjBjN2RhOTVjNTE1YWQ3YTlmMjU5NGEyYmQ0NDE3OWU2MDJiYw
+
+#EXTINF:-1 tvg-id="SkySportBundesliga6.DE" tvg-name="SKY SPORT BUNDESLIGA 6 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.webp" group-title="TV",SKY SPORT BUNDESLIGA 6 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%206&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%206&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I0OjE3OTEyMzkwMzI4NjU6Y2RubGl2ZXR2LnR2OjRkOTUxNGZkMjg5M2I4ODkuNTYxZjMzMzJjZTI2OGEyN2FiZDQ0NTA4NWI3ZmQ0ZGNkNTM4MTM4YmViMmMyNjYzNjhmZjhiYWU2ZGFhOTUxNg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 6 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.webp" group-title="TV",SKY SPORT BUNDESLIGA 6 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I0OjE3OTExNjk1OTAzOTQ6Y2RubGl2ZXR2LnR2OmYzZTY1Y2VlMGZjZGFhZDkuNTVhYWFlMmVkOTQxNWZlZDJiM2NlODFiNzEwODBiOGQ4Y2YwZjJiNTU3MGFhNTcwMTY3OTk4Mzk5MWNmNDZjNA
 
+#EXTINF:-1 tvg-id="SkySportBundesliga7.DE" tvg-name="SKY SPORT BUNDESLIGA 7 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.webp" group-title="TV",SKY SPORT BUNDESLIGA 7 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%207&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%207&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb6/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I2OjE3OTEyMzkwMzMyNzI6Y2RubGl2ZXR2LnR2OmEzYTlhNmU1ZTQ5N2MxODIuMGI0NDY4YTU4ZWJlYWYzMTRkM2JiMzlhODg3M2U3YWU3YTFjYjhhMjVkMzA1NTg0NmNmYTllM2E3ZTAwNDM3Zg|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 7 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.webp" group-title="TV",SKY SPORT BUNDESLIGA 7 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb6/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I2OjE3OTExNjk1OTA1MTU6Y2RubGl2ZXR2LnR2OmZiMzBiY2M3MzQwNjljOTQuZDc2NThjOWU0NDViMGZhYzg2Zjc2MmZlODVmZTVmYjlmODI3OTI0OTRiMzYxNDQ2NDI4NTZhMDg0Yzk5YzJkNA
+
+#EXTINF:-1 tvg-id="SkySportBundesliga8.DE" tvg-name="SKY SPORT BUNDESLIGA 8 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-8.webp" group-title="TV",SKY SPORT BUNDESLIGA 8 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%208&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%208&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb7/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I3OjE3OTEyMzkwMzM2OTY6Y2RubGl2ZXR2LnR2OjA0MGU2M2M1ZGMyYTNiM2MuNjM4MjVhMjhjNGFiMDk2NjMzZGI0ZmU5NTU3NzAzOWJjYTlkY2E5Y2I1YTc5MDA5MWFiZjljNTAxMzU3ZWZkMA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 8 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-8.webp" group-title="TV",SKY SPORT BUNDESLIGA 8 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb7/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I3OjE3OTExNjk1OTE1NjE6Y2RubGl2ZXR2LnR2OjAyZjJhN2M2MzQ4YjY5ZmUuNzFkMzIzNjJhZDI4YjhlNDY5YTk1ZTEyMTE3YjM1MWQ0NzQ3N2RmNmM5NzYwZTRmM2M0NDE5ZmYwMDg3MGNiYg
 
+#EXTINF:-1 tvg-id="SkySportBundesliga9.DE" tvg-name="SKY SPORT BUNDESLIGA 9 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-9.webp" group-title="TV",SKY SPORT BUNDESLIGA 9 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%209&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Bundesliga%209&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I5OjE3OTEyMzkwMzQwOTU6Y2RubGl2ZXR2LnR2OjE3MGMyOGYwODQxZjRmNzkuOTVmN2I2ZjkxYjI5ZGExMzY2MjVhYmRkYTYxY2IyZjI5YzU4OTVjMWU2NzljYzc4ODgyN2Y5NDAwYzQyN2JkZA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT BUNDESLIGA 9 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-9.webp" group-title="TV",SKY SPORT BUNDESLIGA 9 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cccb9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2I5OjE3OTExNjk1OTE3OTU6Y2RubGl2ZXR2LnR2OjQyMmNjNWRiZDAwNTE3NjQuMzFiZTQxZjc3OTcyMGRkZmU3MWI4ZDI5N2E1ZjQ0ZDM3MjVhMGJkMjY5YWQxYTRlMWQ1ZjYzMTNmYmUxNDQyNw
+
+#EXTINF:-1 tvg-id="SkySportGolf.IT" tvg-name="SKY SPORT GOLF [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-golf.webp" group-title="TV",SKY SPORT GOLF [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaf0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWYwOjE3OTEyMzkwMzQ0ODc6Y2RubGl2ZXR2LnR2OjYzNGMxMDA2NjM1N2Y3ZjQuZjc0ZDEwNzYzZDM5OTM0MzU4MjNjNDAyZjY2OWFlMGE2MWJmNzRiZDM1ZDk0NzIwZDFlZjk5NTlkMjA1ZmFlOQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="it" tvg-name="SKY SPORT GOLF [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-golf.webp" group-title="TV",SKY SPORT GOLF [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaf0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWYwOjE3OTExNjk1OTE3ODE6Y2RubGl2ZXR2LnR2OmUwZDhlZjM0ODZhMWNiMzcuZWNkZGNlNWQzZWY5NDkwZDI0OTUxZGFhZDJmNWY3ZDJlNDE3MzZjNDkzNzAzMWE2MDlkNjUxNzYzNmUwNzk4ZQ
 
+#EXTINF:-1 tvg-id="SkySportMax.IT" tvg-name="SKY SPORT MAX [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-max.webp" group-title="TV",SKY SPORT MAX [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Max&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Max&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc39e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzllOjE3OTEyMzkwMzQ4OTM6Y2RubGl2ZXR2LnR2OmQ0ZDQ5NTFjZDYwNzFkZTcuM2MyZjUwNzQ5NDVmNWQ1YWJjOGZiYjM2MDk1NTc2YjQ4N2ZjNzIwMmNjOGJiZDZiNjUxYjk0ZjI0ZGU0ZTgzNg|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="it" tvg-name="SKY SPORT MAX [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-max.webp" group-title="TV",SKY SPORT MAX [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc39e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzllOjE3OTExNjk1OTI1MDY6Y2RubGl2ZXR2LnR2OjkwNjU3NTI0YWJhZTlhYTIuZWIwMmQ1ZjU2ZWJhMzRmYjdkY2E1ZjJjZGUyMmM5N2JmYTcwNWFiZTI4Y2FhMjc2YzZjNTYxOWVmZTc4OWUxYQ
-
-#EXTINF:-1 tvg-id="SkySportMix.DE" tvg-name="SKY SPORT MIX [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.webp" group-title="TV",SKY SPORT MIX [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix&code=de&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix&code=de&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf222/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjIyOjE3OTEyMDU4ODE1NDI6Y2RubGl2ZXR2LnR2OmI0YzliNTRlOGJlYmJlMWUuNTA1YmM3YzU4YTcxZDlmOTFjMDEzNmQ1MGIxZDc5MzQ2MzE2NjliYWU1MmI0ZmY3MWY3MDNhOGU4OTUxYWU0Yg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT MIX [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.webp" group-title="TV",SKY SPORT MIX [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaec/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWVjOjE3OTExNjk1OTMyODY6Y2RubGl2ZXR2LnR2OmQ0NTYyZDVhYmY2MWI3YWYuMWMxMDRlYjVjZGNmNGE1ZDI0ZmIyNjQwZDdiNGQ0NDBlYWI4MTBjZTdiMWIwMjQyN2E4MTdiODMxYzY4M2U1Nw
 
+#EXTINF:-1 tvg-id="SkySportPremierLeague.DE" tvg-name="SKY SPORT PREMIER LEAGUE [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="TV",SKY SPORT PREMIER LEAGUE [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU0OjE3OTEyMzkwMzUyODg6Y2RubGl2ZXR2LnR2OjBjZmUzMDkzODM1MjhmNzkuZDYxZjRkMzg2ZDE0YzgxMjI4MWJhNzE4ZWVlYjUzNDBlYmE5ZjUxNjYxY2U5NWFiZTJkYTNmMTk0MzZhMjE2Yg|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT PREMIER LEAGUE [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp" group-title="TV",SKY SPORT PREMIER LEAGUE [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae4/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU0OjE3OTExNjk1OTI4NjI6Y2RubGl2ZXR2LnR2OjBkMzE1ODI2OWNjNjE2ZmQuMjk4NjliMGU2MTZmOTcwZTNhYTBjNDQwOWM5ODIxN2NiMTQ3MzY0ZjcwZTVhMGY4YjNhYTUyZWU5NzM5Zjg1OA
+
+#EXTINF:-1 tvg-id="SkySportSelect.NZ" tvg-name="SKY SPORT SELECT [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.webp" group-title="TV",SKY SPORT SELECT [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Select&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Select&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf22c/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjJjOjE3OTEyMzkwMzU3MDQ6Y2RubGl2ZXR2LnR2Ojg0NjEzYzIyYjg1MWFiOTMuYzNlYjU2ZmYyOTk5ODk0OGViOTZkNGU2NDRhMzlhMTBhZGRmY2UyODU2Zjc3N2M4NjliYjVhOWQzOGYxZDM3ZA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="nz" tvg-name="SKY SPORT SELECT [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.webp" group-title="TV",SKY SPORT SELECT [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf22c/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMjJjOjE3OTExNjk1OTM1NjE6Y2RubGl2ZXR2LnR2OjQyMWMzYTcwNjkwOWYwYTAuOWUxOGIyNzllMjg0YzI0YzY5NmFkMDEwMGE1OWMzYjZhOWZhYjJlNmY3ZDI2MDgxZWZkODMxZWY0N2IwOGMzNg
@@ -674,10 +783,16 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf22c/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Tennis&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Tennis&code=de&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaee/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWVlOjE3OTEyMDU4ODI2ODg6Y2RubGl2ZXR2LnR2OmMyMThmYTM4MGQ2Y2NiOWMuOTVmMGIxNzIwMjNiYjgzOGUzM2FjODA2OTQ3ZmJiMzRhMjUxZGE2NjUxZmJmNjUwOWY3OWUwNDc5Nzg4YWU3OA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaee/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWVlOjE3OTEyMzkwMzYxMjI6Y2RubGl2ZXR2LnR2Ojk1ZWE1YmVmNGQ0YTE0NjEuMGZjYWU3ZmIyNjE2ODZhNjk5MGFjYWQ5YmE5ZDkwMTBmYTEyZDM3YzMyOTU3OTk5MGI3ZDViZTRjY2FlNmQxMw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT TENNIS [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.webp" group-title="TV",SKY SPORT TENNIS [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaee/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWVlOjE3OTExNjk1OTQyMjE6Y2RubGl2ZXR2LnR2OmQzNGViY2ZjN2RjYWY5OTkuYjUzMDA4NTkzNzQzNGM5YzRhZTBkN2Q0Yjc0ZDc5Mzk2Yzg5M2JkNWIzOGI4OGM0NGRlMjhlOTE4OWNjMWYzZA
+
+#EXTINF:-1 tvg-id="SkySportTopEvent.DE" tvg-name="SKY SPORT TOP EVENT [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.webp" group-title="TV",SKY SPORT TOP EVENT [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaee/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWVlOjE3OTEyMzkwMzYxMjI6Y2RubGl2ZXR2LnR2Ojk1ZWE1YmVmNGQ0YTE0NjEuMGZjYWU3ZmIyNjE2ODZhNjk5MGFjYWQ5YmE5ZDkwMTBmYTEyZDM3YzMyOTU3OTk5MGI3ZDViZTRjY2FlNmQxMw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="de" tvg-name="SKY SPORT TOP EVENT [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.webp" group-title="TV",SKY SPORT TOP EVENT [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae6/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWU2OjE3OTExNjk1OTQ1MDg6Y2RubGl2ZXR2LnR2OjEwMGNjNTY1OGI3NjA0NzAuZjUwMDM1Mzc3NzEzYmM1Y2E2YjIyNmU1YTFmMzcwOTBlM2E1ZjU0YzY5NmFlMTcxYTU1MjhkZDYzNGRhNmRlOQ
@@ -686,7 +801,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccae6/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaee/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWVlOjE3OTEyMDU4ODI2ODg6Y2RubGl2ZXR2LnR2OmMyMThmYTM4MGQ2Y2NiOWMuOTVmMGIxNzIwMjNiYjgzOGUzM2FjODA2OTQ3ZmJiMzRhMjUxZGE2NjUxZmJmNjUwOWY3OWUwNDc5Nzg4YWU3OA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc327/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI3OjE3OTEyMzkwMzcwNjg6Y2RubGl2ZXR2LnR2OmQ3YmVmYWM5ZTE3N2U1NTQuMjc0MjU3MzViNWU2YmRhYzJlOTZkMmE2ZWQ5NDhjMjM1NGVhMzg0MjVlN2FmYzIwYjA4ZTU0MGYyYTBmOWUyMA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS ACTION [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action.webp" group-title="TV",SKY SPORTS ACTION [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc327/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI3OjE3OTExNjk1OTQ2Mzk6Y2RubGl2ZXR2LnR2OmNhNzc3NmJmZTExMjk5ZDMuZDg5OTBiYWYxZmVjNjRhZWE5OTAwYTY0NzhlYjc5OTQ1Nzc1YzU4M2IxYjIxN2Y1MTFjNzYzZWM0NThjMjg5ZA
@@ -698,7 +813,7 @@ http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc327/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI3OjE3OTEyMDU4ODMyNjQ6Y2RubGl2ZXR2LnR2OmRlNjBiNDhlYjkzMzViYzkuNzBmYzcyMTFiN2NhOTFhZDIzYTVkZmEzZTM2ZWM3MjY2YTgzNWZmYjg3NjgzODA0Y2Q3YmQ5OWZjYTA4ZTRkOA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc324/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI0OjE3OTEyMzkwMzc1MDU6Y2RubGl2ZXR2LnR2Ojc1ZmQ3NmMwNDc3ZmVlYWIuNTIzMzUwMmEwNmU5ODJhMDg5OGZkOTk5YzQ0N2I3NzViY2M5OTFjNmUwMGVjNTI4MDBmNWJjZTRjOTNlNTA0Yw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS ARENA [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-arena.webp" group-title="TV",SKY SPORTS ARENA [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc324/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI0OjE3OTExNjk1OTU4NjQ6Y2RubGl2ZXR2LnR2OjlmNGE2MjBlOWVkODA4MDcuNzc5MDVjNzk2YWM4YzJlZTk2ZmMwMGQxYTRhMzYzNTgzZTc0N2JlNjVkZTk1MWUzMzBkNTU2ZmQ4YjM2ZDcwYw
@@ -707,20 +822,20 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc324/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc324/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI0OjE3OTEyMDU4ODM4MjY6Y2RubGl2ZXR2LnR2OmYxNGJmNGY5MDY0NDI4ZDEuZjhiZWIzMzk2NGVkZWFlMjUzODQ4NDRiOGE0NDM0ZmYzMDkwMGExYzBlOTM5MWFkMWRmNzdlZDdiYTI2ZmQzMw|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc324/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzI0OjE3OTEyMzkwMzc1MDU6Y2RubGl2ZXR2LnR2Ojc1ZmQ3NmMwNDc3ZmVlYWIuNTIzMzUwMmEwNmU5ODJhMDg5OGZkOTk5YzQ0N2I3NzViY2M5OTFjNmUwMGVjNTI4MDBmNWJjZTRjOTNlNTA0Yw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS CRICKET [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket.webp" group-title="TV",SKY SPORTS CRICKET [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTExNjk1OTYwMDE6Y2RubGl2ZXR2LnR2OjE1NzM5YzY0MjQ2MjQ0OWQuMDM2NjIwNDNjODZmODZlYWIxZTU0Y2FlNTlhYjgxOGMyMzM1ZDkxNmMyMGZjZDY0Njg4Mzk3NjU4NzczODZmYg
 
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="SKY SPORTS CRICKET [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="TV",SKY SPORTS CRICKET [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTEyMjE0NjE3MzU6Y2RubGl2ZXR2LnR2OmIzYWE5ZGIwOGEyYjI2ZDIuNzBjNmIyMWU5ZjYxODQ4Y2M2N2QyZDgwMTcxMTUxNjRiN2RhYjA0OTFmZTJiNWU5NTdiOTc2ZDg5MmVlOGFhOA
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTEyMzk0NjE2ODE6Y2RubGl2ZXR2LnR2OmZkN2Y1MzQxYjQ2MDU2MmIuMjVjYWRlN2ZjMGEzNDI5NWI1ZjcyNjEzOTgyMTA0OGY2ZDE2NDcxZTViZGI1MGUwMzc5ZjA3NTQ0ZWRhYzhlNA
 
 #EXTINF:-1 tvg-id="SkySportsF1.GB" tvg-name="SKY SPORTS F1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1.webp" group-title="TV",SKY SPORTS F1 [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTEyMDU4ODQ5NDE6Y2RubGl2ZXR2LnR2Ojc2NjRkYTg5ODgwMTA2NmUuOThlN2Y2YTQ5ZjYwNDE1NDUwY2QzOWM3NjYxYWZjODAyMWYxNWM3YTk1MmYzYTllOGQ0ZjZjZTVjYjQwYzI0Yw|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTEyMzkwMzgwODQ6Y2RubGl2ZXR2LnR2OjA5NDVhOWY2OTVkOGY3M2IuNzdjOWUxZTUxNDBmYTBmOGU1MzI5ZjBiYmU3NTdmZjYzYzFmMWQzNTE3MWQxY2M5YzNkOTdhZDJiOGFjOTMyYw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS F1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1.webp" group-title="TV",SKY SPORTS F1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTExNjk1OTU3NDI6Y2RubGl2ZXR2LnR2OjYyZjllZDM4MWQ1MTY0ZDkuMTRhYjc0ZmIxNWI5OWFiNTZmZGMzNTlkZDhlNGYwMDBjODg5YmYzY2JhY2I4YmYwYWIwYmU4N2ZkZGRiNmIzNg
@@ -732,63 +847,63 @@ http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTEyMDU4ODQ5NDE6Y2RubGl2ZXR2LnR2Ojc2NjRkYTg5ODgwMTA2NmUuOThlN2Y2YTQ5ZjYwNDE1NDUwY2QzOWM3NjYxYWZjODAyMWYxNWM3YTk1MmYzYTllOGQ0ZjZjZTVjYjQwYzI0Yw|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTEyMzkwMzg1NTU6Y2RubGl2ZXR2LnR2OmY2NDdlNTJjYmUxZGJkOTEuY2I5MmQ2NTMwN2VmNjRlZjAxYjQwZmY5YmQwZjgxN2Q4Yjg4ZjlmZGNhZTM0YmUyOWU0NWI3YzIxMDNjY2FiNQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS FOOTBALL [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football.webp" group-title="TV",SKY SPORTS FOOTBALL [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTExNjk1OTY5NTg6Y2RubGl2ZXR2LnR2OjFhYWIwYjY4ODY3YTZiZTcuZWRjZDIzMTUyMDA1N2RhYTMzZWY2Mjc0NjBmZGUxMjVjMDY4ZTUxOTgxNjRjYmQ1ZjU5ZTJmOThkNzE2ZWY3NQ
 
 #EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-name="SKY SPORTS FOOTBALL [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="TV",SKY SPORTS FOOTBALL [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTEyMjE0NjE5NTU6Y2RubGl2ZXR2LnR2OjU0NzkzMzI0NWZhOTgwNzYuYTQ1MTc1MDcyZDNiODE5YTZkYTU1MmZiMzU2MjhkMWY4MDc0M2FiNzg2MjA4ZDlmOTAzM2FmYTA4NWMwNzk5NQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTEyMzk0NjE4ODQ6Y2RubGl2ZXR2LnR2OmI3ZWFhYzM5MDNiZDMyNTUuNGJjOGI0ZTEyN2E3ZTEzYTg1Zjk1OWNjZTU2N2NkNmJlNTEwMmU2ZjE3NzU0ZDRmNmQ4YjA3MTIzMGNhZDhhMA
 
 #EXTINF:-1 tvg-id="SkySportsGolf.GB" tvg-name="SKY SPORTS GOLF [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf.webp" group-title="TV",SKY SPORTS GOLF [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTEyMDU4ODU1MDg6Y2RubGl2ZXR2LnR2OjA5Y2ZjYTNiMjA1YmIxNDMuYzBlNTlmNGM5NjMxOTBlNTJlZGM2MWJmZTNlMGI2NjNiOWY3NTIwODAzMTdkYjU0YmMyMjE0NGE1OGE0NDU1YQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3OTEyMzkwMzg5OTg6Y2RubGl2ZXR2LnR2OjUwMTkzNzc2MDdiZDY1ZTguNWJjZGQ3MDQyYmNkNzA0YzRlNmE4NzUzNGYwNDg1NTBlOTI4ZGNmNDAwMmMyNWIzMGE2MzE3MDZkNjJkZjYyZA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS GOLF [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf.webp" group-title="TV",SKY SPORTS GOLF [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTExNjk1OTY3NDM6Y2RubGl2ZXR2LnR2OjY3ZjM0MmUyYzRhNTE2NGMuNzRjMmNlMDkzMDA2ZWEyZTFmYWNhZTYyYmM1OTdhOTkwNmFlN2I4NzkxNjVmNjBmMTkyODEzZDVlZWJkMmMwOQ
 
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="SKY SPORTS GOLF [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="TV",SKY SPORTS GOLF [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTEyMjE0NjIxNTU6Y2RubGl2ZXR2LnR2OjRjNmRmYTViOTUxMmEzMGEuMGE2ZGZlMmM4ZWNmNTY2MDNhZjhmNzJiYjY2ZDI2N2QzNDNmNWZjNDgxMWE3ZjFiZmY4MjMzNzJiODAzMzcxNQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTEyMzk0NjIwOTI6Y2RubGl2ZXR2LnR2OmIxZjZjMGI4MDJkNGFjOTcuYjEyMWQyMTk4ZWI2NzdkNjc4Nzc4NjJkZDIzYjVmNzkyYjM1NDk3NTFhMmM2NzUzN2E1Yzk5YjQ5OThhYzI3Ng
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.GB" tvg-name="SKY SPORTS MAIN EVENT [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event.webp" group-title="TV",SKY SPORTS MAIN EVENT [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTEyMDU4ODYwNzA6Y2RubGl2ZXR2LnR2OmMxOGQ0ZjhlY2FmNzcyYjQuMzkwYTZkNWM5YWFkYjM0OTA2ZTEwZTU1NDZiM2QzOTEzZWFiMTlkMDRlNDE2MWRlN2E0Y2Y2YTA4NDlhYmY4Yw|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTEyMzkwMzk4NTE6Y2RubGl2ZXR2LnR2OjliOGIxNjlkMDc4NGQ5MWQuNGNlYTIxNzg3MThhMTk4M2EzYTFiMDNlYmNiOTNjZjQ2YWQ1MTg1NzI0YzQ0MWJiYTFmNmFhNjMyMzRlZTEwZQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS MAIN EVENT [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event.webp" group-title="TV",SKY SPORTS MAIN EVENT [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTExNjk1OTcwOTQ6Y2RubGl2ZXR2LnR2OjkwZGZkMDQwNjJiYTc1YzMuZGM4OWU5YTU4MTlmNjYyMjlkYjg3ZGVhZGU0N2M4OTQzOGJjOGU1NWM4ODJmM2FkMjRmOTRhY2MzNWY3NTFlYg
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="TV",SKY SPORTS MAIN EVENT [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTEyMjE0NjIzNTg6Y2RubGl2ZXR2LnR2OjMwODQwYmU2MmJmOWUxYWYuNjMzN2JhYTY1YWM0ZWNjZGQ2MTBiOGY1MjkxNGQ1MTE3NDViZmMwYTFhOTAxYzcwMDI4YTlkNWNiOTk4OTFiMQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTEyMzk0NjIyOTY6Y2RubGl2ZXR2LnR2OjdmMjAyN2ExMGZmZDZkMzYuZmMzYThhOWM0YTI2NDk4MzBjNTdiNzRlZDQyNTJjNGFlZWRhNzlmZDhkMjQyNDZhOGZjNWUxZTFiOTU0MWQ5NA
 
 #EXTINF:-1 tvg-id="SkySportsMix.GB" tvg-name="SKY SPORTS MIX [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix.webp" group-title="TV",SKY SPORTS MIX [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTEyMDU4ODY2NTk6Y2RubGl2ZXR2LnR2OjdlYmUyMmI1NmQ1NDVmYjMuNGVhMDA2NTM3ZTA0YTc1MDZhZmExMTkyZjNjNDA3Yjk5NzU2OWY1ZmI2YjMwNDRmMjU0OTFmZjFiMmY4MTE3NQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTEyMzkwNDA3NTQ6Y2RubGl2ZXR2LnR2OmQ4OGU1MmVlNjVlNjEyZjQuMmVmNWMyNTcwNjJhNDFjYzY2ZGI3NThmY2EzYzFiMDhjODNjODAxZDRkZDMzZTAwNWM1OGUwNDA1NzRjNzgzOQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS MIX [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix.webp" group-title="TV",SKY SPORTS MIX [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTExNjk1OTc2Njg6Y2RubGl2ZXR2LnR2OmNkNGFhYjgyYzU4YTE4ZmEuZTJiZWVmNGMwYmQzMWY2NjZjNmEwMWVhYWQzYTBkZTZkNWE2ZGM1ZTRiNTU4MDYzZDZhNmQzYjE0MzIyMDNjOQ
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="TV",SKY SPORTS MIX [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTEyMjE0NjI1NTU6Y2RubGl2ZXR2LnR2OjU2OGU1ZGQ1YjRhYzNmZjYuOTgzZjQ1YzA0YWQ5MzMxODFjZDU4NjY4YTgzMGU4MjM1NTNjY2ZmNmQ0ZGUzOTZmMmY2Y2VhMDE4MGU1MmRlMw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTEyMzk0NjI1MDM6Y2RubGl2ZXR2LnR2OmQ4MjcyYzQ4NWRjODg1YmYuMmQ0NWI2ZjY2NWMwOGU5MGE5MjNjZDU2NjJlOWRmYjg4Zjc0MzVhYTI3ODZjOTFkZTJiYmNhZjFjYWQ5MGRiMg
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="SKY SPORTS NEWS [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="TV",SKY SPORTS NEWS [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc334/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzM0OjE3OTEyMjE0NjI3NzU6Y2RubGl2ZXR2LnR2OjBjNjhlNjdmYTNkZDczMDkuYjQ1YTk1ZGQzNTNmOTFiNDk2N2EyN2VlM2JmMWZmMDU4MWQ5OWU5MzMyYjdiMzE0M2U2Y2ExNmYzOWUyOGIzNQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc334/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzM0OjE3OTEyMzk0NjI3MTI6Y2RubGl2ZXR2LnR2OjY0NGJlNWFiMzUwZDMxY2YuMTRhM2FhMTBmN2ZmNzhlNzBjZjExODQ0YjM1YjhmMDgwMWFjNzhmMmZhMTBlY2IxZjc0ZDI0Yjc2OGJhZjkyMw
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.GB" tvg-name="SKY SPORTS PREMIER LEAGUE [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-premier-league.webp" group-title="TV",SKY SPORTS PREMIER LEAGUE [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Premier%20League&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Premier%20League&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc33d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNkOjE3OTEyMDU4OTAyOTQ6Y2RubGl2ZXR2LnR2OjBjYjQyODQzNjE2YjIwN2QuMDY2OTlhNmJjYTE5ZjQxNzdlMjAyNDY4OTFjZTMzZWIxZTdkYmYzMmJlYWZiMTQ4Y2I0ZDA3ZTdjYzRmNGRhYQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc33d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNkOjE3OTEyMzkwNDExNzg6Y2RubGl2ZXR2LnR2OmQ1ZDVkMzQ3MWMyODBlOTYuZDM4NWM0NzRkYTVmOWVjNjA3ZjE5OWE0YzZhNDJkMWE4OGE4NDIzMTgwOGIzYWZiNWFiYmRkZTRiZWMwNTlhMA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS PREMIER LEAGUE [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-premier-league.webp" group-title="TV",SKY SPORTS PREMIER LEAGUE [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc33d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNkOjE3OTExNjk1OTgyNTI6Y2RubGl2ZXR2LnR2Ojg5NWRlODUzY2NkY2JkOWQuNGQ5YTZiODU3MGM4NTYwYTAxOGY5ODJmMDg1MzI4NTI4Mzg2YWQzNDg1NTc2NDRlMTNlNzk4ZTRlN2ZiMjVlMQ
@@ -800,27 +915,27 @@ http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Racing&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Racing&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3OTEyMDU4OTEwODI6Y2RubGl2ZXR2LnR2OjdmN2I0ZmM5NTFmZDI1YjQuYzQ1ZmY1NWViYWNhMmU3NWRjZTY2MDQ1ZWM4ODgwNzNmNGM1NDY3NDBjNjMyMTQyYzEwZGI2Nzk5Yzk3MzdjNA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc33d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzNkOjE3OTEyMzkwNDExNzg6Y2RubGl2ZXR2LnR2OmQ1ZDVkMzQ3MWMyODBlOTYuZDM4NWM0NzRkYTVmOWVjNjA3ZjE5OWE0YzZhNDJkMWE4OGE4NDIzMTgwOGIzYWZiNWFiYmRkZTRiZWMwNTlhMA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS RACING [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-racing.webp" group-title="TV",SKY SPORTS RACING [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3OTExNjk1OTgwMzk6Y2RubGl2ZXR2LnR2Ojc4ZWE3ZWJmZDgwMzczZWIuYzkyMWViY2RkZmE2NmQ4OTUzOWFkMzE1NGJjMmZjMGZjYmU3MTMzY2EzNDQ2MmQ4ODRkY2Q5YWJmMGY0MDQxNw
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="SKY SPORTS RACING [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="TV",SKY SPORTS RACING [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3OTEyMjE0NjI5Nzc6Y2RubGl2ZXR2LnR2OjI2OWVmZTNmYWJkMTE4ZTguMzAyMmYwMzlhOGMxYzZlN2VjMGIxN2EwNjgyODVlOGJjZDY0ZjQ2OWE0YTg5MGQ5M2IyYzlkMzM5OWVjMWZmYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3OTEyMzk0NjI5MDM6Y2RubGl2ZXR2LnR2OmY0ZWMyZGY4YjkyZjdlZTUuZTczZGJiZDM4MTlkZTIwY2U5NTgyNmM2OWZiNGNmZjNhYzk1MDZkZTlhMmE2M2E0ZGI5MWM2MzQ0MzIxYTNjYw
 
 #EXTINF:-1 tvg-id="SkySportsTennis.GB" tvg-name="SKY SPORTS TENNIS [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis.webp" group-title="TV",SKY SPORTS TENNIS [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Tennis&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Tennis&code=gb&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEyMDU4OTE2NDA6Y2RubGl2ZXR2LnR2OmY2YjhhMGE3MzhhYjk2ZWYuMmIwOTYzNzgzNjdhNmFkZjY5ZWI2YWNhNmQxY2Q4ZDcyNWQ1ZTNmYjM1Yjg5YjhjNjAxZjM4YThmNzU3ZTc2MQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEyMzkwNDIwMzk6Y2RubGl2ZXR2LnR2OmRlOTU1NGU3MzMzZmRkYzUuYzVlYTg1Y2I2YWMyY2JhMzI3MDE0YTIzNWJmZGNkMDdjOThkNTJkMGMzZWE0MDQ2YTE0NzAwNjc0OGUxMTY0Nw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="gb" tvg-name="SKY SPORTS TENNIS [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis.webp" group-title="TV",SKY SPORTS TENNIS [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTExNjk1OTg2Mzc6Y2RubGl2ZXR2LnR2OjlkYjk5M2U2ZDZhNDBhN2EuNmMzYTg4MTJmZTYyNmFkYmJiMjllYTEwYTRmNTk1YmI2MzRmYWJkOGE0ZjBmN2YyYTYwMzJhYjA2NDQxMDViYQ
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="SKY SPORTS TENNIS [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="TV",SKY SPORTS TENNIS [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEyMjE0NjMxNzc6Y2RubGl2ZXR2LnR2OjdmZGJmYjZiOWZiMDU2ODAuYTE1YjE3ODFkZTUxMjk2YzMyNjk2MDk4MTBlZGQ5N2Y2NTkwMWU5YTE1MjY3ZWY0NjFhYjkyNTE3ZTEzNGRiMw
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEyMzk0NjMxMTQ6Y2RubGl2ZXR2LnR2OmQwOWY2YWQ4NzMxY2I3ZTQuMTczNjNjYWFhOTMyZTkxZWI2YjAwODcyM2Q2NjAwMTJmNzE3ZGUxMmE1Yjk3YjU0YWQxOTc5YjY5NTA1YWFkZg
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="SPECTRUM SPORTSNET LA DODGERS [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87024_dark_360w_270h.png" group-title="TV",SPECTRUM SPORTSNET LA DODGERS [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -858,11 +973,23 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce604/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="pt" tvg-name="SPORT TV [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv.webp" group-title="TV",SPORT TV [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd411/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDExOjE3OTExNjk2MDI1OTA6Y2RubGl2ZXR2LnR2OjgyMjUzN2JjODUyYzE4ZWQuYzcwNjgxNGZhNDgxY2IyN2Y1NzMzNjUyNGE0Yjc5MjFlNjY1MGIyZjA0MmZmNDM5MDgxNjAxZjJjNmIwYmUwZA
 
+#EXTINF:-1 tvg-id="SportTV1.PT" tvg-name="SPORT TV 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.webp" group-title="TV",SPORT TV 1 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTEyMzkwNDI0NTA6Y2RubGl2ZXR2LnR2OjhhOTdmZTFkMTk3N2JiNTEuNmNjYjdmNmUxOWU2MzA1ZjJiMjcyNzhjOWVmNTQwYjBhOWI1NmYyNjJjZjlmZjQ1MzU0YzY0MGM4ZGI2NjIzNA|x-forwarded-for:109.236.88.82
+
 #EXTINF:-1 tvg-id="pt" tvg-name="SPORT TV 1 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.webp" group-title="TV",SPORT TV 1 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3OTExNjk2MDMxMTg6Y2RubGl2ZXR2LnR2OjEzY2ZkYjg0YmZhYmJkYzUuMjg0ZmE4MjlmZjFkOGUyY2QwM2M4YzFmNzQwM2NmNGQzMzAwMDVkZjhhNWRjZWRjZDY3ZDU4MzI2OWE2MzE1Ng
 
 #EXTINF:-1 tvg-id="pt" tvg-name="SPORT TV 2 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-2.webp" group-title="TV",SPORT TV 2 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd417/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDE3OjE3OTExNjk2MDM1Mjc6Y2RubGl2ZXR2LnR2OmE0YmViM2UyZDhmOTYzZWEuNTVjODJlYjI4NDc0NWIxOTAzYjAzMDkzMjhlYTk3MjZhNTM5ZWY5ZTBiNGExZDgyYjM3MTlkY2M4OGNlZWY4NA
+
+#EXTINF:-1 tvg-id="SportTV3.PT" tvg-name="SPORT TV 3 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3.webp" group-title="TV",SPORT TV 3 [S1]
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%203&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%203&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd41c/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDFjOjE3OTEyMzkwNDMwNTE6Y2RubGl2ZXR2LnR2OmVmOTEzNDJkMmFhZTZmMDkuOTk0NDE4MWYxOGRkYmZjYTI3YmZmNzA3M2UwZjVhZmMzMWUyY2IyYzM3ODg4MzI2MWRmMmVhMWY1MmNjMmM3ZQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="pt" tvg-name="SPORT TV 3 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3.webp" group-title="TV",SPORT TV 3 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd41c/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDFjOjE3OTExNjk2MDQxMDQ6Y2RubGl2ZXR2LnR2OjhhYTMwYmIyMGU1OWRjODAuNGQyYTQ2NTRkYWEyYjcwMWM0ZWNlZGYwZjlkYmI5Mzc5MjE2NzZiNGY4MTgzOWZhNjhjOGYzN2UyYWM1OWJhYQ
@@ -886,7 +1013,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaf8/playlist.m3u8?token=
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20360&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTEyMDU4OTI3NTc6Y2RubGl2ZXR2LnR2OjVlYzRiZjljMjQxOWVmYjAuMTA0OTUyYjIwOTg5MmJlMGIwOGU4NjBkZmUyZDRkYjMzYzAxOWZmYjMzZWMwMGI0YTBhMThhOWNjNWU0NTczMA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTEyMzkwNDM5MTM6Y2RubGl2ZXR2LnR2OmJlOTIwZDk3YjU1OGQyNmMuMDc4MzU2ZGM1ZDdhODM1ODY2MDZjZTMxMmQ0MzQ0NmM0NTBhNjBhMWY2YmRmMWFmNDcwNWRmOTQ4ZjI1MDUyMg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="ca" tvg-name="SPORTSNET 360 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.webp" group-title="TV",SPORTSNET 360 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTExNjk2MDY3Nzc6Y2RubGl2ZXR2LnR2OjNkN2Q4YjdhMDQ2NWFiNjQuYWY4ZWI1MzRiNTIyYjQ3MDA1NTU3NTAwYTRiOTQyN2JjOGMwYTU1MjRlMWE1MGFlMDY4ZTlhNDYxZWY5MzJlYQ
@@ -900,59 +1027,53 @@ https://cache0.wonvt.st/live/1quavki1r2dp5e1ewt83f/master.m3u8
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20East&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20East&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTEyMDU4OTI3NTc6Y2RubGl2ZXR2LnR2OjVlYzRiZjljMjQxOWVmYjAuMTA0OTUyYjIwOTg5MmJlMGIwOGU4NjBkZmUyZDRkYjMzYzAxOWZmYjMzZWMwMGI0YTBhMThhOWNjNWU0NTczMA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTEyMzkwNDM5MTM6Y2RubGl2ZXR2LnR2OmJlOTIwZDk3YjU1OGQyNmMuMDc4MzU2ZGM1ZDdhODM1ODY2MDZjZTMxMmQ0MzQ0NmM0NTBhNjBhMWY2YmRmMWFmNDcwNWRmOTQ4ZjI1MDUyMg|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="ca" tvg-name="SPORTSNET EAST [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.webp" group-title="TV",SPORTSNET EAST [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTExNjk2MDY3MjM6Y2RubGl2ZXR2LnR2OmM0ODEyZWZmZDk1NzE5M2UuYTgyMjNmNDRmYjIxODU2YWM5ZGY5M2RiMTllMTRkNGQ0NTNmMTgwZjk0YzAwNDNhOTAwOGFhMjcyOWQyZjRhOA
 
 #EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="SPORTSNET EAST [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="TV",SPORTSNET EAST [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTEyMjE0NjM1ODc6Y2RubGl2ZXR2LnR2OmU5Y2FhYjFlNzcxMTNkMDcuZTE4NzYyOGEyZDg4ZWI5YzY5NzkzMGI0ZjA5NmRlYTI4OGJhNWQxMGVkNjNiYWE2MzZjMzE2Mjg4YzE2YmJlYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTEyMzk0NjM1Mjc6Y2RubGl2ZXR2LnR2OjdjMTQ2MGY1YzFiYjJiMWMuOTE0Y2U1M2JmNWIwMDJhZWExMmY3ODU1Y2E2YmE5ZjNjNThiNWM1YWIwMzRjNTliZTM0YTY0ZGJlNDk2MzZmOA
 
 #EXTINF:-1 tvg-id="SportsNetNewYork.US" tvg-name="SPORTSNET NEW YORK [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york.webp" group-title="TV",SPORTSNET NEW YORK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York&code=us&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEyMDU4OTE2NDA6Y2RubGl2ZXR2LnR2OmY2YjhhMGE3MzhhYjk2ZWYuMmIwOTYzNzgzNjdhNmFkZjY5ZWI2YWNhNmQxY2Q4ZDcyNWQ1ZTNmYjM1Yjg5YjhjNjAxZjM4YThmNzU3ZTc2MQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3OTEyMzkwNDM1MDE6Y2RubGl2ZXR2LnR2OjRhYTA0ZWFiYmQ5N2E4MjUuMWI2NmM1NzE2ZWM3NGM0ODg3N2E2N2JiMDI5Y2EyZDA4OGU5NjUxMDY3MzczM2VkNmJkYjBhZWViMjU5MzkwZA|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="us" tvg-name="SPORTSNET NEW YORK [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york.webp" group-title="TV",SPORTSNET NEW YORK [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3OTExNjk2MDY2NTE6Y2RubGl2ZXR2LnR2OjI1ZWU0M2QzOTRmYjgwYjkuNWQxYWUwOTg4YjU0ZTE4YWQ0NWJmNjdhNTIyZjRjNmQzMDlmZmY4ZGViNGNiOTFjMWMxYWQ4NzFlZTMyMTI3OQ
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SPORTSNET NEW YORK [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="TV",SPORTSNET NEW YORK [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3OTEyMjE0NjM3ODY6Y2RubGl2ZXR2LnR2OjY4OWI5OWU2MTc0MjFmY2UuNTEyMTRlMmExOThhNTE3MzE2NTY1NzNiMmE4ZjBhMWE5ZjcwZWE5Y2QwYTExNTcxNTFiMzg2MTk0OTNkZTZhMg
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3OTEyMzk0NjM3MzA6Y2RubGl2ZXR2LnR2OmQ4NzQ0ZGE2MWE2MmI0NGEuZWMyM2VlN2YyMzE5MjNjNmZkNjM0OGI4MjBhODJiYTYwZmFlMTQwNzFiZDE2ZjQyZDQzZjUzY2EwMmVjZjk0Ng
 
 #EXTINF:-1 tvg-id="SportsnetOne.CA" tvg-name="SPORTSNET ONE [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.webp" group-title="TV",SPORTSNET ONE [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTEyMDU4OTMzMjE6Y2RubGl2ZXR2LnR2OjNiY2VkZWQ0ZDlhNTk2NDMuYjAxMGIyMWExZmYzNmVmYTJhMTdmMWYxM2E5NDNkMzY3MmFmZTcxZmU2ODNmODQzMzQ1ZDBlMjgxYjE4YjUxZQ|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTEyMzkwNDQzNTM6Y2RubGl2ZXR2LnR2OjRmYzc0YzhjMDQwMGQ1NWYuZDU4YzVjYTA4NzdhMDllODAwN2VmNzczZWM5MGM5NDg3NTAxN2E4OTFjZmQyZGZiZjc3NmUyNWY0YmViODI1MQ|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="ca" tvg-name="SPORTSNET ONE [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.webp" group-title="TV",SPORTSNET ONE [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTExNjk2MDc2NzM6Y2RubGl2ZXR2LnR2OmY4ZGJlN2ExMjQ2NWU4NjYuZTQzMTEyMGY1ZTM1NzQxNjIwOGQ4MWJiNTgzOWZlZjNmODNlNjM3MWMwY2UzYzExZjgwNWU2MWIzN2ZiZTEwZA
 
 #EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="SPORTSNET ONE [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="TV",SPORTSNET ONE [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTEyMjE0NjM5ODY6Y2RubGl2ZXR2LnR2OjEwYzAyMDEzODYwNjk1NzAuODEzYTgwODgyZGEzNmFkMDFlNmM3MmVkN2E0NjgwZmIwOWRkMGNkZmU2MGM0MTlhMzgzZWUzZmY1MTFlN2NlMQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTEyMzk0NjM5MzA6Y2RubGl2ZXR2LnR2OmQ4ODk2N2MyZWQ5MGJiNWEuNDBlNDRkNTFhODQ5MjZjMDhiZjYwYzM0NDdjZTUwNjFjY2I2YmIwMWE2OTllMmRhNmRkOTUyZmE1MWY4NWVmNw
 
 #EXTINF:-1 tvg-id="SportsnetOntario.CA" tvg-name="SPORTSNET ONTARIO [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-ontario.webp" group-title="TV",SPORTSNET ONTARIO [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario&code=ca&user=streamsports99&plan=vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTEyMDU4OTM4OTc6Y2RubGl2ZXR2LnR2OjczNzA3NjBlNDdhNzhkNjcuZGE3ZmM4ZWExOTljNWZkMzBkNDlmNjRhN2NkYTdiNDA4OTY4MjhhMmRlOTkwM2FiMmQ5NTRiYTQ3NjNjMDIzYw|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2bc/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3OTEyMzkwNDUxNTI6Y2RubGl2ZXR2LnR2OjZlYzlmMzQ1M2U3NDc5Y2IuNDdlNWMyMmE2YTQzZmZjOWM5OGM3ZmQ3ODZlNjgyZWViZmM1OTljYzgyM2VkYmNmMDkwOWE5ZjgzYjJlNjExNw|x-forwarded-for:109.236.88.82
 
 #EXTINF:-1 tvg-id="ca" tvg-name="SPORTSNET ONTARIO [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-ontario.webp" group-title="TV",SPORTSNET ONTARIO [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2bc/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3OTExNjk2MDgwMDM6Y2RubGl2ZXR2LnR2OmY0NTlkMDI0MDU0MWVkYjguZDI4ZDYyMWRkMWFhMDJkNDU2ZGQ0ZjI3MTg0OWUxZWZjNzE3YTU1ZmM4OTk1NzI4ZjQ2YWFhNWNhNzM3MWMzMQ
 
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-name="SPORTSNET PITTSBURGH [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png" group-title="TV",SPORTSNET PITTSBURGH [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb582/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgyOjE3OTEyMjE0NjQyMDk6Y2RubGl2ZXR2LnR2OmE5MTlkZGM3MTQxNmJkNTUuYTIwZTdlMjkyNjFjY2ZmYzdjZWViOTM5MzBkODgwZWZlZTU5MTQzOTNiZTc3N2M3MmM0NDE0Mjc3ODY1OWMxNQ
-
-#EXTINF:-1 tvg-id="SportsnetWest.CA" tvg-name="SPORTSNET WEST [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.webp" group-title="TV",SPORTSNET WEST [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West&code=ca&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West&code=ca&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2bc/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3OTEyMDU4OTQ0NTg6Y2RubGl2ZXR2LnR2OmNkNDFiNjEyMTRiNjBlYzEuN2M3NWEyY2ZiN2E3YTcwYzUzNzkwZjMyMDI4NDU1NDg1N2E1NjViNzk5OTU5NDIwNjZkNjUxNDkwMTk5NjBkYg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb582/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgyOjE3OTEyMzk0NjQxNDY6Y2RubGl2ZXR2LnR2OmY2YmQ3ZThjNmM5YTUxMDEuMzA4N2Q2YTA3YTllYTMzODI1NDdlMGM4MjE3ODNhOWU3YTdkODE5MGE4YjMzMjdhZjY4N2NiZWRmYzc3YmFhMg
 
 #EXTINF:-1 tvg-id="ca" tvg-name="SPORTSNET WEST [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.webp" group-title="TV",SPORTSNET WEST [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2be/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJlOjE3OTExNjk2MDgzMDQ6Y2RubGl2ZXR2LnR2OjY0NDJmYjNmODcxZmU0ODkuZTRiNmY0NWU5ZDYwNWQ4N2RlOGU3OWQ3NDhiZDA5M2Y4NmQyMDk2M2ZlOWY2M2ZjNjk5NDA4MDg2MTA3NGY5ZQ
@@ -981,57 +1102,21 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf1ef/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="au" tvg-name="STAN SPORT 16 [S2]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-16.webp" group-title="TV",STAN SPORT 16 [S2]
 https://cdnlivetv.tv/secure/api/v1/6a288d2f81d8192bb76cf1f0/playlist.m3u8?token=NmEyODhkMmY4MWQ4MTkyYmI3NmNmMWYwOjE3OTExNjk2MTIwOTk6Y2RubGl2ZXR2LnR2OjhiZDViMTIyZGVmOWZlZjUuNTNmNzczNTAxYTU3MjZkNzI0MDljOWJiYzVkZTY0NDZhMzEyNTA3OWU5NjMzNDJhZjg3NmU1NDM3YmVjZTdiYg
 
-#EXTINF:-1 tvg-id="TNTSports1.GB" tvg-name="TNT SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1.webp" group-title="TV",TNT SPORTS 1 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTEyMDU5MDU4ODY6Y2RubGl2ZXR2LnR2OjJkMDRlZmZkYzJiNGYzYmYuZGIzNjhmMjIwNDI0ZTk4YzIxYzdmYzZiMDI2YmQ1MDZiM2FhNGJiYzI4ZWI0YmQ5ZGZmYjNiN2Q1NGUwOGQwMw|x-forwarded-for:109.236.88.82
-
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 1 [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97542_dark_360w_270h.png" group-title="TV",TNT SPORTS 1 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTEyMjE0NjY0NDY6Y2RubGl2ZXR2LnR2OjdmY2Q3MmJkZjg4NzRiZDEuNjk0MTRjNTdkZjI0YTNiNTEyNmViYmY0MTJhMTRjODkzNzViMjVlNjI5NTIyMDQ1ZmMwYjYzNjI0ZDgwNGI2ZQ
-
-#EXTINF:-1 tvg-id="TNTSports2.GB" tvg-name="TNT SPORTS 2 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2.webp" group-title="TV",TNT SPORTS 2 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTEyMDU5MDY0NDk6Y2RubGl2ZXR2LnR2OjZiNjI4ZGYyNDBmZmYyNDMuZjE0ZGYyMzVlNzliYzk0NmFmZGMzMTJmNTBlOGEwZGMwMmRjNWNjZjlmNjBiOTZiNTAwMjE3MDYyYWYxODJhZg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTEyMzk0NjYzODI6Y2RubGl2ZXR2LnR2OjZhYThiZjk0ODgyNTA3NjYuZmRhNTliMmExMzAzMGUyODk2Yzg4NTUxMzhhOTNlNTk2ZWU5NGY5OGQ2ZWFlNDQ2ZThmYTA3OWZkYTFiNTdjZg
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 2 [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_dark_360w_270h.png" group-title="TV",TNT SPORTS 2 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTEyMjE0NjY2NTE6Y2RubGl2ZXR2LnR2OjY3N2I1YWUzMmJhNjY3ZjMuMDEwMWViNWNkMWU4NGI4ZTU0ZDc3MDJhNTg4MzU3ZWM2ZWI5NDBkMjBjZmU5ZGY5ODI1MDgyN2Q1MDRhZWI5NA
-
-#EXTINF:-1 tvg-id="TNTSports3.GB" tvg-name="TNT SPORTS 3 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-3.webp" group-title="TV",TNT SPORTS 3 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTEyMDU5MDcwMDk6Y2RubGl2ZXR2LnR2OjM4Yzc1NDIxMmYxOTRlNzguNzg5NWQyMWUyNGJiYTI5NmU0ZmZjYzY3MjZkN2QxNmQxMmNhZmI2YmJiMGM1ZmIxZTRlOTY1Zjc2NTBkZmFmMA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTEyMzk0NjY1ODU6Y2RubGl2ZXR2LnR2OjIxMzhkYmNlYTkyNmIxMmEuNmNlZTIwMzExMzRlM2JkNjUzZjlhYjVmNWIyNGU0ODFhODYyMGY5MWM3Y2ExZmYyYmQzY2FjYjg0Y2Q5NWVlNQ
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 3 [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117230_dark_360w_270h.png" group-title="TV",TNT SPORTS 3 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTEyMjE0NjY4NTU6Y2RubGl2ZXR2LnR2OmE5MWEwZjZhZjU0YjhiYWYuYWQwMjA0ZDBjZWExOGQ5N2I0NTdjYzYyZTkzYThiMTljMzgwMTg5MTExYzJhM2JmYThjNTBhMWY0YTI5NTE4Mg
-
-#EXTINF:-1 tvg-id="TNTSports4.GB" tvg-name="TNT SPORTS 4 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4.webp" group-title="TV",TNT SPORTS 4 [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204&code=gb&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTEyMDU5MDcwMDk6Y2RubGl2ZXR2LnR2OjM4Yzc1NDIxMmYxOTRlNzguNzg5NWQyMWUyNGJiYTI5NmU0ZmZjYzY3MjZkN2QxNmQxMmNhZmI2YmJiMGM1ZmIxZTRlOTY1Zjc2NTBkZmFmMA|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTEyMzk0NjY4MDA6Y2RubGl2ZXR2LnR2OmVkZTgyYTYwMmQ0MmMwOGYuZmI0ZTE0ZmQ1ZjE4ZDRmODBlMTU2MDZhNzYzMTE0NDhiNzgyY2VhNzQyYjBkNjE5Y2FlOWUxOTZjOGYyYTQxOQ
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 4 [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46594_dark_360w_270h.png" group-title="TV",TNT SPORTS 4 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3OTEyMjE0NjcwNzE6Y2RubGl2ZXR2LnR2OjRjNjY0MTk2OTYzMzgwMWMuNDFmNTNhYWQzZDRmMjk5ZGUzYzk4MGJjODUyODRjYTcwMTk3YzQ2MWI4MzQ4ZTFiYWJjNGEyYTdmNGM4Y2Y0OA
-
-#EXTINF:-1 tvg-id="TVPSport.PL" tvg-name="TVP SPORT [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.webp" group-title="TV",TVP SPORT [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport&code=pl&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport&code=pl&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd3af/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkM2FmOjE3OTEyMDU5MTE1MTk6Y2RubGl2ZXR2LnR2OjQzN2MwZjY4ZDc0OTAyNWEuMWFlNGU2MGMxOGExNTk4M2QzNTIyYTNkNGIxY2Y1MTc4ZDFmZDJmNTEwOWEzZWQ4M2I1NWMyMTBiMDliZjFlNg|x-forwarded-for:109.236.88.82
-
-#EXTINF:-1 tvg-id="VSportPremium.SE" tvg-name="V SPORT PREMIUM [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-premium.webp" group-title="TV",V SPORT PREMIUM [S1]
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium&code=se&user=streamsports99&plan=vip
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium&code=se&user=streamsports99&plan=vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd69f/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNjlmOjE3OTEyMDU5MTU0MjI6Y2RubGl2ZXR2LnR2OmY2YzRhMjg0OGRjZmMxNmIuMTBkZjgwN2Y1ZmFkYWU0NDQ0YWNmZmRkYjM5YWExYjI4NjMzMmNiMjM5NTY2NzhkOTExYmQ4NzJlNzE1YjZhYg|x-forwarded-for:109.236.88.82
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3OTEyMzk0NjcwMTA6Y2RubGl2ZXR2LnR2OmNkN2EwNjJhMjlhMzcyMzguY2Q1ZmI3ZDA3MTFjOTk0ZTVlMjljNzAwZjAxZTU1M2FhZjAyMjFmMDgwZGMwMDIwMjdiNzdjN2UzMDRmNDA0Zg
 
 #EXTINF:-1 tvg-id="plex.tv.Willow.Sports.plex" tvg-name="WILLOW SPORTS [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s164602_dark_360w_270h.png" group-title="TV",WILLOW SPORTS [S3]
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
