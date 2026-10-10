@@ -79,20 +79,15 @@ https://admin2.formaturamaxi.com.br/ncaa10.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/porto.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="Monaco vs Toulouse" tvg-logo="" group-title="SOCCER",Monaco vs Toulouse
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/fana.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Real Madrid vs Villarreal" tvg-logo="" group-title="SOCCER",Real Madrid vs Villarreal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/dep.m3u8
-
 #EXTINF:-1 tvg-id="other" tvg-name="Real Madrid vs Villarreal" tvg-logo="" group-title="SOCCER",Real Madrid vs Villarreal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/rma.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Real Madrid vs Villarreal" tvg-logo="" group-title="SOCCER",Real Madrid vs Villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/rmaen.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Vasco Gama vs Remo" tvg-logo="" group-title="SOCCER",Vasco Gama vs Remo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -397,7 +392,7 @@ https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="NASCAR O'Reilly Auto Parts Series - Race" tvg-logo="" group-title="MOTORSPORTS",NASCAR O'Reilly Auto Parts Series - Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nas.m3u8
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Lucas Oil Late Model Series - Night 2" tvg-logo="" group-title="MOTORSPORTS",Lucas Oil Late Model Series - Night 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -414,15 +409,13 @@ https://admin2.formaturamaxi.com.br/flo3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo4.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا:رئال مادرید - ویارئال" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport2_small.jpg?44494" group-title="Aparat Sport Live",لالیگا اسپانیا:رئال مادرید - ویارئال
+#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا:رئال مادرید - ویارئال" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport2_small.jpg?68676" group-title="Aparat Sport Live",لالیگا اسپانیا:رئال مادرید - ویارئال
 https://www.aparatsport.ir/adele/getAparatManifest/BSu3d3b7545FC8F/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ هلند: آلکمار - فاینورد" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport5_small.jpg?77603" group-title="Aparat Sport Live",لیگ هلند: آلکمار - فاینورد
-https://www.aparatsport.ir/adele/getAparatManifest/qNS728772CFE0AB/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ حرفه‌ای عربستان:الهلال - الاتحاد" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSportPlus_small.jpg?97843" group-title="Aparat Sport Live",لیگ حرفه‌ای عربستان:الهلال - الاتحاد
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ حرفه‌ای عربستان:الهلال - الاتحاد" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSportPlus_small.jpg?30863" group-title="Aparat Sport Live",لیگ حرفه‌ای عربستان:الهلال - الاتحاد
 https://www.aparatsport.ir/adele/getAparatManifest/yGhf6399EF4871A/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ یک فرانسه: پاری سن ژرمن - لومان" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportPlus1_small.jpg?27388" group-title="Aparat Sport Live",لیگ یک فرانسه: پاری سن ژرمن - لومان
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ یک فرانسه: پاری سن ژرمن - لومان" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportPlus1_small.jpg?64687" group-title="Aparat Sport Live",لیگ یک فرانسه: پاری سن ژرمن - لومان
 https://www.aparatsport.ir/adele/getAparatManifest/utc60eb25BC276C/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: ناپولی - فروزینونه" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport1_small.jpg?72890" group-title="Aparat Sport Live",سری آ ایتالیا: ناپولی - فروزینونه
+#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: ناپولی - فروزینونه" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport1_small.jpg?4063" group-title="Aparat Sport Live",سری آ ایتالیا: ناپولی - فروزینونه
 https://www.aparatsport.ir/adele/getAparatManifest/J8n49b77B9AACA1/master.m3u8
 
 
