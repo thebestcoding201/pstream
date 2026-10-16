@@ -127,7 +127,7 @@ https://tedesco.formaturamaxi.com.br/nba8.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Minnesota Timberwolves vs Chicago Bulls" tvg-logo="" group-title="NBA",Minnesota Timberwolves vs Chicago Bulls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/nba9.m3u8
+https://admin2.formaturamaxi.com.br/nba9.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Portland Trail Blazers vs Golden State Warriors" tvg-logo="" group-title="NBA",Portland Trail Blazers vs Golden State Warriors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -179,6 +179,11 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 
+#EXTINF:-1 tvg-id="other" tvg-name="WWE Smackdown" tvg-logo="" group-title="FIGHTING",WWE Smackdown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://tedesco.formaturamaxi.com.br/wwe.m3u8
+
 #EXTINF:-1 tvg-id="other" tvg-name="NASCAR Craftsman Truck Series" tvg-logo="" group-title="MOTORSPORTS",NASCAR Craftsman Truck Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -189,9 +194,9 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال پیش فصل NBA: فیلادلفیا - بوستون" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport.NBA_small.jpg?63878" group-title="Aparat Sport Live",بسکتبال پیش فصل NBA: فیلادلفیا - بوستون
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال پیش فصل NBA: فیلادلفیا - بوستون" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport.NBA_small.jpg?68419" group-title="Aparat Sport Live",بسکتبال پیش فصل NBA: فیلادلفیا - بوستون
 https://www.aparatsport.ir/adele/getAparatManifest/wcU0a7ceE59463F/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی زیر ۲۳ سال جهان" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport10_small.jpg?74411" group-title="Aparat Sport Live",کشتی آزاد قهرمانی زیر ۲۳ سال جهان
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی زیر ۲۳ سال جهان" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport10_small.jpg?3773" group-title="Aparat Sport Live",کشتی آزاد قهرمانی زیر ۲۳ سال جهان
 https://www.aparatsport.ir/adele/getAparatManifest/MeCd4db1A696BF3/master.m3u8
 
 
