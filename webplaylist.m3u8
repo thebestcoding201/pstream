@@ -82,7 +82,7 @@ https://admin2.formaturamaxi.com.br/oldham.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="PSG vs Strasbourg" tvg-logo="" group-title="SOCCER",PSG vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/beines.m3u8
+https://admin2.formaturamaxi.com.br/beines.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="PSG vs Strasbourg" tvg-logo="" group-title="SOCCER",PSG vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -172,17 +172,17 @@ https://admin2.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="College Gameday" tvg-logo="" group-title="NFL",College Gameday
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/ncaa3.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Ohio State vs Indiana" tvg-logo="" group-title="NFL",Ohio State vs Indiana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/ncaa.m3u8
+https://admin2.formaturamaxi.com.br/ncaa.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Florida vs Texas" tvg-logo="" group-title="NFL",Florida vs Texas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/ncaa2.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Virginia vs SMU" tvg-logo="" group-title="NFL",Virginia vs SMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -197,7 +197,7 @@ https://admin2.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Kansas vs Kansas State" tvg-logo="" group-title="NFL",Kansas vs Kansas State
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/ncaa7.m3u8
+https://admin2.formaturamaxi.com.br/ncaa7.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Charleston Southern vs Clemson" tvg-logo="" group-title="NFL",Charleston Southern vs Clemson
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -339,26 +339,28 @@ https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo2.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: رئال بتیس - بارسلونا" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport1_small.jpg?51482" group-title="Aparat Sport Live",لالیگا اسپانیا: رئال بتیس - بارسلونا
+#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: رئال بتیس - بارسلونا" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport1_small.jpg?58619" group-title="Aparat Sport Live",لالیگا اسپانیا: رئال بتیس - بارسلونا
 https://www.aparatsport.ir/adele/getAparatManifest/Bv12ade6B6DA697/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="بوندس‌لیگا آلمان: بایرن مونیخ - لایپزیگ" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport_small.jpg?45465" group-title="Aparat Sport Live",بوندس‌لیگا آلمان: بایرن مونیخ - لایپزیگ
+#EXTINF:-1 tvg-id="other" tvg-name="بوندس‌لیگا آلمان: بایرن مونیخ - لایپزیگ" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport_small.jpg?73898" group-title="Aparat Sport Live",بوندس‌لیگا آلمان: بایرن مونیخ - لایپزیگ
 https://www.aparatsport.ir/adele/getAparatManifest/8RZ798a2B301929/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ستارگان عراق: الجولان - دهوک" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSport2_small.jpg?37070" group-title="Aparat Sport Live",لیگ ستارگان عراق: الجولان - دهوک
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ستارگان عراق: الجولان - دهوک" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSport2_small.jpg?53309" group-title="Aparat Sport Live",لیگ ستارگان عراق: الجولان - دهوک
 https://www.aparatsport.ir/adele/getAparatManifest/jY41f545ACFEFD4/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ یک فرانسه: استراسبورگ - پاری سن ژرمن" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport4_small.jpg?59654" group-title="Aparat Sport Live",لیگ یک فرانسه: استراسبورگ - پاری سن ژرمن
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ یک فرانسه: استراسبورگ - پاری سن ژرمن" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport4_small.jpg?76795" group-title="Aparat Sport Live",لیگ یک فرانسه: استراسبورگ - پاری سن ژرمن
 https://www.aparatsport.ir/adele/getAparatManifest/o1C7d27eAABF2BA/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ حرفه‌ای امارات: شباب الاهلی - العین" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSportPlus1_small.jpg?36979" group-title="Aparat Sport Live",لیگ حرفه‌ای امارات: شباب الاهلی - العین
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ حرفه‌ای امارات: شباب الاهلی - العین" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSportPlus1_small.jpg?51483" group-title="Aparat Sport Live",لیگ حرفه‌ای امارات: شباب الاهلی - العین
 https://www.aparatsport.ir/adele/getAparatManifest/3Ob9bcc5860F760/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: بولونیا - اینتر" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport5_small.jpg?18774" group-title="Aparat Sport Live",سری آ ایتالیا: بولونیا - اینتر
+#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: بولونیا - اینتر" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport5_small.jpg?98347" group-title="Aparat Sport Live",سری آ ایتالیا: بولونیا - اینتر
 https://www.aparatsport.ir/adele/getAparatManifest/kg31b1a19D1DDB9/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="سوپر لیگ ترکیه: فنرباغچه - آلانیا اسپور" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSportPlus_small.jpg?26581" group-title="Aparat Sport Live",سوپر لیگ ترکیه: فنرباغچه - آلانیا اسپور
+#EXTINF:-1 tvg-id="other" tvg-name="سوپر لیگ ترکیه: فنرباغچه - آلانیا اسپور" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSportPlus_small.jpg?84492" group-title="Aparat Sport Live",سوپر لیگ ترکیه: فنرباغچه - آلانیا اسپور
 https://www.aparatsport.ir/adele/getAparatManifest/bVga02334B6F5D6/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="والیبال سوپرلیگا ایتالیا: ورونا - لوبه" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport7_small.jpg?36925" group-title="Aparat Sport Live",والیبال سوپرلیگا ایتالیا: ورونا - لوبه
+#EXTINF:-1 tvg-id="other" tvg-name="والیبال سوپرلیگا ایتالیا: ورونا - لوبه" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport7_small.jpg?77360" group-title="Aparat Sport Live",والیبال سوپرلیگا ایتالیا: ورونا - لوبه
 https://www.aparatsport.ir/adele/getAparatManifest/GST5b53f6C0E7E7/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - گدانسک" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/aparatsport8_small.jpg?60327" group-title="Aparat Sport Live",والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - گدانسک
+#EXTINF:-1 tvg-id="other" tvg-name="والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - گدانسک" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/aparatsport8_small.jpg?16406" group-title="Aparat Sport Live",والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - گدانسک
 https://www.aparatsport.ir/adele/getAparatManifest/pwAca5e04A748AE/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ برتر انگلیس: نیوکاسل - استون ویلا" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport3_small.jpg?56002" group-title="Aparat Sport Live",لیگ برتر انگلیس: نیوکاسل - استون ویلا
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ برتر انگلیس: نیوکاسل - استون ویلا" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport3_small.jpg?29694" group-title="Aparat Sport Live",لیگ برتر انگلیس: نیوکاسل - استون ویلا
 https://www.aparatsport.ir/adele/getAparatManifest/bbL6e47f9C3059C/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ستارگان قطر: لوسیل SC - الشمال" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/aparatsport9_small.jpg?20009" group-title="Aparat Sport Live",لیگ ستارگان قطر: لوسیل SC - الشمال
+https://www.aparatsport.ir/adele/getAparatManifest/GOR1894f988F367/master.m3u8
 
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.AE" tvg-name="ABU DHABI SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp" group-title="TV",ABU DHABI SPORTS 1 [S1]
