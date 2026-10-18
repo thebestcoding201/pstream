@@ -92,12 +92,12 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Málaga vs Real Sociedad" tvg-logo="" group-title="SOCCER",Málaga vs Real Sociedad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://admin2.formaturamaxi.com.br/madrid.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Málaga vs Real Sociedad" tvg-logo="" group-title="SOCCER",Málaga vs Real Sociedad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/madrid.m3u8
+https://admin2.formaturamaxi.com.br/dep.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Fluminense vs Santos" tvg-logo="" group-title="SOCCER",Fluminense vs Santos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -113,6 +113,11 @@ https://admin.formaturamaxi.com.br/fana1en.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/fana1es.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Fluminense vs Santos" tvg-logo="" group-title="SOCCER",Fluminense vs Santos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Grêmio vs Cruzeiro" tvg-logo="" group-title="SOCCER",Grêmio vs Cruzeiro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -242,6 +247,11 @@ https://admin2.formaturamaxi.com.br/nfl8.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Arizona Cardinals vs Los Angeles Rams" tvg-logo="" group-title="NFL",Arizona Cardinals vs Los Angeles Rams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://tedesco.formaturamaxi.com.br/nfl9.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Arizona Cardinals vs Los Angeles Rams" tvg-logo="" group-title="NFL",Arizona Cardinals vs Los Angeles Rams
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/nfl9.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Los Angeles Chargers vs Kansas City Chiefs" tvg-logo="" group-title="NFL",Los Angeles Chargers vs Kansas City Chiefs
@@ -314,17 +324,17 @@ https://admin.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: رئال مادرید  - سویا" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport2_small.jpg?81540" group-title="Aparat Sport Live",لالیگا اسپانیا: رئال مادرید  - سویا
+#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: رئال مادرید  - سویا" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport2_small.jpg?76296" group-title="Aparat Sport Live",لالیگا اسپانیا: رئال مادرید  - سویا
 https://www.aparatsport.ir/adele/getAparatManifest/WJ735e719F16DE2/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی زیر ۲۳ سال جهان" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport8_small.jpg?16537" group-title="Aparat Sport Live",کشتی آزاد قهرمانی زیر ۲۳ سال جهان
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی زیر ۲۳ سال جهان" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport8_small.jpg?85616" group-title="Aparat Sport Live",کشتی آزاد قهرمانی زیر ۲۳ سال جهان
 https://www.aparatsport.ir/adele/getAparatManifest/6Vq3ee74DA6A15F/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="اسنوکر آزاد ایرلند شمالی: نیل رابرتسون - ریکی والدن" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?67687" group-title="Aparat Sport Live",اسنوکر آزاد ایرلند شمالی: نیل رابرتسون - ریکی والدن
+#EXTINF:-1 tvg-id="other" tvg-name="اسنوکر آزاد ایرلند شمالی: نیل رابرتسون - ریکی والدن" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?54362" group-title="Aparat Sport Live",اسنوکر آزاد ایرلند شمالی: نیل رابرتسون - ریکی والدن
 https://www.aparatsport.ir/adele/getAparatManifest/teQa0b9aD43DC6B/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="اسنوکر آزاد ایرلند شمالی: علی کارتر - سی شو" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport9_small.jpg?65477" group-title="Aparat Sport Live",اسنوکر آزاد ایرلند شمالی: علی کارتر - سی شو
+#EXTINF:-1 tvg-id="other" tvg-name="اسنوکر آزاد ایرلند شمالی: علی کارتر - سی شو" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport9_small.jpg?77924" group-title="Aparat Sport Live",اسنوکر آزاد ایرلند شمالی: علی کارتر - سی شو
 https://www.aparatsport.ir/adele/getAparatManifest/Gir74a95AD65FD2/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ یک فرانسه: لیون - نیس" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport6_small.jpg?26512" group-title="Aparat Sport Live",لیگ یک فرانسه: لیون - نیس
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ یک فرانسه: لیون - نیس" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport6_small.jpg?71246" group-title="Aparat Sport Live",لیگ یک فرانسه: لیون - نیس
 https://www.aparatsport.ir/adele/getAparatManifest/7Ja10686C1F4521/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: یوونتوس - لاتزیو" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport1_small.jpg?13666" group-title="Aparat Sport Live",سری آ ایتالیا: یوونتوس - لاتزیو
+#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: یوونتوس - لاتزیو" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport1_small.jpg?77644" group-title="Aparat Sport Live",سری آ ایتالیا: یوونتوس - لاتزیو
 https://www.aparatsport.ir/adele/getAparatManifest/Im2abae7612D913/master.m3u8
 
 
