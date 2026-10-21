@@ -132,7 +132,7 @@ https://admin2.formaturamaxi.com.br/espnmx.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Tigres vs Leon" tvg-logo="" group-title="SOCCER",Tigres vs Leon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/oldham.m3u8
+https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Cleveland Guardians vs Tampa Bay Rays" tvg-logo="" group-title="MLB",Cleveland Guardians vs Tampa Bay Rays
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -242,7 +242,7 @@ https://admin2.formaturamaxi.com.br/nhl10.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Tampa Bay Lightning vs Vegas Golden Knights" tvg-logo="" group-title="NHL",Tampa Bay Lightning vs Vegas Golden Knights
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nhl11.m3u8
+https://admin2.formaturamaxi.com.br/nhl7.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="WWE NXT" tvg-logo="" group-title="FIGHTING",WWE NXT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -289,10 +289,12 @@ https://admin.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: نیویورک - فیلادلفیا" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport.NBA_small.jpg?89375" group-title="Aparat Sport Live",بسکتبال NBA: نیویورک - فیلادلفیا
-https://www.aparatsport.ir/adele/getAparatManifest/yhn75f23DAA3C5D/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="نیمه نهایی جام سودامریکانا: واسکو دو گاما - بوکا جونیورز" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport1_small.jpg?9299" group-title="Aparat Sport Live",نیمه نهایی جام سودامریکانا: واسکو دو گاما - بوکا جونیورز
-https://www.aparatsport.ir/adele/getAparatManifest/md5d3c9117D2F5C/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="تنیس روی میز دوبل زنان قهرمانی آسیا (ندا شهسواری و فاطمه یاری): ایران - ماکائو" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?29037" group-title="Aparat Sport Live",تنیس روی میز دوبل زنان قهرمانی آسیا (ندا شهسواری و فاطمه یاری): ایران - ماکائو
+https://www.aparatsport.ir/adele/getAparatManifest/cqB1c44260452CC/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="تنیس روی میز تیمی مردان قهرمانی آسیا: ایران - سنگاپور" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport9_small.jpg?93398" group-title="Aparat Sport Live",تنیس روی میز تیمی مردان قهرمانی آسیا: ایران - سنگاپور
+https://www.aparatsport.ir/adele/getAparatManifest/d2P6ca58CB0D375/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="تنیس روی میز دوبل زنان قهرمانی آسیا (مهشید اشتری و ستایش ایلوخانی): تاجیکستان - ایران" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport8_small.jpg?85133" group-title="Aparat Sport Live",تنیس روی میز دوبل زنان قهرمانی آسیا (مهشید اشتری و ستایش ایلوخانی): تاجیکستان - ایران
+https://www.aparatsport.ir/adele/getAparatManifest/5jV726c63121C38/master.m3u8
 
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.AE" tvg-name="ABU DHABI SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp" group-title="TV",ABU DHABI SPORTS 1 [S1]
