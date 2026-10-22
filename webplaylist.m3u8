@@ -127,12 +127,12 @@ https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Atlas vs America" tvg-logo="" group-title="SOCCER",Atlas vs America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/primemx.m3u8
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Puebla vs Monterrey" tvg-logo="" group-title="SOCCER",Puebla vs Monterrey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+https://admin2.formaturamaxi.com.br/espnmx.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Toluca vs Tijuana" tvg-logo="" group-title="SOCCER",Toluca vs Tijuana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -264,10 +264,12 @@ https://admin.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="اسنوکر آزاد ایرلند شمالی: لوکا برسل - مارتین اُدانِل" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport9_small.jpg?9721" group-title="Aparat Sport Live",اسنوکر آزاد ایرلند شمالی: لوکا برسل - مارتین اُدانِل
-https://www.aparatsport.ir/adele/getAparatManifest/hKb16721F023C9D/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: میامی - مینسوتا" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport.NBA_small.jpg?45775" group-title="Aparat Sport Live",بسکتبال NBA: میامی - مینسوتا
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: میامی - مینسوتا" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport.NBA_small.jpg?49634" group-title="Aparat Sport Live",بسکتبال NBA: میامی - مینسوتا
 https://www.aparatsport.ir/adele/getAparatManifest/96q5f0864BE72F9/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="نیمه نهایی جام لیبرتادورس: پالمیراس - فلومیننزه" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport1_small.jpg?42992" group-title="Aparat Sport Live",نیمه نهایی جام لیبرتادورس: پالمیراس - فلومیننزه
+https://www.aparatsport.ir/adele/getAparatManifest/S4q5f375D675E35/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: هیوستون - دالاس" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?59241" group-title="Aparat Sport Live",بسکتبال NBA: هیوستون - دالاس
+https://www.aparatsport.ir/adele/getAparatManifest/7KBd4138A45023E/master.m3u8
 
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.AE" tvg-name="ABU DHABI SPORTS 1 [S1]" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp" group-title="TV",ABU DHABI SPORTS 1 [S1]
