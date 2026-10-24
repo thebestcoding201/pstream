@@ -214,11 +214,6 @@ https://admin2.formaturamaxi.com.br/rockets.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/wnba.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="" group-title="NBA",Golden State Valkyries vs Atlanta Dream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/wnba.m3u8
-
 #EXTINF:-1 tvg-id="other" tvg-name="College GameDay" tvg-logo="" group-title="NFL",College GameDay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -297,7 +292,7 @@ https://admin2.formaturamaxi.com.br/wnba.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Anaheim Ducks vs Philadelphia Flyers" tvg-logo="" group-title="NHL",Anaheim Ducks vs Philadelphia Flyers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/nhl.m3u8
+https://tedesco.formaturamaxi.com.br/nhl.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Los Angeles Kings vs New Jersey Devils" tvg-logo="" group-title="NHL",Los Angeles Kings vs New Jersey Devils
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -372,7 +367,12 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="East vs West XXVII" tvg-logo="" group-title="FIGHTING",East vs West XXVII
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/ppv2.m3u8
+https://admin.formaturamaxi.com.br/ppv2.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="East vs West XXVII" tvg-logo="" group-title="FIGHTING",East vs West XXVII
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/ppv2.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Navarrete vs. Foster" tvg-logo="" group-title="FIGHTING",Navarrete vs. Foster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -399,22 +399,24 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ برتر انگلیس: چلسی - تاتنهام" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport5_small.jpg?72301" group-title="Aparat Sport Live",لیگ برتر انگلیس: چلسی - تاتنهام
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ برتر انگلیس: چلسی - تاتنهام" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport5_small.jpg?56394" group-title="Aparat Sport Live",لیگ برتر انگلیس: چلسی - تاتنهام
 https://www.aparatsport.ir/adele/getAparatManifest/CCg00e4d4B93A58/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: ناپولی - رم" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportPlus_small.jpg?52490" group-title="Aparat Sport Live",سری آ ایتالیا: ناپولی - رم
+#EXTINF:-1 tvg-id="other" tvg-name="سری آ ایتالیا: ناپولی - رم" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportPlus_small.jpg?40301" group-title="Aparat Sport Live",سری آ ایتالیا: ناپولی - رم
 https://www.aparatsport.ir/adele/getAparatManifest/Godb86800D132EF/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - پروجکت ورشو" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?51840" group-title="Aparat Sport Live",والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - پروجکت ورشو
+#EXTINF:-1 tvg-id="other" tvg-name="والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - پروجکت ورشو" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?37474" group-title="Aparat Sport Live",والیبال تائورون لیگا لهستان: اسکرا بلخاتوف - پروجکت ورشو
 https://www.aparatsport.ir/adele/getAparatManifest/wPv2647eD1E7739/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="نیمه نهایی تنیس آزاد بروکسل بلژیک: فیس - اشتروف" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport.NBA_small.jpg?33435" group-title="Aparat Sport Live",نیمه نهایی تنیس آزاد بروکسل بلژیک: فیس - اشتروف
+#EXTINF:-1 tvg-id="other" tvg-name="نیمه نهایی تنیس آزاد بروکسل بلژیک: فیس - اشتروف" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport.NBA_small.jpg?31565" group-title="Aparat Sport Live",نیمه نهایی تنیس آزاد بروکسل بلژیک: فیس - اشتروف
 https://www.aparatsport.ir/adele/getAparatManifest/mmx1ea9e0BF39F6/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="بوندس‌لیگا آلمان: دورتموند - آینتراخت فرانکفورت" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSportPlus1_small.jpg?58628" group-title="Aparat Sport Live",بوندس‌لیگا آلمان: دورتموند - آینتراخت فرانکفورت
+#EXTINF:-1 tvg-id="other" tvg-name="بوندس‌لیگا آلمان: دورتموند - آینتراخت فرانکفورت" tvg-logo="https://live.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSportPlus1_small.jpg?40557" group-title="Aparat Sport Live",بوندس‌لیگا آلمان: دورتموند - آینتراخت فرانکفورت
 https://www.aparatsport.ir/adele/getAparatManifest/1Al348f026DADC7/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: والنسیا - ویارئال" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport7_small.jpg?90224" group-title="Aparat Sport Live",لالیگا اسپانیا: والنسیا - ویارئال
+#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: والنسیا - ویارئال" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport7_small.jpg?64117" group-title="Aparat Sport Live",لالیگا اسپانیا: والنسیا - ویارئال
 https://www.aparatsport.ir/adele/getAparatManifest/5EV7aa130D0F8B9/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ستارگان قطر: الدحیل - لوسیل SC" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSport2_small.jpg?81465" group-title="Aparat Sport Live",لیگ ستارگان قطر: الدحیل - لوسیل SC
+#EXTINF:-1 tvg-id="other" tvg-name="لیگ ستارگان قطر: الدحیل - لوسیل SC" tvg-logo="https://live.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSport2_small.jpg?70832" group-title="Aparat Sport Live",لیگ ستارگان قطر: الدحیل - لوسیل SC
 https://www.aparatsport.ir/adele/getAparatManifest/nmk304a84B9620C/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="دور سوم تمرینی فرمول یک آمریکا" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport3_small.jpg?53253" group-title="Aparat Sport Live",دور سوم تمرینی فرمول یک آمریکا
+#EXTINF:-1 tvg-id="other" tvg-name="دور سوم تمرینی فرمول یک آمریکا" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport3_small.jpg?71480" group-title="Aparat Sport Live",دور سوم تمرینی فرمول یک آمریکا
 https://www.aparatsport.ir/adele/getAparatManifest/wASd8409EE1794D/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="نیمه نهایی اسنوکر آزاد ایرلند شمالی: مارک ویلیامز - جک جونز" tvg-logo="https://live.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport4_small.jpg?61580" group-title="Aparat Sport Live",نیمه نهایی اسنوکر آزاد ایرلند شمالی: مارک ویلیامز - جک جونز
+https://www.aparatsport.ir/adele/getAparatManifest/WmD1db220F967E3/master.m3u8
 
 
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="BEIN SPORTS XTRA [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113143_dark_360w_270h.png" group-title="TV",BEIN SPORTS XTRA [S3]
