@@ -174,6 +174,11 @@ https://admin.formaturamaxi.com.br/fana5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/fana5es.m3u8
 
+#EXTINF:-1 tvg-id="other" tvg-name="Tijuana vs Santos Laguna" tvg-logo="" group-title="SOCCER",Tijuana vs Santos Laguna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/foxone7mx.m3u8
+
 #EXTINF:-1 tvg-id="other" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -192,7 +197,7 @@ https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Indiana Pacers vs Brooklyn Nets" tvg-logo="" group-title="NBA",Indiana Pacers vs Brooklyn Nets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://tedesco.formaturamaxi.com.br/nba2.m3u8
+https://admin2.formaturamaxi.com.br/nba2.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Orlando Magic vs New York Knicks" tvg-logo="" group-title="NBA",Orlando Magic vs New York Knicks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -237,12 +242,12 @@ https://admin.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="NFL RedZone" tvg-logo="" group-title="NFL",NFL RedZone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/redzonealt.m3u8
+https://admin2.formaturamaxi.com.br/redzone.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="NFL RedZone" tvg-logo="" group-title="NFL",NFL RedZone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/redzone.m3u8
+https://admin2.formaturamaxi.com.br/redzonealt.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="San Francisco 49ers vs Atlanta Falcons" tvg-logo="" group-title="NFL",San Francisco 49ers vs Atlanta Falcons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -389,11 +394,9 @@ https://temp.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: بارسلونا - رئال مادرید" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportAdel_small.jpg?77094" group-title="Aparat Sport Live",لالیگا اسپانیا: بارسلونا - رئال مادرید
+#EXTINF:-1 tvg-id="other" tvg-name="لالیگا اسپانیا: بارسلونا - رئال مادرید" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportAdel_small.jpg?35369" group-title="Aparat Sport Live",لالیگا اسپانیا: بارسلونا - رئال مادرید
 https://www.aparatsport.ir/adele/getAparatManifest/S4155dde2006795/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="دور اصلی فرمول یک آمریکا" tvg-logo="https://live.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/aparatsport8_small.jpg?54616" group-title="Aparat Sport Live",دور اصلی فرمول یک آمریکا
-https://www.aparatsport.ir/adele/getAparatManifest/AS42cc91213540B/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: یوتا - لس آنجلس لیکرز" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport.NBA_small.jpg?1358" group-title="Aparat Sport Live",بسکتبال NBA: یوتا - لس آنجلس لیکرز
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: یوتا - لس آنجلس لیکرز" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport.NBA_small.jpg?68036" group-title="Aparat Sport Live",بسکتبال NBA: یوتا - لس آنجلس لیکرز
 https://www.aparatsport.ir/adele/getAparatManifest/FdAa7d02FF0D843/master.m3u8
 
 
