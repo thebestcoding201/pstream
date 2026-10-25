@@ -177,7 +177,7 @@ https://admin.formaturamaxi.com.br/fana7es.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Santos vs Bahia" tvg-logo="" group-title="SOCCER",Santos vs Bahia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/match3ru.m3u8
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Monterrey vs Chivas" tvg-logo="" group-title="SOCCER",Monterrey vs Chivas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -258,6 +258,11 @@ https://admin.formaturamaxi.com.br/ncaa2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/ncaa3.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="LSU vs Auburn" tvg-logo="" group-title="NFL",LSU vs Auburn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/ncaa4.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="LSU vs Auburn" tvg-logo="" group-title="NFL",LSU vs Auburn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -439,9 +444,9 @@ https://admin2.formaturamaxi.com.br/flo2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/flo.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: فیلادلفیا - میلواکی" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport.NBA_small.jpg?25859" group-title="Aparat Sport Live",بسکتبال NBA: فیلادلفیا - میلواکی
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: فیلادلفیا - میلواکی" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport.NBA_small.jpg?67697" group-title="Aparat Sport Live",بسکتبال NBA: فیلادلفیا - میلواکی
 https://www.aparatsport.ir/adele/getAparatManifest/WdY920ae0C63C09/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: دالاس - سن آنتونیو" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?99254" group-title="Aparat Sport Live",بسکتبال NBA: دالاس - سن آنتونیو
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: دالاس - سن آنتونیو" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?52632" group-title="Aparat Sport Live",بسکتبال NBA: دالاس - سن آنتونیو
 https://www.aparatsport.ir/adele/getAparatManifest/gAtb929481FAEBB/master.m3u8
 
 
