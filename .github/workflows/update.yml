@@ -23,9 +23,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -37,7 +34,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Fetch playlist
+      - name: Fetch playlists
         run: python update_playlist.py
 
       - name: Commit and push if changed
@@ -45,17 +42,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ ! -f webplaylist.m3u8 ]; then
-            echo "❌ webplaylist.m3u8 not found!"
-            exit 1
-          fi
+          for f in webplaylist.m3u8 webplaylist.m3u; do
+            if [ ! -f "$f" ]; then
+              echo "❌ $f not found!"
+              exit 1
+            fi
+          done
 
-          git add webplaylist.m3u8
+          git add webplaylist.m3u8 webplaylist.m3u
 
           if git diff --cached --quiet; then
             echo "✅ No changes detected."
           else
-            git commit -m "chore: update webplaylist.m3u8 [skip ci]"
+            git commit -m "chore: update playlists [skip ci]"
             git push
             echo "✅ Pushed changes."
           fi
