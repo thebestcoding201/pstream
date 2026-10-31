@@ -1,30 +1,42 @@
 import requests
 from pathlib import Path
 
-SOURCE_URL = "https://pstream.ir/playlist.m3u8"
-OUTPUT_FILE = Path(__file__).resolve().parent / "webplaylist.m3u8"
+SOURCES = [
+    {
+        "url": "https://pstream.ir/playlist.m3u8",
+        "output": Path(__file__).resolve().parent / "webplaylist.m3u8",
+    },
+    {
+        "url": "https://pstream.ir/playlist.m3u",
+        "output": Path(__file__).resolve().parent / "webplaylist.m3u",
+    },
+]
 
-def main():
-    print(f"Fetching: {SOURCE_URL}")
+
+def fetch_and_save(url: str, output_file: Path) -> None:
+    print(f"Fetching: {url}")
 
     response = requests.get(
-        SOURCE_URL,
+        url,
         timeout=30,
-        headers={
-            "User-Agent": "Mozilla/5.0"
-        }
+        headers={"User-Agent": "Mozilla/5.0"},
     )
     response.raise_for_status()
 
     content = response.content
-
     if not content:
-        raise RuntimeError("Downloaded playlist is empty.")
+        raise RuntimeError(f"Downloaded playlist is empty: {url}")
 
-    OUTPUT_FILE.write_bytes(content)
+    output_file.write_bytes(content)
 
-    print(f"Saved: {OUTPUT_FILE}")
+    print(f"Saved: {output_file}")
     print(f"Size: {len(content)} bytes")
+    print("-" * 40)
+
+
+def main():
+    for source in SOURCES:
+        fetch_and_save(source["url"], source["output"])
 
 
 if __name__ == "__main__":
