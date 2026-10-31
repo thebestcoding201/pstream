@@ -124,11 +124,6 @@ https://admin2.formaturamaxi.com.br/nba9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/lakers.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="Los Angeles Lakers vs Golden State Warriors" tvg-logo="" group-title="NBA",Los Angeles Lakers vs Golden State Warriors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin.formaturamaxi.com.br/nba9.m3u8
-
 #EXTINF:-1 tvg-id="other" tvg-name="Tulane vs Charlotte" tvg-logo="" group-title="NFL",Tulane vs Charlotte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
@@ -189,7 +184,18 @@ https://tedesco.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
 
-
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی جهان (۴ تشک)" tvg-logo="https://live.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/aparatsport6_small.jpg?17841" group-title="Aparat Sport Live",کشتی آزاد قهرمانی جهان (۴ تشک)
+https://www.aparatsport.ir/adele/getAparatManifest/1B021eb3E930BE6/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی جهان - تشک A" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport10_small.jpg?13006" group-title="Aparat Sport Live",کشتی آزاد قهرمانی جهان - تشک A
+https://www.aparatsport.ir/adele/getAparatManifest/rI6bf23b0278B9D/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی جهان - تشک B" tvg-logo="https://live.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport9_small.jpg?73427" group-title="Aparat Sport Live",کشتی آزاد قهرمانی جهان - تشک B
+https://www.aparatsport.ir/adele/getAparatManifest/62Z3df67B743A1D/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی جهان - تشک C" tvg-logo="https://live.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport8_small.jpg?52021" group-title="Aparat Sport Live",کشتی آزاد قهرمانی جهان - تشک C
+https://www.aparatsport.ir/adele/getAparatManifest/gQNbd5648A74FA2/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="کشتی آزاد قهرمانی جهان - تشک D" tvg-logo="https://live.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/aparatsport7_small.jpg?91527" group-title="Aparat Sport Live",کشتی آزاد قهرمانی جهان - تشک D
+https://www.aparatsport.ir/adele/getAparatManifest/YD5cebceF8DE8A6/master.m3u8
+#EXTINF:-1 tvg-id="other" tvg-name="اسنوکر قهرمانی بین المللی: استوارت کرینگتون - حسین وفایی" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSportPlus_small.jpg?43503" group-title="Aparat Sport Live",اسنوکر قهرمانی بین المللی: استوارت کرینگتون - حسین وفایی
+https://www.aparatsport.ir/adele/getAparatManifest/5WL2edebE615808/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 1 FHD [S2]" tvg-logo="" group-title="TV",ABU DHABI SPORTS 1 FHD [S2]
 https://cdnlivetv.tv/secure/api/v1/6add40b02d4a99e07363e6d6/playlist.m3u8?token=NmFkZDQwYjAyZDRhOTllMDczNjNlNmQ2OjE3OTM0MjMyODkyNzE6Y2RubGl2ZXR2LnR2Ojk5NjlkNjIxNTZlMzZkZDUuMThjZjhlM2M5Y2JlZDY2ZDM2YjFjOWY3NjdmYzkzM2I3OTljZTdlMTNlYmQzM2FkMDZiNWRiOGFhYzc4N2M2Zg
@@ -1089,6 +1095,10 @@ https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f7f5/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORT 6 FHD NL [S2]" tvg-logo="" group-title="TV",ZIGGO SPORT 6 FHD NL [S2]
 https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f7f3/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmN2YzOjE3OTM0MjMzMDgxNDg6Y2RubGl2ZXR2LnR2OjUyMzgzMjk2YjU0Y2MyNTguNmQyMTVhNDM4MGYxZWZhN2ExZmQzYmI1ZDJiMjU5MWVlNjFlMTQ4ZjdmODYxNjMyYTQxNzM5ZjkzYWJiZmZlYg
 
+#EXTINF:-1 tvg-id="Brisbane Roar Vs Sydney FC - LOW QUALITY (USE VPN)" tvg-name="Brisbane Roar Vs Sydney FC - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brisbane%20Roar%20Vs%20Sydney%20FC.jpg" group-title="[S3] Football",Brisbane Roar Vs Sydney FC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/bbbb.m3u8
 #EXTINF:-1 tvg-id="Brisbane Roar Vs Sydney FC - TNT4UK SPORTS FHD" tvg-name="Brisbane Roar Vs Sydney FC - TNT4UK SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brisbane%20Roar%20Vs%20Sydney%20FC.jpg" group-title="[S3] Football",Brisbane Roar Vs Sydney FC - TNT4UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1096,6 +1106,10 @@ https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f7f3/playlist.m3u8?token=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-id="Central Coast Mariners Vs Adelaide United - LOW QUALITY (USE VPN)" tvg-name="Central Coast Mariners Vs Adelaide United - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Central%20Coast%20Mariners%20Vs%20Adelaide%20United.jpg" group-title="[S3] Football",Central Coast Mariners Vs Adelaide United - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/bbbb.m3u8
 #EXTINF:-1 tvg-id="Central Coast Mariners Vs Adelaide United - TNT4UK SPORTS FHD" tvg-name="Central Coast Mariners Vs Adelaide United - TNT4UK SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Central%20Coast%20Mariners%20Vs%20Adelaide%20United.jpg" group-title="[S3] Football",Central Coast Mariners Vs Adelaide United - TNT4UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1103,30 +1117,28 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:-1 tvg-id="Club Puebla Vs Pumas UNAM - CANAL5 FHD" tvg-name="Club Puebla Vs Pumas UNAM - CANAL5 FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Puebla%20Vs%20Pumas%20UNAM.jpg" group-title="[S3] Football",Club Puebla Vs Pumas UNAM - CANAL5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-#EXTINF:-1 tvg-id="Club Puebla Vs Pumas UNAM - QUALITY (USE VPN)" tvg-name="Club Puebla Vs Pumas UNAM - QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Puebla%20Vs%20Pumas%20UNAM.jpg" group-title="[S3] Football",Club Puebla Vs Pumas UNAM - QUALITY (USE VPN)
+#EXTINF:-1 tvg-id="Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen - LOW QUALITY (USE VPN)" tvg-name="Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jeonbuk%20Hyundai%20Motors%20Vs%20Daejeon%20Hana%20Citizen.jpg" group-title="[S3] Football",Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.41/hls/K666AAA.m3u8
-#EXTINF:-1 tvg-id="Club Puebla Vs Pumas UNAM - TUDN MEXICO FHD" tvg-name="Club Puebla Vs Pumas UNAM - TUDN MEXICO FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Club%20Puebla%20Vs%20Pumas%20UNAM.jpg" group-title="[S3] Football",Club Puebla Vs Pumas UNAM - TUDN MEXICO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+http://193.47.62.44/hls/bbbbAAA.m3u8
+#EXTINF:-1 tvg-id="Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen - STREAM TV + HD" tvg-name="Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Jeonbuk%20Hyundai%20Motors%20Vs%20Daejeon%20Hana%20Citizen.jpg" group-title="[S3] Football",Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen - STREAM TV + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/bbbbAAA.m3u8
+#EXTINF:-1 tvg-id="Melbourne City Vs Sydney FC - LOW QUALITY (USE VPN)" tvg-name="Melbourne City Vs Sydney FC - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20City%20Vs%20Sydney%20FC.jpg" group-title="[S3] Football",Melbourne City Vs Sydney FC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/bbbbA.m3u8
 #EXTINF:-1 tvg-id="Melbourne City Vs Sydney FC - TNT3UK SPORTS FHD" tvg-name="Melbourne City Vs Sydney FC - TNT3UK SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Melbourne%20City%20Vs%20Sydney%20FC.jpg" group-title="[S3] Football",Melbourne City Vs Sydney FC - TNT3UK SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 tvg-id="Newcastle Jets Vs Wellington Phoenix - LOW QUALITY (USE VPN)" tvg-name="Newcastle Jets Vs Wellington Phoenix - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20Jets%20Vs%20Wellington%20Phoenix.jpg" group-title="[S3] Football",Newcastle Jets Vs Wellington Phoenix - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/bbbbA.m3u8
 #EXTINF:-1 tvg-id="Newcastle Jets Vs Wellington Phoenix - TNT1UK SPORTS FHD" tvg-name="Newcastle Jets Vs Wellington Phoenix - TNT1UK SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Newcastle%20Jets%20Vs%20Wellington%20Phoenix.jpg" group-title="[S3] Football",Newcastle Jets Vs Wellington Phoenix - TNT1UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1190,13 +1202,6 @@ https://no_link.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-#EXTINF:-1 tvg-id="Campeonato Brasileiro Série A(Football)" tvg-name="Corinthians - Mirassol - PREMIERER BR" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Campeonato Brasileiro Série A",Corinthians - Mirassol - PREMIERER BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 #EXTINF:-1 tvg-id="Campeonato Brasileiro Série A(Football)" tvg-name="Corinthians - Mirassol - SPORTV BR" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Campeonato Brasileiro Série A",Corinthians - Mirassol - SPORTV BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1225,13 +1230,6 @@ https://no_link.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - beIN SPORTS FHD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - CBS SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - CBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1239,37 +1237,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - CBS SPORTS HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - CBS SPORTS HD
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - DAZN SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - DAZN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=facf2c65fd8b81366a1f92b3760d2edd:a841c9efd4df389bd9ff344c43e718eb
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ggdp6oa1yx/out/v1/0132f06edcd94e679ac3d5cf83fb5004/cenc.mpd
-#EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - HD STREAM" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - HD STREAM
-https://www.rtmpcdn.com/live/66b12eff-3506-4000-acf4-728b714a14bf.m3u8
-#EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - LOW SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/3333AA.m3u8
 #EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - PARAMOUNT+" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - PARAMOUNT+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8748eeb1b93a33756f2949ef26191ef7:6c376df5be75d3dff7aa61a9e1567bee
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ji5ri1ho4f/out/v1/36bd33e1ab234bc38cc9e4d6a9496d4e/cenc.mpd
-#EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield United - Wrexham - PARAMOUNT+ FHD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield United - Wrexham - PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8748eeb1b93a33756f2949ef26191ef7:6c376df5be75d3dff7aa61a9e1567bee
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ji5ri1ho4f/out/v1/36bd33e1ab234bc38cc9e4d6a9496d4e/cenc.mpd?aws_sessionId=d961c6b5-7439-4b41-ab61-f609f266621f
 #EXTINF:-1 tvg-id="Championship(Football)" tvg-name="Sheffield Utd - Wrexham - beIN ENGLISH - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Championship",Sheffield Utd - Wrexham - beIN ENGLISH - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1333,13 +1306,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-#EXTINF:-1 tvg-id="LaLiga(Football)" tvg-name="Villarreal - Espanyol - beIN SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="LaLiga",Villarreal - Espanyol - beIN SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
 #EXTINF:-1 tvg-id="LaLiga(Football)" tvg-name="Villarreal - Espanyol - Cricfy HD" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="LaLiga",Villarreal - Espanyol - Cricfy HD
 #EXTVLCOPT:http-referrer=https://embedcenter.st/
 https://edgestream3.pro/hls/377qj1h2727.m3u8
@@ -1354,13 +1320,6 @@ https://chatgpt.hereisman.net/playlist/58875/load-playlist.m3u8?
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 #EXTINF:-1 tvg-id="LaLiga(Football)" tvg-name="Villarreal - Espanyol - D SPORTS - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="LaLiga",Villarreal - Espanyol - D SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-id="LaLiga(Football)" tvg-name="Villarreal - Espanyol - D SPORTS ES - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="LaLiga",Villarreal - Espanyol - D SPORTS ES - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1436,13 +1395,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-id="Liga Portugal Betclic(Football)" tvg-name="Casa Pia - Sporting CP - D Sports FHD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Liga Portugal Betclic",Casa Pia - Sporting CP - D Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 #EXTINF:-1 tvg-id="Liga Portugal Betclic(Football)" tvg-name="FC Porto - Estoril Praia - Link 1" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Liga Portugal Betclic",FC Porto - Estoril Praia - Link 1
 https://no_link.m3u8
 #EXTINF:-1 tvg-id="Liga Portugal Betclic(Football)" tvg-name="Moreirense - CF Estrela Amadora - Link 1" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Liga Portugal Betclic",Moreirense - CF Estrela Amadora - Link 1
@@ -1496,21 +1448,7 @@ http://193.47.62.41/hls/3333AAAA.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8
-#EXTINF:-1 tvg-id="Ligue 1(Football)" tvg-name="Lille - RC Lens - beIN SPORTS FHD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Ligue 1",Lille - RC Lens - beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8
 #EXTINF:-1 tvg-id="Ligue 1(Football)" tvg-name="Lille - RC Lens - CAZE TV" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Ligue 1",Lille - RC Lens - CAZE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-#EXTINF:-1 tvg-id="Ligue 1(Football)" tvg-name="Lille - RC Lens - CAZE TV FHD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Ligue 1",Lille - RC Lens - CAZE TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1682,6 +1620,13 @@ https://edgestream1.pro/hls/qsdnajbq32-1653841440.ts?st=wR155ByyJS4Y0QZBxL3ly05l
 #EXTINF:-1 tvg-id="Sacramento State Hornets Vs Kent State Golden Flashes - STREAM TV + HD" tvg-name="Sacramento State Hornets Vs Kent State Golden Flashes - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sacramento%20State%20Hornets%20Vs%20Kent%20State%20Golden%20Flashes.jpg" group-title="[S3] American football",Sacramento State Hornets Vs Kent State Golden Flashes - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58904/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="Brisbane Lions Vs Carlton Blues - TSN5 SPORTS FHD" tvg-name="Brisbane Lions Vs Carlton Blues - TSN5 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brisbane%20Lions%20Vs%20Carlton%20Blues.jpg" group-title="[S3] Aussie rules",Brisbane Lions Vs Carlton Blues - TSN5 SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 #EXTINF:-1 tvg-id="Richmond Tigers Vs North Melbourne - TNT3UK SPORTS FHD" tvg-name="Richmond Tigers Vs North Melbourne - TNT3UK SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Richmond%20Tigers%20Vs%20North%20Melbourne.jpg" group-title="[S3] Aussie rules",Richmond Tigers Vs North Melbourne - TNT3UK SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1860,6 +1805,10 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="New Zealand Vs Fiji - LOW QUALITY (USE VPN)" tvg-name="New Zealand Vs Fiji - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Vs%20Fiji.jpg" group-title="[S3] Rugby",New Zealand Vs Fiji - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.50/hls/bbbbAA.m3u8
 #EXTINF:-1 tvg-id="New Zealand Vs Fiji - PREMIERE2 SPORTS FHD" tvg-name="New Zealand Vs Fiji - PREMIERE2 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Vs%20Fiji.jpg" group-title="[S3] Rugby",New Zealand Vs Fiji - PREMIERE2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1867,6 +1816,22 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="New Zealand Vs France - LOW QUALITY (USE VPN)" tvg-name="New Zealand Vs France - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Vs%20France.jpg" group-title="[S3] Rugby",New Zealand Vs France - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/VVVVAaA.m3u8
+#EXTINF:-1 tvg-id="New Zealand Vs France - STREAM TV + HD" tvg-name="New Zealand Vs France - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Zealand%20Vs%20France.jpg" group-title="[S3] Rugby",New Zealand Vs France - STREAM TV + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/VVVVAaA.m3u8
+#EXTINF:-1 tvg-id="Darmstadt vs Magdeburg(2. Bundesliga)" tvg-name="Darmstadt - Magdeburg - SportzX Live" tvg-logo="o" group-title="2. Bundesliga",Darmstadt - Magdeburg - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Kaiserslautern vs Hertha(2. Bundesliga)" tvg-name="Kaiserslautern - Hertha - SportzX Live" tvg-logo="o" group-title="2. Bundesliga",Kaiserslautern - Hertha - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Karlsruher vs Heidenheim(2. Bundesliga)" tvg-name="Karlsruhe - Heidenheim - SportzX Live" tvg-logo="o" group-title="2. Bundesliga",Karlsruhe - Heidenheim - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Wolfsburg vs Osnabrück(2. Bundesliga)" tvg-name="Wolfsburg - Osnabrück - SportzX Live" tvg-logo="o" group-title="2. Bundesliga",Wolfsburg - Osnabrück - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="NFL | NFL REDZONE(American football)" tvg-name="NFL REDZONE - NFL REDZONE - HD STREAM" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/9464/image" group-title="American football",NFL REDZONE - NFL REDZONE - HD STREAM
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58646/load-playlist?
@@ -1928,6 +1893,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Bucks - Cavaliers - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Bucks - Cavaliers - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Golden State Warriors - Los Angeles Lakers - HD STREAM" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Golden State Warriors - Los Angeles Lakers - HD STREAM
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58902/load-playlist?
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Grizzlies - Kings - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Grizzlies - Kings - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Hornets - 76ers - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Hornets - 76ers - Link 1
@@ -1938,6 +1906,9 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Pelicans - Hawks - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Pelicans - Hawks - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Phoenix Suns - Denver Nuggets - HD STREAM" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Phoenix Suns - Denver Nuggets - HD STREAM
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58901/load-playlist?
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Rockets - Thunder - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Rockets - Thunder - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Spurs - Timberwolves - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Spurs - Timberwolves - Link 1
@@ -2072,20 +2043,6 @@ https://chatgpt.hereisman.net/playlist/54800/load-playlist?
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 #EXTINF:-1 tvg-id="Monday Night Raw(Boxing)" tvg-name="WWE Monday Night RAW - WWE Monday Night RAW - HD Server" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJX8VFtwdb0AWq64lhOVYbkKvFoiSROOixJeEU73uUDp25NzGuWNynMuEWC6ezIWj4Jyp3VN3rrQDufJZuMQ67Sys-xPilS4jvh-Ujk3-B0shI1O-RdhuZB9cRJ7oeMbIZZe9wih7krgECdqYLQiYYFX3N6pFL6QX3XsKc4ihKOyZ8mH0_QZcL0uqirs/s1600/1000025200.png" group-title="Boxing",WWE Monday Night RAW - WWE Monday Night RAW - HD Server
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-id="Corinthians vs Mirassol(Brasileirão)" tvg-name="Corinthians - Mirassol - PREMIERER BR" tvg-logo="o" group-title="Brasileirão",Corinthians - Mirassol - PREMIERER BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-#EXTINF:-1 tvg-id="Corinthians vs Mirassol(Brasileirão)" tvg-name="Corinthians - Mirassol - SporTV BR FHD" tvg-logo="o" group-title="Brasileirão",Corinthians - Mirassol - SporTV BR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 #EXTINF:-1 tvg-id="Augsburg vs Freiburg(Bundesliga 🇩🇪)" tvg-name="Augsburg - Freiburg - SportzX Live" tvg-logo="o" group-title="Bundesliga 🇩🇪",Augsburg - Freiburg - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Bayern Munchen vs Borussia Dortmund(Bundesliga 🇩🇪)" tvg-name="Bayern - Dortmund - beIN ENGLISH FHD" tvg-logo="o" group-title="Bundesliga 🇩🇪",Bayern - Dortmund - beIN ENGLISH FHD
@@ -2111,28 +2068,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 #EXTINF:-1 tvg-id="Werder Bremen vs Hoffenheim(Bundesliga 🇩🇪)" tvg-name="Bremen - Hoffenheim - SportzX Live" tvg-logo="o" group-title="Bundesliga 🇩🇪",Bremen - Hoffenheim - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-#EXTINF:-1 tvg-id="Elversberg vs Mainz 05(Bundesliga 🇩🇪)" tvg-name="Elversberg - Mainz 05 - DAZN SPORTS FHD" tvg-logo="o" group-title="Bundesliga 🇩🇪",Elversberg - Mainz 05 - DAZN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92ced59d6ad14c38b3d9210b364f8200:d8e60166931203524b0179c6956e0904
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ecgq16funr/out/v1/f0bd8b7c40b54444a6ad52cd9e60cb4f/cenc.mpd
-#EXTINF:-1 tvg-id="Elversberg vs Mainz 05(Bundesliga 🇩🇪)" tvg-name="Elversberg - Mainz 05 - HD SERVER" tvg-logo="o" group-title="Bundesliga 🇩🇪",Elversberg - Mainz 05 - HD SERVER
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel15.m3u8?
-#EXTINF:-1 tvg-id="Elversberg vs Mainz 05(Bundesliga 🇩🇪)" tvg-name="Elversberg - Mainz 05 - LOW SERVER" tvg-logo="o" group-title="Bundesliga 🇩🇪",Elversberg - Mainz 05 - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.50/hls/CIII.m3u8
-#EXTINF:-1 tvg-id="Elversberg vs Mainz 05(Bundesliga 🇩🇪)" tvg-name="Elversberg - Mainz 05 - SporTV BR FHD" tvg-logo="o" group-title="Bundesliga 🇩🇪",Elversberg - Mainz 05 - SporTV BR FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-id="Bayer Leverkusen vs Stuttgart(Bundesliga 🇩🇪)" tvg-name="Leverkusen - Stuttgart - SportzX Live" tvg-logo="o" group-title="Bundesliga 🇩🇪",Leverkusen - Stuttgart - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Borussia M'gladbach vs Paderborn(Bundesliga 🇩🇪)" tvg-name="M'gladbach - Paderborn - SportzX Live" tvg-logo="o" group-title="Bundesliga 🇩🇪",M'gladbach - Paderborn - SportzX Live
@@ -2160,41 +2095,40 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="Sheffield United vs Wrexham(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Sheffield Utd - Wrexham - beIN ENGLISH FHD" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sheffield Utd - Wrexham - beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="Sheffield United vs Wrexham(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Sheffield Utd - Wrexham - CBS NETWORK" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sheffield Utd - Wrexham - CBS NETWORK
+#EXTINF:-1 tvg-id="Lincoln City vs Birmingham City(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Lincoln - Birmingham - CBS NETWORK" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Lincoln - Birmingham - CBS NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="Sheffield United vs Wrexham(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Sheffield Utd - Wrexham - DAZN SPORTS FHD" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sheffield Utd - Wrexham - DAZN SPORTS FHD
+#EXTINF:-1 tvg-id="Middlesbrough vs Charlton Athletic(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Middlesbrough - Charlton - SportzX Live" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Middlesbrough - Charlton - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Millwall vs Derby County(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Millwall - Derby - beIN ENGLISH FHD" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Millwall - Derby - beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=facf2c65fd8b81366a1f92b3760d2edd:a841c9efd4df389bd9ff344c43e718eb
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ggdp6oa1yx/out/v1/0132f06edcd94e679ac3d5cf83fb5004/cenc.mpd
-#EXTINF:-1 tvg-id="Sheffield United vs Wrexham(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Sheffield Utd - Wrexham - LOW SERVER" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sheffield Utd - Wrexham - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/3333AA.m3u8
-#EXTINF:-1 tvg-id="Sheffield United vs Wrexham(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Sheffield Utd - Wrexham - PARAMOUNT+ FHD" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sheffield Utd - Wrexham - PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="Southampton vs Queens Park Rangers(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Southampton - QPR - SportzX Live" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Southampton - QPR - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Stoke City vs Preston North End(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Stoke - Preston - beIN ENGLISH FHD" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Stoke - Preston - beIN ENGLISH FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8748eeb1b93a33756f2949ef26191ef7:6c376df5be75d3dff7aa61a9e1567bee
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ji5ri1ho4f/out/v1/36bd33e1ab234bc38cc9e4d6a9496d4e/cenc.mpd?aws_sessionId=d961c6b5-7439-4b41-ab61-f609f266621f
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="West Ham vs West Bromwich(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="West Ham - West Brom - CBS NETWORK" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Ham - West Brom - CBS NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="Wolverhampton vs Cardiff City(Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Wolves - Cardiff - SportzX Live" tvg-logo="o" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves - Cardiff - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Women's Big Bash League(Cricket)" tvg-name="Adelaide Strikers Women - Melbourne Stars Women - EUROSPORT - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket",Adelaide Strikers Women - Melbourne Stars Women - EUROSPORT - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2204,7 +2138,9 @@ https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 #EXTINF:-1 tvg-id="Women's Big Bash League(Cricket)" tvg-name="Adelaide Strikers Women - Melbourne Stars Women - FANCODE IN" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket",Adelaide Strikers Women - Melbourne Stars Women - FANCODE IN
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4250389_english_hls_4f2248e81653597_1ta-di_h264/index.m3u8
+https://dai-fancode.pages.dev/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="Women's Big Bash League(Cricket)" tvg-name="Adelaide Strikers Women - Melbourne Stars Women - FOX CRICKET HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket",Adelaide Strikers Women - Melbourne Stars Women - FOX CRICKET HD
+https://baila-lentoo.pages.dev/all-sp/809389.m3u8
 #EXTINF:-1 tvg-id="Women's Big Bash League(Cricket)" tvg-name="Adelaide Strikers Women - Melbourne Stars Women - SKY CRICKET - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket",Adelaide Strikers Women - Melbourne Stars Women - SKY CRICKET - AQ
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https
 #EXTINF:-1 tvg-id="Women's Big Bash League(Cricket)" tvg-name="Adelaide Strikers Women - Melbourne Stars Women - TAPMAD! - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket",Adelaide Strikers Women - Melbourne Stars Women - TAPMAD! - AQ
@@ -2214,14 +2150,8 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd
-#EXTINF:-1 tvg-id="Women's Big Bash League(Cricket)" tvg-name="Adelaide Strikers Women - Melbourne Stars Women - WILLOW SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket",Adelaide Strikers Women - Melbourne Stars Women - WILLOW SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
 #EXTINF:-1 tvg-id="T20 International(Cricket)" tvg-name="AFG - ZIM - FANCODE - AQ" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",AFG - ZIM - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2361,7 +2291,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out
 #EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="Bangladesh - West Indies - FANCODE IN" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",Bangladesh - West Indies - FANCODE IN
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/index.m3u8
+https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="Bangladesh - West Indies - ROBBITHOLE - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",Bangladesh - West Indies - ROBBITHOLE - AQ
+https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793418648~exp=1793447508~acl=/bpk-tv/202/default/*~eti=5bc1fbad7de02c4b708db91d4c989562~sid=a35a136bde8af9ec~imax=2~hmac=5aa32173d9d010587c0d11781300caa88b24a12d6ec4eb48213b16ef4a84a436/bpk-tv/202/default/index.m3u8
 #EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="Bangladesh - West Indies - T SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",Bangladesh - West Indies - T SPORTS
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="Bangladesh - West Indies - T SPORTS HD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",Bangladesh - West Indies - T SPORTS HD
@@ -2379,16 +2311,19 @@ https://baila-lentoo.pages.dev/all-sp/809382.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793308232~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=6584c43dfd7f579c504d476ee7c397388dec121c2f12ad52bd8aa6b6b6f6afab/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793400927~acl=%2fContent%2fDASH%2fLLCU%2fbe6e363c-7142-4dc1-9a15-8ebf78002994%2f*~data=hdntl~hmac=a7ebfd862a7ce3d671d11a8af60f67bcfa34e5ed576461ac200737120a5ccc77/manifest.mpd
 #EXTINF:-1 tvg-id="Hong Kong Super 6 | HK SUPER 6(Cricket)" tvg-name="HK SUPER 6 - HK SUPER 6 - TAPMAD - AQ" tvg-logo="https://hongkongsixes.live/wp-content/plugins/gd-hk-sixes-banner/assets/img/m-logo.fb469a83.webp" group-title="Cricket",HK SUPER 6 - HK SUPER 6 - TAPMAD - AQ
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="Hong Kong Super 6 | HK SUPER 6(Cricket)" tvg-name="HK SUPER 6 - HK SUPER 6 - TAPMAD HD" tvg-logo="https://hongkongsixes.live/wp-content/plugins/gd-hk-sixes-banner/assets/img/m-logo.fb469a83.webp" group-title="Cricket",HK SUPER 6 - HK SUPER 6 - TAPMAD HD
+#EXTVLCOPT:http-referrer=https://tapmad.com/
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="Hong Kong Super 6 | HK SUPER 6(Cricket)" tvg-name="HK SUPER 6 - HK SUPER 6 - WILLOW - AQ" tvg-logo="https://hongkongsixes.live/wp-content/plugins/gd-hk-sixes-banner/assets/img/m-logo.fb469a83.webp" group-title="Cricket",HK SUPER 6 - HK SUPER 6 - WILLOW - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7a9e1a3b38d230bcd8a785b18e5575a:0f9cc8a4d3ae133b56b33e088762d3d2
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ryvveqheby/out/v1/5bf9ff9c026048d897328bedb8c9b4b3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=15333933304154f97c20ec7fe8921517:b03f8c42cbdc7ce3ff4ffe882bc2d47d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd
 #EXTINF:-1 tvg-id="Hong Kong Super 6 | HK SUPER 6(Cricket)" tvg-name="HK SUPER 6 - HK SUPER 6 - WILLOW SP - AQ" tvg-logo="https://hongkongsixes.live/wp-content/plugins/gd-hk-sixes-banner/assets/img/m-logo.fb469a83.webp" group-title="Cricket",HK SUPER 6 - HK SUPER 6 - WILLOW SP - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2407,10 +2342,10 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="Hong Kong Sixes 2026(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - TAPMAD FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - TAPMAD FHD
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="Hong Kong Sixes 2026(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - TAPMAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - TAPMAD HD
+#EXTINF:-1 tvg-id="Hong Kong Sixes(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - TAPMAD FHD" tvg-logo="o" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - TAPMAD FHD
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="Hong Kong Sixes(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - TAPMAD HD" tvg-logo="o" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - TAPMAD HD
+#EXTINF:-1 tvg-id="Hong Kong Sixes 2026(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - TAPMAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - TAPMAD HD
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="Hong Kong Sixes(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - WILLOW - ALT" tvg-logo="o" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - WILLOW - ALT
@@ -2430,8 +2365,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7a9e1a3b38d230bcd8a785b18e5575a:0f9cc8a4d3ae133b56b33e088762d3d2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/svy0nrh3ju/out/v1/ca2bfa98b636453197cba20960dd7b9a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a694d0db6c7998b91bf89ed100e682b8:5b13f5556048466f7f19c23d70ae220b
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nu7kjdrsmr/out/v1/2074ea6e3a4241c1b35884570c8ecb2e/cenc.mpd
 #EXTINF:-1 tvg-id="Hong Kong Sixes 2026(Cricket)" tvg-name="Hong Kong Sixes - Hong Kong Sixes - WILLOW ALT - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s" group-title="Cricket",Hong Kong Sixes - Hong Kong Sixes - WILLOW ALT - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2595,7 +2530,7 @@ https://dai-fancode.pages.dev/mumbai/4250359_english_hls_11dff5b23576540_1ta-di_
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="Nepal Premier League(Cricket)" tvg-name="NPL - NPL - PlayZ TV Live - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kb18PjjNzQILyDESk2XOhaXZ6mIZ9tsTkyKwzjpoIw&s=10" group-title="Cricket",NPL - NPL - PlayZ TV Live - AQ
-https://bitter-silence-c2dc.adds-jone-z.workers.dev/?nm=3&e=.m3u8
+https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 #EXTINF:-1 tvg-id="Nepal Premier league(Cricket)" tvg-name="NPL - NPL - SD SERVER" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Cricket",NPL - NPL - SD SERVER
 http://162.251.160.53:8089/NPLT20/index.m3u8
 #EXTINF:-1 tvg-id="Nepal Premier league(Cricket)" tvg-name="NPL - NPL - SK LIVE" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Cricket",NPL - NPL - SK LIVE
@@ -2932,6 +2867,13 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bzm4u6axk0/out/v1/d59d1f211470430daf1bd0acb013e9b6/cenc.mpd
+#EXTINF:-1 tvg-id="ICC CWC League 2(Cricket)" tvg-name="United Arab Emirates - Netherlands - PlayZ TV Live" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket",United Arab Emirates - Netherlands - PlayZ TV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793453026~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=7543d43583846be22203e12d5a11662cc8982514b3995ce571a49b653cbf4d13/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da
 #EXTINF:-1 tvg-id="Womens Big Bash Leagu(Cricket)" tvg-name="WBBL - WBBL - EURO SPORTS" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - EURO SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2982,6 +2924,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
+#EXTINF:-1 tvg-id="Aston Villa vs Fulham(EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Aston Villa - Fulham - FUBO SPORTS FHD" tvg-logo="o" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa - Fulham - FUBO SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 #EXTINF:-1 tvg-id="Bournemouth vs Leeds United(EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Bournemouth - Leeds - SportzX Live" tvg-logo="o" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth - Leeds - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Brentford vs Nottingham Forest(EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿)" tvg-name="Brentford - Forest - SportzX Live" tvg-logo="o" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford - Forest - SportzX Live
@@ -3032,6 +2981,26 @@ https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
+#EXTINF:-1 tvg-id="AFC Ajax vs AZ Alkmaar(Eredivisie)" tvg-name="Ajax - AZ - SportDigital Fussball" tvg-logo="o" group-title="Eredivisie",Ajax - AZ - SportDigital Fussball
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+#EXTINF:-1 tvg-id="Cambuur vs GA Eagles(Eredivisie)" tvg-name="Cambuur - GA Eagles - SportzX Live" tvg-logo="o" group-title="Eredivisie",Cambuur - GA Eagles - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Feyenoord vs Fortuna Sittard(Eredivisie)" tvg-name="Feyenoord - Fortuna - SportDigital Fussball" tvg-logo="o" group-title="Eredivisie",Feyenoord - Fortuna - SportDigital Fussball
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+#EXTINF:-1 tvg-id="SC Heerenveen vs NEC Nijmegen(Eredivisie)" tvg-name="Heerenveen - NEC - SportzX Live" tvg-logo="o" group-title="Eredivisie",Heerenveen - NEC - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="PSV Eindhoven vs Willem II(Eredivisie)" tvg-name="PSV - Willem II - SportzX Live" tvg-logo="o" group-title="Eredivisie",PSV - Willem II - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Formula 1 -  Mexico Grand Prix(F1)" tvg-name="Formula 1 - Formula 1 - APPLE TV [FHD]" tvg-logo="o" group-title="F1",Formula 1 - Formula 1 - APPLE TV [FHD]
 https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31363
 #EXTINF:-1 tvg-id="Formula 1 -  Mexico Grand Prix(F1)" tvg-name="Formula 1 - Formula 1 - CANAL5 FHD" tvg-logo="o" group-title="F1",Formula 1 - Formula 1 - CANAL5 FHD
@@ -3093,24 +3062,10 @@ https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31369
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Bruins - Blackhawks - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Bruins - Blackhawks - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Calgary Flames - Seattle Kraken - PREMIER SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Calgary Flames - Seattle Kraken - PREMIER SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Canadiens - Penguins - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Canadiens - Penguins - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Canucks - Maple Leafs - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Canucks - Maple Leafs - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Florida Panthers - Winnipeg Jets - TSN SPORTS FHD" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Florida Panthers - Winnipeg Jets - TSN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Islanders - Oilers - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Islanders - Oilers - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Kings - Sabres - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Kings - Sabres - Link 1
@@ -3123,12 +3078,8 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Stars - Blue Jackets - Link 1" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Stars - Blue Jackets - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Vegas Golden Knights - New Jersey Devils - PREMIER SPORTS - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Vegas Golden Knights - New Jersey Devils - PREMIER SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="Indian Super League(ISL)" tvg-name="ISL - ISL - SportzX Live" tvg-logo="o" group-title="ISL",ISL - ISL - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="FC Barcelona vs Deportivo Alavés(LaLiga 🇪🇸)" tvg-name="Barcelona - Alavés - beIN ENGLISH FHD" tvg-logo="o" group-title="LaLiga 🇪🇸",Barcelona - Alavés - beIN ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3199,105 +3150,29 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="Villarreal vs Espanyol(LaLiga 🇪🇸)" tvg-name="Villarreal - Espanyol - beIN ENGLISH FHD" tvg-logo="o" group-title="LaLiga 🇪🇸",Villarreal - Espanyol - beIN ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
-#EXTINF:-1 tvg-id="Villarreal vs Espanyol(LaLiga 🇪🇸)" tvg-name="Villarreal - Espanyol - D Sports FHD" tvg-logo="o" group-title="LaLiga 🇪🇸",Villarreal - Espanyol - D Sports FHD
+#EXTINF:-1 tvg-id="Albacete Balompié vs CE Sabadell(LaLiga 2)" tvg-name="Albacete - Sabadell - SportzX Live" tvg-logo="o" group-title="LaLiga 2",Albacete - Sabadell - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Celta Fortuna vs Córdoba(LaLiga 2)" tvg-name="Celta Fortuna - Córdoba - SportzX Live" tvg-logo="o" group-title="LaLiga 2",Celta Fortuna - Córdoba - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Eibar vs Almería(LaLiga 2)" tvg-name="Eibar - Almería - SportzX Live" tvg-logo="o" group-title="LaLiga 2",Eibar - Almería - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Real Sociedad B vs Girona FC(LaLiga 2)" tvg-name="Real Sociedad B - Girona - SportzX Live" tvg-logo="o" group-title="LaLiga 2",Real Sociedad B - Girona - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Club Puebla vs Pumas UNAM(Liga MX)" tvg-name="Puebla - Pumas - HD SERVER" tvg-logo="o" group-title="Liga MX",Puebla - Pumas - HD SERVER
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel13.m3u8?
+#EXTINF:-1 tvg-id="Club Puebla vs Pumas UNAM(Liga MX)" tvg-name="Puebla - Pumas - LIGAMX LIVE [FHD]" tvg-logo="o" group-title="Liga MX",Puebla - Pumas - LIGAMX LIVE [FHD]
+https://taifood-blog.asia/embed/liga-mx/2026-10-30/pue-unam
+#EXTINF:-1 tvg-id="Club Puebla vs Pumas UNAM(Liga MX)" tvg-name="Puebla - Pumas - SportzX Live" tvg-logo="o" group-title="Liga MX",Puebla - Pumas - SportzX Live
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4553923.m3u8?txSecret=1d4b4c2d5c917f45271f0172764ee4c5&txTime=6AE57258
+#EXTINF:-1 tvg-id="FC Porto vs Estoril Praia(Liga Portugal)" tvg-name="Porto - Estoril - D Sports FHD" tvg-logo="o" group-title="Liga Portugal",Porto - Estoril - D Sports FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 tvg-id="Villarreal vs Espanyol(LaLiga 🇪🇸)" tvg-name="Villarreal - Espanyol - FANCODE FHD" tvg-logo="o" group-title="LaLiga 🇪🇸",Villarreal - Espanyol - FANCODE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-id="Villarreal vs Espanyol(LaLiga 🇪🇸)" tvg-name="Villarreal - Espanyol - LOW SERVER" tvg-logo="o" group-title="LaLiga 🇪🇸",Villarreal - Espanyol - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/3333AAA.m3u8
-#EXTINF:-1 tvg-id="Casa Pia vs Sporting CP(Liga Portugal)" tvg-name="Casa Pia - Sporting - D Sports FHD" tvg-logo="o" group-title="Liga Portugal",Casa Pia - Sporting - D Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-#EXTINF:-1 tvg-id="Le Havre vs Paris Saint-Germain(Ligue 1 🇫🇷)" tvg-name="Le Havre - PSG - beIN SPORTS FHD" tvg-logo="o" group-title="Ligue 1 🇫🇷",Le Havre - PSG - beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8
-#EXTINF:-1 tvg-id="Le Havre vs Paris Saint-Germain(Ligue 1 🇫🇷)" tvg-name="Le Havre - PSG - CAZE TV FHD" tvg-logo="o" group-title="Ligue 1 🇫🇷",Le Havre - PSG - CAZE TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-#EXTINF:-1 tvg-id="Le Havre vs Paris Saint-Germain(Ligue 1 🇫🇷)" tvg-name="Le Havre - PSG - FAST SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Le Havre - PSG - FAST SERVER
-https://www.rtmpcdn.com/live/e3f90627-3e35-4d26-9e2a-d3ad01a9159c.m3u8
-#EXTINF:-1 tvg-id="Le Havre vs Paris Saint-Germain(Ligue 1 🇫🇷)" tvg-name="Le Havre - PSG - HD SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Le Havre - PSG - HD SERVER
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel1.m3u8?
-#EXTINF:-1 tvg-id="Le Havre vs Paris Saint-Germain(Ligue 1 🇫🇷)" tvg-name="Le Havre - PSG - LOW SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Le Havre - PSG - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/IFFFAAAA.m3u8
-#EXTINF:-1 tvg-id="Le Havre vs Paris Saint-Germain(Ligue 1 🇫🇷)" tvg-name="Le Havre - PSG - SportzX Live" tvg-logo="o" group-title="Ligue 1 🇫🇷",Le Havre - PSG - SportzX Live
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/hd-en-1-4550914.m3u8?txSecret=a35ff84c46d5ae8c997290b80cfd8de8&txTime=6AE4EFCB
-#EXTINF:-1 tvg-id="Lille vs RC Lens(Ligue 1 🇫🇷)" tvg-name="Lille - Lens - beIN SPORTS FHD" tvg-logo="o" group-title="Ligue 1 🇫🇷",Lille - Lens - beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8
-#EXTINF:-1 tvg-id="Lille vs RC Lens(Ligue 1 🇫🇷)" tvg-name="Lille - Lens - CAZE TV FHD" tvg-logo="o" group-title="Ligue 1 🇫🇷",Lille - Lens - CAZE TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-#EXTINF:-1 tvg-id="Lille vs RC Lens(Ligue 1 🇫🇷)" tvg-name="Lille - Lens - LOW SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Lille - Lens - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.41/hls/3333AAAA.m3u8
-#EXTINF:-1 tvg-id="Nice vs Stade Rennais(Ligue 1 🇫🇷)" tvg-name="Nice - Rennes - beIN SPORTS FHD" tvg-logo="o" group-title="Ligue 1 🇫🇷",Nice - Rennes - beIN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fb0ddc7e384e78dea1868457c21fc7d:88f26e97ed7f41070644f8519fd4d2ae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnypecepsc/out/v1/0cb42f7039694b3199d1cd2cba7a5ddb/cenc.mpd
-#EXTINF:-1 tvg-id="Nice vs Stade Rennais(Ligue 1 🇫🇷)" tvg-name="Nice - Rennes - FAST SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Nice - Rennes - FAST SERVER
-https://www.rtmpcdn.com/live/d4ebd275-fb37-4a7a-a131-007c38760496.m3u8
-#EXTINF:-1 tvg-id="Nice vs Stade Rennais(Ligue 1 🇫🇷)" tvg-name="Nice - Rennes - HD SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Nice - Rennes - HD SERVER
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8?
-#EXTINF:-1 tvg-id="Nice vs Stade Rennais(Ligue 1 🇫🇷)" tvg-name="Nice - Rennes - LOW SERVER" tvg-logo="o" group-title="Ligue 1 🇫🇷",Nice - Rennes - LOW SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.59/hls/IFFFAAAAA.m3u8
-#EXTINF:-1 tvg-id="Nice vs Stade Rennais(Ligue 1 🇫🇷)" tvg-name="Nice - Rennes - SportzX Live" tvg-logo="o" group-title="Ligue 1 🇫🇷",Nice - Rennes - SportzX Live
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/hd-en-1-4550919.m3u8?txSecret=3affb818bea1dbd8e813ec3be52b1bf4&txTime=6AE4EFF8
 #EXTINF:-1 tvg-id="Troyes vs Le Mans(Ligue 1 🇫🇷)" tvg-name="Troyes - Le Mans - SportzX Live" tvg-logo="o" group-title="Ligue 1 🇫🇷",Troyes - Le Mans - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Saudi Pro League(Live Events)" tvg-name="Abha - Al-Ittihad - FOX DEPORTES FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Live Events",Abha - Al-Ittihad - FOX DEPORTES FHD
@@ -4667,29 +4542,6 @@ https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 #EXTINF:-1 tvg-id="PFL(Mixed Martial Arts)" tvg-name="Vadim Nemkov - Sergei Bilostenniy - TAPMAD - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/19910/image/dark" group-title="Mixed Martial Arts",Vadim Nemkov - Sergei Bilostenniy - TAPMAD - AQ
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="Milwaukee Brewers vs Tampa Bay Rays(MLB)" tvg-name="Brewers - Rays - FOX DEPORTES" tvg-logo="o" group-title="MLB",Brewers - Rays - FOX DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 tvg-id="Milwaukee Brewers vs Tampa Bay Rays(MLB)" tvg-name="Brewers - Rays - MLB LIVE [FHD]" tvg-logo="o" group-title="MLB",Brewers - Rays - MLB LIVE [FHD]
-https://taifood-blog.asia/embed/mlb/2026-10-26/mil-tb
-#EXTINF:-1 tvg-id="Milwaukee Brewers vs Tampa Bay Rays(MLB)" tvg-name="Brewers - Rays - SportzX LIVE" tvg-logo="o" group-title="MLB",Brewers - Rays - SportzX LIVE
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-#EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream1.pro/hls/dazhfiach15.m3u8?
-#EXTINF:-1 tvg-id="Milwaukee Brewers vs Tampa Bay Rays(MLB)" tvg-name="Brewers - Rays - SportzX MLB HD" tvg-logo="o" group-title="MLB",Brewers - Rays - SportzX MLB HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58759/load-playlist?
-#EXTINF:-1 tvg-id="Milwaukee Brewers vs Tampa Bay Rays(MLB)" tvg-name="Brewers - Rays - TNT Sports FHD" tvg-logo="o" group-title="MLB",Brewers - Rays - TNT Sports FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 tvg-id="MotoGP - Grand Prix of Malaysia(MotoGP)" tvg-name="MotoGP - MotoGP - FANCODE FHD" tvg-logo="o" group-title="MotoGP",MotoGP - MotoGP - FANCODE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4723,34 +4575,9 @@ https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 #EXTINF:-1 tvg-id="MotoGP - Grand Prix of Malaysia(MotoGP)" tvg-name="MotoGP - MotoGP - TNT SPORTS HD" tvg-logo="o" group-title="MotoGP",MotoGP - MotoGP - TNT SPORTS HD
 https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - AUVIO SPORTS - AQ" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - AUVIO SPORTS - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26e84d5a014e4608bbe053c55cf8196d:12bb3a7a04e4abac8e26ca88531450a8
-https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/c17fa2c8.isml/.mpd?t=2026-10-24T20:48:00.000
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - CANAL5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - CANAL5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - CGPT LIVE" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - CGPT LIVE
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/58842/load-playlist.m3u8?
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - ELEVEN SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - ELEVEN SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
-https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - FANCODE - AQ" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - FANCODE - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - FANCODE - AQ" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4758,47 +4585,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - FORMULA 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - FORMULA 1 FHD
-https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - Low" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - Low
 #EXTVLCOPT:http-referrer=http://fawanews.sc/
 http://193.47.62.50/hls/KYYY.m3u8
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - RUSSIA FEED" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - RUSSIA FEED
 #EXTVLCOPT:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/d11d0145804d4321a677aacb62984de8/index.m3u8?s=k9d3abxTJHkJWs65bDRXjg&e=1791806247&scheme=https
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - RUSSIAN FEED" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - RUSSIAN FEED
-#EXTVLCOPT:http-user-agent=Mozilla
-https://bl.rutube.ru/livestream/a1fd78e2a2feb33f0fef612d1e89d2fb/index.m3u8?s=dZh7JGBoPLF3dWOFCuCQ7Q&e=1785073158&scheme=https
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SK sports F1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - SK sports F1
 https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SK SPorts F1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - SK SPorts F1
 #EXTVLCOPT:http-referrer=https://embedcenter.st/
 https://edgestream5.pro/hls/hbfkazbkaznc49.m3u8
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SKY F1 Italia [IT]" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - SKY F1 Italia [IT]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SKY SPORT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - SKY SPORT HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58439/load-playlist?
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SKY SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - SKY SPORTS HD
-https://cascadewarden.s3.ca-central-1.amazonaws.com/f1.m3u8
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SKY SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - SKY SPORTS HD
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-#EXTVLCOPT:http-origin=https://streamscenter.online
-https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SportCast" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - SportCast
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - Sportscast FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - Sportscast FHD
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10aebb0b-9c74-4664-abd9-acc9085c27e8/master.m3u8
-#EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - Sportv 3 BR - AQ" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Motorsport",Formula 1 - Formula 1 - Sportv 3 BR - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #EXTINF:-1 tvg-id="Formula 1(Motorsport)" tvg-name="Formula 1 - Formula 1 - SporTV BR - AQ" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="Motorsport",Formula 1 - Formula 1 - SporTV BR - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4885,102 +4684,46 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-id="Philadelphia 76ers vs New York Knicks(NBA)" tvg-name="76ers - Knicks - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",76ers - Knicks - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/ny-phi
-#EXTINF:-1 tvg-id="Philadelphia 76ers vs New York Knicks(NBA)" tvg-name="76ers - Knicks - SportzX Live" tvg-logo="o" group-title="NBA",76ers - Knicks - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58889/load-playlist?
-#EXTINF:-1 tvg-id="Boston Celtics vs Chicago Bulls(NBA)" tvg-name="Celtics - Bulls - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Celtics - Bulls - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/chi-bos
-#EXTINF:-1 tvg-id="Boston Celtics vs Chicago Bulls(NBA)" tvg-name="Celtics - Bulls - SportzX Live" tvg-logo="o" group-title="NBA",Celtics - Bulls - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58890/load-playlist?
-#EXTINF:-1 tvg-id="Boston Celtics vs Chicago Bulls(NBA)" tvg-name="Celtics - Bulls - TSN SPORTS FHD" tvg-logo="o" group-title="NBA",Celtics - Bulls - TSN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-#EXTINF:-1 tvg-id="Miami Heat vs Indiana Pacers(NBA)" tvg-name="Heat - Pacers - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Heat - Pacers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/ind-mia
-#EXTINF:-1 tvg-id="Miami Heat vs Indiana Pacers(NBA)" tvg-name="Heat - Pacers - SportzX Live" tvg-logo="o" group-title="NBA",Heat - Pacers - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58899/load-playlist?
-#EXTINF:-1 tvg-id="Dallas Mavericks vs Houston Rockets(NBA)" tvg-name="Mavericks - Rockets - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Mavericks - Rockets - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/hou-dal
-#EXTINF:-1 tvg-id="Dallas Mavericks vs Houston Rockets(NBA)" tvg-name="Mavericks - Rockets - SportzX Live" tvg-logo="o" group-title="NBA",Mavericks - Rockets - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58900/load-playlist?
-#EXTINF:-1 tvg-id="Brooklyn Nets vs Detroit Pistons(NBA)" tvg-name="Nets - Pistons - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Nets - Pistons - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/det-bkn
-#EXTINF:-1 tvg-id="Brooklyn Nets vs Detroit Pistons(NBA)" tvg-name="Nets - Pistons - SportzX Live" tvg-logo="o" group-title="NBA",Nets - Pistons - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58885/load-playlist?
-#EXTINF:-1 tvg-id="Toronto Raptors vs Orlando Magic(NBA)" tvg-name="Raptors - Magic - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Raptors - Magic - NBA LIVE [FHD]
+#EXTINF:-1 tvg-id="Milwaukee Bucks vs Cleveland Cavaliers(NBA)" tvg-name="Bucks - Cavaliers - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Bucks - Cavaliers - NBA LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-10-30/orl-tor
-#EXTINF:-1 tvg-id="Toronto Raptors vs Orlando Magic(NBA)" tvg-name="Raptors - Magic - SportzX Live" tvg-logo="o" group-title="NBA",Raptors - Magic - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58893/load-playlist?
-#EXTINF:-1 tvg-id="Phoenix Suns vs Denver Nuggets(NBA)" tvg-name="Suns - Nuggets - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Suns - Nuggets - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/den-phx
-#EXTINF:-1 tvg-id="Minnesota Timberwolves vs Clippers(NBA)" tvg-name="Timberwolves - Clippers - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Timberwolves - Clippers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/lac-min
-#EXTINF:-1 tvg-id="Minnesota Timberwolves vs Clippers(NBA)" tvg-name="Timberwolves - Clippers - SportzX Live" tvg-logo="o" group-title="NBA",Timberwolves - Clippers - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58895/load-playlist?
-#EXTINF:-1 tvg-id="Golden State Warriors vs Los Angeles Lakers(NBA)" tvg-name="Warriors - Lakers - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Warriors - Lakers - NBA LIVE [FHD]
-https://taifood-blog.asia/embed/nba/2026-10-30/lal-gs
-#EXTINF:-1 tvg-id="Washington Wizards vs Charlotte Hornets(NBA)" tvg-name="Wizards - Hornets - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Wizards - Hornets - NBA LIVE [FHD]
+#EXTINF:-1 tvg-id="Memphis Grizzlies vs Sacramento Kings(NBA)" tvg-name="Grizzlies - Kings - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Grizzlies - Kings - NBA LIVE [FHD]
+https://taifood-blog.asia/embed/nba/2026-10-30/ny-phi
+#EXTINF:-1 tvg-id="Charlotte Hornets vs Philadelphia 76ers(NBA)" tvg-name="Hornets - 76ers - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Hornets - 76ers - NBA LIVE [FHD]
+https://taifood-blog.asia/embed/nba/2026-10-30/chi-bos
+#EXTINF:-1 tvg-id="Utah Jazz vs Portland Trail Blazers(NBA)" tvg-name="Jazz - Trail Blazers - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Jazz - Trail Blazers - NBA LIVE [FHD]
 https://taifood-blog.asia/embed/nba/2026-10-30/cha-wsh
-#EXTINF:-1 tvg-id="Washington Wizards vs Charlotte Hornets(NBA)" tvg-name="Wizards - Hornets - SportzX Live" tvg-logo="o" group-title="NBA",Wizards - Hornets - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58877/load-playlist?
-#EXTINF:-1 tvg-id="Boston Bruins vs Chicago Blackhawks(NHL)" tvg-name="Bruins - Blackhawks - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Bruins - Blackhawks - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-29/chi-det
-#EXTINF:-1 tvg-id="Anaheim Ducks vs Buffalo Sabres(NHL)" tvg-name="Ducks - Sabres - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Ducks - Sabres - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-29/buf-ana
-#EXTINF:-1 tvg-id="Calgary Flames vs Seattle Kraken(NHL)" tvg-name="Flames - Kraken - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Flames - Kraken - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-30/sea-cgy
-#EXTINF:-1 tvg-id="Calgary Flames vs Seattle Kraken(NHL)" tvg-name="Flames - Kraken - PREMIER SPORTS" tvg-logo="o" group-title="NHL",Flames - Kraken - PREMIER SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="Vegas Golden Knights vs New Jersey Devils(NHL)" tvg-name="Golden Knights - Devils - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Golden Knights - Devils - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk
-#EXTINF:-1 tvg-id="Vegas Golden Knights vs New Jersey Devils(NHL)" tvg-name="Golden Knights - Devils - PREMIER SPORTS" tvg-logo="o" group-title="NHL",Golden Knights - Devils - PREMIER SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="Los Angeles Kings vs Ottawa Senators(NHL)" tvg-name="Kings - Senators - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Kings - Senators - NHL LIVE [FHD]
+#EXTINF:-1 tvg-id="New Orleans Pelicans vs Atlanta Hawks(NBA)" tvg-name="Pelicans - Hawks - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Pelicans - Hawks - NBA LIVE [FHD]
+https://taifood-blog.asia/embed/nba/2026-10-30/det-bkn
+#EXTINF:-1 tvg-id="Houston Rockets vs Thunder(NBA)" tvg-name="Rockets - Thunder - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Rockets - Thunder - NBA LIVE [FHD]
+https://taifood-blog.asia/embed/nba/2026-10-30/ind-mia
+#EXTINF:-1 tvg-id="San Antonio Spurs vs Minnesota Timberwolves(NBA)" tvg-name="Spurs - Timberwolves - NBA LIVE [FHD]" tvg-logo="o" group-title="NBA",Spurs - Timberwolves - NBA LIVE [FHD]
+https://taifood-blog.asia/embed/nba/2026-10-30/hou-dal
+#EXTINF:-1 tvg-id="Colorado Avalanche vs Calgary Flames(NHL)" tvg-name="Avalanche - Flames - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Avalanche - Flames - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-29/ott-la
-#EXTINF:-1 tvg-id="Los Angeles Kings vs Ottawa Senators(NHL)" tvg-name="Kings - Senators - TSN FHD" tvg-logo="o" group-title="NHL",Kings - Senators - TSN FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-#EXTINF:-1 tvg-id="Florida Panthers vs Winnipeg Jets(NHL)" tvg-name="Panthers - Jets - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Panthers - Jets - NHL LIVE [FHD]
-https://taifood-blog.asia/embed/nhl/2026-10-30/wpg-fla
-#EXTINF:-1 tvg-id="Florida Panthers vs Winnipeg Jets(NHL)" tvg-name="Panthers - Jets - SportzX Live" tvg-logo="o" group-title="NHL",Panthers - Jets - SportzX Live
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/58879/load-playlist?
-#EXTINF:-1 tvg-id="Florida Panthers vs Winnipeg Jets(NHL)" tvg-name="Panthers - Jets - TSN SPORTS FHD" tvg-logo="o" group-title="NHL",Panthers - Jets - TSN SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-#EXTINF:-1 tvg-id="Detroit Red Wings vs St. Louis Blues(NHL)" tvg-name="Red Wings - Blues - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Red Wings - Blues - NHL LIVE [FHD]
+#EXTINF:-1 tvg-id="Boston Bruins vs Chicago Blackhawks(NHL)" tvg-name="Bruins - Blackhawks - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Bruins - Blackhawks - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk
+#EXTINF:-1 tvg-id="Montréal Canadiens vs Pittsburgh Penguins(NHL)" tvg-name="Canadiens - Penguins - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Canadiens - Penguins - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-29/wsh-nsh
+#EXTINF:-1 tvg-id="Vancouver Canucks vs Toronto Maple Leafs(NHL)" tvg-name="Canucks - Maple Leafs - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Canucks - Maple Leafs - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-29/bos-stl
+#EXTINF:-1 tvg-id="New York Islanders vs Edmonton Oilers(NHL)" tvg-name="Islanders - Oilers - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Islanders - Oilers - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-29/chi-det
+#EXTINF:-1 tvg-id="Los Angeles Kings vs Buffalo Sabres(NHL)" tvg-name="Kings - Sabres - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Kings - Sabres - NHL LIVE [FHD]
 https://taifood-blog.asia/embed/nhl/2026-10-29/mtl-dal
+#EXTINF:-1 tvg-id="Nashville Predators vs Tampa Bay Lightning(NHL)" tvg-name="Predators - Lightning - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Predators - Lightning - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-30/sea-cgy
+#EXTINF:-1 tvg-id="Detroit Red Wings vs St. Louis Blues(NHL)" tvg-name="Red Wings - Blues - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Red Wings - Blues - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-30/wpg-fla
+#EXTINF:-1 tvg-id="San Jose Sharks vs Ottawa Senators(NHL)" tvg-name="Sharks - Senators - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Sharks - Senators - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-29/nyi-min
+#EXTINF:-1 tvg-id="Dallas Stars vs Columbus Blue Jackets(NHL)" tvg-name="Stars - Blue Jackets - NHL LIVE [FHD]" tvg-logo="o" group-title="NHL",Stars - Blue Jackets - NHL LIVE [FHD]
+https://taifood-blog.asia/embed/nhl/2026-10-29/buf-ana
+#EXTINF:-1 tvg-id="Al-Fayha vs Al Faisaly(Pro League 🇸🇦)" tvg-name="Al-Fayha - Al Faisaly - SportzX Live" tvg-logo="o" group-title="Pro League 🇸🇦",Al-Fayha - Al Faisaly - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Al-Hilal vs Al-Fateh(Pro League 🇸🇦)" tvg-name="Al-Hilal - Al-Fateh - SportzX Live" tvg-logo="o" group-title="Pro League 🇸🇦",Al-Hilal - Al-Fateh - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Al-Taawoun vs Al-Ettifaq(Pro League 🇸🇦)" tvg-name="Al-Taawoun - Al-Ettifaq - SportzX Live" tvg-logo="o" group-title="Pro League 🇸🇦",Al-Taawoun - Al-Ettifaq - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="World Cup(Rugby)" tvg-name="Australia - Cook Islands - PREMIER SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/431/image/dark" group-title="Rugby",Australia - Cook Islands - PREMIER SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4999,17 +4742,20 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 tvg-id="WXV, Women(Rugby)" tvg-name="USA - England - RUGBYPASS TV - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark" group-title="Rugby",USA - England - RUGBYPASS TV - AQ
-https://dice-live-eu.akamaized.net/hdntl=exp=1793479836~acl=*dash%2flive%2f2005783%2f313428-336650%2f*!*dash%2flive%2f2005783-b%2f313428-336650-b%2f*~id=4ac038e5-77bb-4f53-881c-4f86dd84eb8c~data=hdntl
-#EXTINF:-1 tvg-id="WXV, Women(Rugby)" tvg-name="USA - England - SD STREAM" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark" group-title="Rugby",USA - England - SD STREAM
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/8888A.m3u8
-#EXTINF:-1 tvg-id="WXV, Women(Rugby)" tvg-name="USA - England - STAN SPORTS - AQ (AUS)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark" group-title="Rugby",USA - England - STAN SPORTS - AQ (AUS)
+#EXTINF:-1 tvg-id="Rangers vs Aberdeen(Scottish Premiership)" tvg-name="Rangers - Aberdeen - PREMIER SPORTS" tvg-logo="o" group-title="Scottish Premiership",Rangers - Aberdeen - PREMIER SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac29ec746b2741179a31a1c95c56a3eb:defe08b2860375ae6fd988f27e48f0a3
-https://live01-stan.akamaized.net/out/v1/7f97aa1c469b48cbbe8ee059993a625e/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-id="Rangers vs Aberdeen(Scottish Premiership)" tvg-name="Rangers - Aberdeen - SportDigital Fussball" tvg-logo="o" group-title="Scottish Premiership",Rangers - Aberdeen - SportDigital Fussball
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
 #EXTINF:-1 tvg-id="Bologna vs Monza(Serie A 🇮🇹)" tvg-name="Bologna - Monza - FUBO SPORTS FHD" tvg-logo="o" group-title="Serie A 🇮🇹",Bologna - Monza - FUBO SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5079,6 +4825,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="Erzurumspor vs Çorum(Super Lig)" tvg-name="Erzurumspor - Çorum - SportzX Live" tvg-logo="o" group-title="Super Lig",Erzurumspor - Çorum - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Fenerbahçe vs Göztepe(Super Lig)" tvg-name="Fenerbahçe - Göztepe - SportzX Live" tvg-logo="o" group-title="Super Lig",Fenerbahçe - Göztepe - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="Kocaelispor vs Çaykur Rizespor(Super Lig)" tvg-name="Kocaelispor - Rizespor - SportzX Live" tvg-logo="o" group-title="Super Lig",Kocaelispor - Rizespor - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Vienna OPEN(Tennis)" tvg-name="ATP - ATP - BEIN SPORTS - AQ" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png" group-title="Tennis",ATP - ATP - BEIN SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5212,21 +4964,24 @@ https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="Womens Big Bash League(WBBL)" tvg-name="WBBL - WBBL - TAPMAD - FHD" tvg-logo="o" group-title="WBBL",WBBL - WBBL - TAPMAD - FHD
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="Womens Big Bash League(WBBL)" tvg-name="WBBL - WBBL - FOX CRICKET HD" tvg-logo="o" group-title="WBBL",WBBL - WBBL - FOX CRICKET HD
+https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+#EXTINF:-1 tvg-id="Womens Big Bash League(WBBL)" tvg-name="WBBL - WBBL - SKY CRICKET FHD" tvg-logo="o" group-title="WBBL",WBBL - WBBL - SKY CRICKET FHD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-id="Womens Big Bash League(WBBL)" tvg-name="WBBL - WBBL - WILLOW - ALT" tvg-logo="o" group-title="WBBL",WBBL - WBBL - WILLOW - ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
 #EXTINF:-1 tvg-id="Womens Big Bash League(WBBL)" tvg-name="WBBL - WBBL - WILLOW - FHD" tvg-logo="o" group-title="WBBL",WBBL - WBBL - WILLOW - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
 #EXTINF:-1 tvg-id="Golden State Valkyries vs Atlanta Dream(WNBA)" tvg-name="Valkyries - Dream - SportzX Live" tvg-logo="o" group-title="WNBA",Valkyries - Dream - SportzX Live
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58837/load-playlist?
@@ -5289,6 +5044,9 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 https://embedindia.st/embed/wwe/2026-09-29
 #EXTINF:-1 tvg-id="🥊 WWE NXT(WWE)" tvg-name="NXT - NXT - SportzX NXT Live" tvg-logo="o" group-title="WWE",NXT - NXT - SportzX NXT Live
 https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8
+#EXTINF:-1 tvg-id="Friday Night SmackDown(WWE)" tvg-name="SmackDown - SmackDown - HD STREAM" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE",SmackDown - SmackDown - HD STREAM
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+https://chatgpt.hereisman.net/playlist/58881/load-playlist-multi?
 #EXTINF:-1 tvg-id="Friday Night SmackDown(WWE)" tvg-name="SmackDown - SmackDown - PLAYZ TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE",SmackDown - SmackDown - PLAYZ TV HD
 https://pz.ekkktb.workers.dev/?q=WWE vs wwe
 #EXTINF:-1 tvg-id="Friday Night SmackDown(WWE)" tvg-name="SmackDown - SmackDown - WWE LIVE FHD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="WWE",SmackDown - SmackDown - WWE LIVE FHD
@@ -5326,7 +5084,7 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 https://chatgpt.hereisman.net/playlist/54800/load-playlist?
 #EXTINF:-1 tvg-id="🥊 WWE Friday Night SmackDown(WWE)" tvg-name="WWE - WWE - SportzX WWE" tvg-logo="o" group-title="WWE",WWE - WWE - SportzX WWE
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-https://chatgpt.hereisman.net/playlist/54963/load-playlist-multi?
+https://chatgpt.hereisman.net/playlist/58881/load-playlist-multi?
 #EXTINF:-1 tvg-id="🥊 WWE Friday Night SmackDown(WWE)" tvg-name="WWE - WWE - SPX LIVE [FHD]" tvg-logo="o" group-title="WWE",WWE - WWE - SPX LIVE [FHD]
 https://taifood-blog.asia/embed/wwe/2026-10-23
 #EXTINF:-1 tvg-id="🥊 WWE Friday Night SmackDown(WWE)" tvg-name="WWE - WWE - USA TV" tvg-logo="o" group-title="WWE",WWE - WWE - USA TV
