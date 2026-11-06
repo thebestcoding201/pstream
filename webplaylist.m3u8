@@ -159,9 +159,9 @@ https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin.formaturamaxi.com.br/nfl12.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="تنیس مسترز پاریس" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport8_small.jpg?54998" group-title="Aparat Sport Live",تنیس مسترز پاریس
+#EXTINF:-1 tvg-id="other" tvg-name="تنیس مسترز پاریس" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/aparatsport8_small.jpg?97614" group-title="Aparat Sport Live",تنیس مسترز پاریس
 https://www.aparatsport.ir/adele/getAparatManifest/XhT9d1bdD6D6E46/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال یورولیگ: بشیکتاش - ژالگیریس" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport9_small.jpg?86577" group-title="Aparat Sport Live",بسکتبال یورولیگ: بشیکتاش - ژالگیریس
+#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال یورولیگ: بشیکتاش - ژالگیریس" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/aparatsport9_small.jpg?21684" group-title="Aparat Sport Live",بسکتبال یورولیگ: بشیکتاش - ژالگیریس
 https://www.aparatsport.ir/adele/getAparatManifest/BFS5cef867F8DB3/master.m3u8
 
 #EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="ALTITUDE SPORTS [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="TV",ALTITUDE SPORTS [S3]
@@ -717,6 +717,12 @@ https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f7f3/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNmN2YzOjE3OTM5ODI0OTk4NTc6Y2RubGl2ZXR2LnR2OjJjN2I4NWY3NGU0N2UxNDYuZWVmOWEyMTljMDNiMDUyYTg4MDAzOWEyYjg1MjQxYTc2NTEzZDBmYmU1MmI0OTAwYmIyY2Q2MDY4NzA3NDE3Zg|x-forwarded-for:109.236.88.82
 
+#EXTINF:-1 tvg-id="Barracas Central Vs Racing Club - FOX DEPORTES FHD" tvg-name="Barracas Central Vs Racing Club - FOX DEPORTES FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barracas%20Central%20Vs%20Racing%20Club.jpg" group-title="[S3] Football",Barracas Central Vs Racing Club - FOX DEPORTES FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 #EXTINF:-1 tvg-id="Eintracht Braunschweig Vs Energie Cottbus - BEIN3 SPORTS FHD" tvg-name="Eintracht Braunschweig Vs Energie Cottbus - BEIN3 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Eintracht%20Braunschweig%20Vs%20Energie%20Cottbus.jpg" group-title="[S3] Football",Eintracht Braunschweig Vs Energie Cottbus - BEIN3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -724,6 +730,13 @@ https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363f7f3/playlist.m3u8?token=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="Gaziantep FK Vs Kasımpaşa - HD QUALITY" tvg-name="Gaziantep FK Vs Kasımpaşa - HD QUALITY" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gaziantep%20FK%20Vs%20Kas%C4%B1mpa%C5%9Fa.jpg" group-title="[S3] Football",Gaziantep FK Vs Kasımpaşa - HD QUALITY
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel2.m3u8?
+#EXTINF:-1 tvg-id="Gaziantep FK Vs Kasımpaşa - LOW QUALITY (USE VPN)" tvg-name="Gaziantep FK Vs Kasımpaşa - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gaziantep%20FK%20Vs%20Kas%C4%B1mpa%C5%9Fa.jpg" group-title="[S3] Football",Gaziantep FK Vs Kasımpaşa - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/RIII.m3u8
 #EXTINF:-1 tvg-id="Gaziantep FK Vs Kasımpaşa - STREAM TV + HD" tvg-name="Gaziantep FK Vs Kasımpaşa - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Gaziantep%20FK%20Vs%20Kas%C4%B1mpa%C5%9Fa.jpg" group-title="[S3] Football",Gaziantep FK Vs Kasımpaşa - STREAM TV + HD
 http://162.251.160.53:8089/146/index.m3u8
 #EXTINF:-1 tvg-id="Lokomotiv Moscow Vs Rubin Kazan - STREAM TV + HD" tvg-name="Lokomotiv Moscow Vs Rubin Kazan - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Lokomotiv%20Moscow%20Vs%20Rubin%20Kazan.jpg" group-title="[S3] Football",Lokomotiv Moscow Vs Rubin Kazan - STREAM TV + HD
@@ -5020,13 +5033,38 @@ https://hey.futx.nx.kg/wwe/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.41/hls/EEEEAAAA.m3u8
 
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Formula 1 GP Brazil --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg",Formula 1 GP Brazil --- CH 1
-http://193.47.62.44/hls/EAEAEAAAAAA.m3u8
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Hammarby vs Elfsborg" tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg",Hammarby vs Elfsborg
+http://193.47.62.59/hls/WAWAWAFQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Formula 1 GP Brazil --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg",Formula 1 GP Brazil --- CH 2
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/01d9a0cb-902a-4045-bc6c-7672230a7cfd/master.m3u8
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Zamalek vs Misr Insurance" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg",Zamalek vs Misr Insurance
+http://193.47.62.59/hls/WAWAWA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Silkeborg vs Lyngby" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_400x400.jpg",Silkeborg vs Lyngby
+http://193.47.62.59/hls/WAWAWAFQQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Koge vs Aalborg" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg",Koge vs Aalborg
+http://193.47.62.59/hls/WAWAWAFQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="AB Copenhagen vs Vendsyssel" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg",AB Copenhagen vs Vendsyssel
+http://193.47.62.59/hls/WAWAWAFQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Viktoria Koln vs Saarbrucken" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQeQLpNHsqMfcAnobqUrZ_M6Bi-wM644-4fpnWiNnIcASBcHD_X0gd7fLrKhj8BsDQpJENgmVgB6S6jNfk_pERRBXGswnbY6XrEXOnIrUNsUR-HbbgGaccpchWcajizK5XiWF0DMuN5AY0oDhujVnRCZcn4S8LaryeZUFDRFcLoIggLph1RgE20T3lrAA/s1600/Logo_3Liga.png",Viktoria Koln vs Saarbrucken
+http://193.47.62.59/hls/WAWAWAFQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Barracas Central vs Racing Club" tvg-logo="https://pbs.twimg.com/profile_images/2010875735523647488/w5gtN67X_400x400.jpg",Barracas Central vs Racing Club
+http://193.47.62.59/hls/WAWAWAF.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -5095,6 +5133,11 @@ http://193.47.62.41/hls/frfrfrAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Hassania Agadir vs Berkane" tvg-logo="https://pbs.twimg.com/profile_images/1889736088077365248/zRrukSE2_400x400.jpg",Hassania Agadir vs Berkane
+http://193.47.62.59/hls/WAWAWAFQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Vejle vs Fredericia" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg",Vejle vs Fredericia
 http://193.47.62.44/hls/RIIIAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -5135,53 +5178,13 @@ http://193.47.62.41/hls/EEEE.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="UTA Arad vs Petrolul" tvg-logo="https://pbs.twimg.com/profile_images/1542967955742498816/dJ9DwIEs_400x400.jpg",UTA Arad vs Petrolul
-http://193.47.62.41/hls/EAEAEAAAAA.m3u8
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Formula 1 GP Brazil --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg",Formula 1 GP Brazil --- CH 1
+http://193.47.62.44/hls/EAEAEAAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Septemvri Sofia vs Lokomotiv Sofia" tvg-logo="https://pbs.twimg.com/profile_images/1804462637155016704/wTbeoAGR_400x400.jpg",Septemvri Sofia vs Lokomotiv Sofia
-http://193.47.62.41/hls/EAEAEAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="BKMA vs Alashkert" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg",BKMA vs Alashkert
-http://193.47.62.41/hls/EAEAEAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Enppi vs Proxy" tvg-logo="https://pbs.twimg.com/profile_images/2090760904300191744/7RQN89Kd_400x400.jpg",Enppi vs Proxy
-http://193.47.62.41/hls/EAEAEAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="FC Gomel vs Arsenal Dzerzhinsk" tvg-logo="https://pbs.twimg.com/profile_images/1084825687570173954/vLW4g8bG_400x400.jpg",FC Gomel vs Arsenal Dzerzhinsk
-http://193.47.62.41/hls/EAEAEA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Al Arabi vs Al Ahli Doha" tvg-logo="https://pbs.twimg.com/profile_images/2080991487475527680/01VevBEC_400x400.jpg",Al Arabi vs Al Ahli Doha
-http://193.47.62.59/hls/ZGGGAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://pbs.twimg.com/profile_images/1873968841010696192/yx1G4Day_400x400.jpg",Qarabag vs Turan Tovuz
-http://193.47.62.59/hls/ZGGGA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Goa vs Bengaluru FC" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg",Goa vs Bengaluru FC
-http://193.47.62.59/hls/ZGGG.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Sogdiana vs Dinamo Samarkand" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_400x400.jpg",Sogdiana vs Dinamo Samarkand
-http://193.47.62.59/hls/K777AAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="KCB vs APS Bomet" tvg-logo="https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",KCB vs APS Bomet
-http://193.47.62.59/hls/K777AAA.m3u8
+#EXTINF:-1 group-title="SD-FEED-NA" tvg-name="Formula 1 GP Brazil --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg",Formula 1 GP Brazil --- CH 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/01d9a0cb-902a-4045-bc6c-7672230a7cfd/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
