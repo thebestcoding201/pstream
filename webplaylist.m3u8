@@ -119,7 +119,8 @@ https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/nas.m3u8
 
-
+#EXTINF:-1 tvg-id="other" tvg-name="انتخابی جام ملت‌های آسیا زیر ۱۷ سال: پاکستان - ایران" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport_small.jpg?44220" group-title="Aparat Sport Live",انتخابی جام ملت‌های آسیا زیر ۱۷ سال: پاکستان - ایران
+https://www.aparatsport.ir/adele/getAparatManifest/a5m8ab98129AC2E/master.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1FHD." tvg-name="ABU DHABI SPORTS 1 FHD [S1]" tvg-logo="" group-title="TV",ABU DHABI SPORTS 1 FHD [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201%20FHD&code=&user=streamsports99&plan=vip
@@ -129,7 +130,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40b02d4a99e07363e6d6/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-name="ALTITUDE SPORTS [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="TV",ALTITUDE SPORTS [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTQzOTMwMDM1MjA6Y2RubGl2ZXR2LnR2OmZmZWE4MTUxZGE5YjlmOTYuZDYwZTVmMDcwMjQzYWJhY2RiMDY2MzdlNDJkMjU5NTEyYzQ2NmQwNDMwMDhjNGNhZTFmNGY3ODkwMDc3ZTBiNQ
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTQ0MDIwMDQwNzY6Y2RubGl2ZXR2LnR2Ojc2YmJhNjQxMWU0N2Y4ZjMuYzQ1ZDQzMjRkYzAwMDEyZWU5NmNjOWJjYjU0YmMxM2IyZDI0NzEyOWFhZTFiZWYxMDEyODM0M2NkNGZlNDU2Ng
 
 #EXTINF:-1 tvg-id="AltitudeSportsHDUS." tvg-name="ALTITUDE SPORTS HD US [S1]" tvg-logo="" group-title="TV",ALTITUDE SPORTS HD US [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude%20Sports%20HD%20US&code=&user=streamsports99&plan=vip
@@ -190,7 +191,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cef4/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="CHSN.Chicago.Sports.Network.us2" tvg-name="CHICAGO SPORTS NETWORK [S3]" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s166708_dark_360w_270h.png" group-title="TV",CHICAGO SPORTS NETWORK [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTQzOTMwMDQxMzA6Y2RubGl2ZXR2LnR2OjQwOGUxYjU4M2JmYzVjNWIuY2I4ZWE5ODdjNWQ4NmJmYzM0NTY4OTM2OGVlOTg3NzUxODdhMzg0MzlkMzI5MGYxODk5MGIxNWYzYjAxYTEwZA
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTQ0MDIwMDQ2ODY6Y2RubGl2ZXR2LnR2OjJhYThlM2NhYjA3Mjk2MjcuNGFlZDZiOGM1ODdhZDc5ZWE0ZTM3NTUyN2ZkOTc0ODc4NDQyM2Y5ZDAyNDRmNWI2N2EyMDE2ZjM0MDZiZDdkMQ
 
 #EXTINF:-1 tvg-id="ChicagoSportsNetworkCHSNUS." tvg-name="CHICAGO SPORTS NETWORK CHSN US [S1]" tvg-logo="" group-title="TV",CHICAGO SPORTS NETWORK CHSN US [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network%20CHSN%20US&code=&user=streamsports99&plan=vip
@@ -221,7 +222,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf23/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FOX SPORTS 2 [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="TV",FOX SPORTS 2 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTQzOTMwMDQzMjE6Y2RubGl2ZXR2LnR2OjhjZWNiNGE5Yjc5ZmFiNTYuOGEwNWEyMGM2OTMzOTVmNzJiZWYzODMzNWU3NWYyYzBlYTUxYzYyMWVjZGJmZmQyN2RiZGQzNDczZGJlYmRmYg
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTQ0MDIwMDQ4OTI6Y2RubGl2ZXR2LnR2OjI5NWY4Y2MzOTNmMzg2NTMuMDQ5MDIzYTM0ZDg1Mzg5NjEyMGIyNzcyNTAwMTljMThkNTlmN2I1NmM5MTE5MzZhZDY3ZmM4ZDg4M2I5YzVmYQ
 
 #EXTINF:-1 tvg-id="FoxSports2FHDUS." tvg-name="FOX SPORTS 2 FHD US [S1]" tvg-logo="" group-title="TV",FOX SPORTS 2 FHD US [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%202%20FHD%20US&code=&user=streamsports99&plan=vip
@@ -435,7 +436,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c86a/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="SKY SPORTS CRICKET [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="TV",SKY SPORTS CRICKET [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c860/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYwOjE3OTQzOTMwMDYwNjQ6Y2RubGl2ZXR2LnR2Ojg1OTRjZTZlOThiMDQwMGUuMzNlOWRhNGI3YWY0ZjI0MTBhNmZiZTZlY2UzNTY2NmQzZTc3YTJjODQzM2U3ZjRjY2NlMjMyYWJlODcxYzE3ZQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c860/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYwOjE3OTQ0MDIwMDY3MzQ6Y2RubGl2ZXR2LnR2OjY1NDNhYWM0ZWEyZDc3NWMuMDIzNjI2NWU1YjRlNDNjMzBmZDAzYWUyMmVkM2Q3YjU2NTAzZDJiYjdkZWM0MjY4N2JhNWVhMGVlYmJmMWVjMQ
 
 #EXTINF:-1 tvg-id="SkySportsCricketFHDUK." tvg-name="SKY SPORTS CRICKET FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS CRICKET FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -454,7 +455,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c85c/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-name="SKY SPORTS FOOTBALL [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="TV",SKY SPORTS FOOTBALL [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTQzOTMwMDYyODc6Y2RubGl2ZXR2LnR2OmZlNDE0ODFkMzkwZjVhOTAuMzRhMDM2OTIzMGUzNzYyNTdjNWY2ZmNmYTE5N2RjYzQwZDNlOWI2M2Y0YjhmYTJlOTgyZjU1ZTc4ZmE5YWI4Ng
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTQ0MDIwMDY5NDM6Y2RubGl2ZXR2LnR2Ojc5NzcxYTU5YTRiYWJiMWMuMWQ0MzM5OTI2M2MwMjBlYTJiNWQyODNmMGQ0MTBlM2E0ZDk1OGFkZDNiNjc2MTZiZDEzNTA2ZTMwODc2ZWE4ZA
 
 #EXTINF:-1 tvg-id="SkySportsFootballFHDUK." tvg-name="SKY SPORTS FOOTBALL FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS FOOTBALL FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Football%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -464,7 +465,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="SKY SPORTS GOLF [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="TV",SKY SPORTS GOLF [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY0OjE3OTQzOTMwMDY0NzM6Y2RubGl2ZXR2LnR2OjNjYzIyNGUzZTQzNjlmZTIuMzdmNDA0ODVkMWJlYjBlZmJmYWY3YjExNjU1OGY1OWNiYjYzMDdlZWE3YjcyNGRjNmEzYzZkYzhhNzg1NThkYQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY0OjE3OTQ0MDIwMDcxNDM6Y2RubGl2ZXR2LnR2OjI1YzZlYjVlOGYxYzkyY2IuOTg5ZDVjNmI5M2IwY2E3Y2Q0MDA5N2FlZTdmOWRiOTA1OTEwODcxOGM5MWNjNjJmODVmNTE1NWIwNDcwY2U2Ng
 
 #EXTINF:-1 tvg-id="SkySportsGolfFHDUK." tvg-name="SKY SPORTS GOLF FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS GOLF FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -474,7 +475,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="TV",SKY SPORTS MAIN EVENT [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTQzOTMwMDY2Nzc6Y2RubGl2ZXR2LnR2OjAyYjRmNDNiZjFmNTQ3YTAuYTA1NTViOWU2M2QxZDU1YjhjNGE3MzhiNjZjNDc3NzQwODliYWRhMGNlYjM3MDA4YTFiZmU3M2Q2MDllZjYwYQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTQ0MDIwMDczNDU6Y2RubGl2ZXR2LnR2OjBiYTY3OWU3YzdjMzQ4MzUuMjhmNjJjNWM0MDJmMjRmMTE4OTkzYzY3MjI0Yzk3OTVhNjM2YjE5NDQ4YWZmMzY1NDRjMGY2MTRmNjI0ZjI3Zg
 
 #EXTINF:-1 tvg-id="SkySportsMainEventFHDUK." tvg-name="SKY SPORTS MAIN EVENT FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS MAIN EVENT FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -484,7 +485,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SKY SPORTS MIX [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="TV",SKY SPORTS MIX [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c873/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODczOjE3OTQzOTMwMDY4ODI6Y2RubGl2ZXR2LnR2OmMxYjQ3NDQxZjJjNjE0NjkuNjY5MDFkZGQwZTA5M2IxMzAwNGY4YzcyZGMyOTExZGU1MzRjYjdlMjRhMjExMWZiYzk1NWQ0YjRlYWE3ZDBiMQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c873/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODczOjE3OTQ0MDIwMDc1NTE6Y2RubGl2ZXR2LnR2OmU0ZDI2Y2EzNjE2MWE5NjQuZjk5MWQ4MDI3Y2Q0MGI0MTNlODBmOGY1NWI1MDBkN2M5MDY4YTBjMDM3OGY0Y2NmZDU2ZmI2MmRlMjljNTNkZA
 
 #EXTINF:-1 tvg-id="SkySportsMixFHDUK." tvg-name="SKY SPORTS MIX FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS MIX FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -503,7 +504,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c888/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="SKY SPORTS RACING [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="TV",SKY SPORTS RACING [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODdiOjE3OTQzOTMwMDcwODc6Y2RubGl2ZXR2LnR2OmQ3MzllYzI2ZjQ4M2IxYzIuYzBmZTg4Mzc2NGRjZGYwNmQyMzA0MzYzNjdlOGIzNTk5Y2M3ZDQyZDU3Y2E1ZTcyZWE4NDI3YzA2YjZlNjUxZQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODdiOjE3OTQ0MDIwMDc3NTM6Y2RubGl2ZXR2LnR2OmE3ZWNkYzA0MDUyY2QyZWEuM2ZkZTYxMjcyYTc4YzQ1ZGIwYmM2ODkzNjNlMjg5NTAyODMxNWExYzdjNjg2MjYzNzI4NzQ2MTlmYzRjYmVmNA
 
 #EXTINF:-1 tvg-id="SkySportsRacingFHDUK." tvg-name="SKY SPORTS RACING FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS RACING FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Racing%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -513,7 +514,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="SKY SPORTS TENNIS [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="TV",SKY SPORTS TENNIS [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTQzOTMwMDcyOTY6Y2RubGl2ZXR2LnR2OjRjZWQxYTY1OTU3YmMwYjAuMzliZmY2MmZkY2UxNTFmYmVkZjA5YjlkYjZhOGQyZDY1NTk0ZmQ2ZDkwN2U5M2MwMDdlY2EzOWVjMWFlM2FmZQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTQ0MDIwMDc5NTk6Y2RubGl2ZXR2LnR2OjMxMzk2MWJkZWI3Y2QyZWQuODVmZTZkZjc4NGZjYzk3MTlmYTFiNTQzYmJiYTIxMTc2YTM1MTYxYzBlOTZiNGYzYzBjMmQ5MzUwYmU5MmM0YQ
 
 #EXTINF:-1 tvg-id="SkySportsTennisFHDUK." tvg-name="SKY SPORTS TENNIS FHD UK [S1]" tvg-logo="" group-title="TV",SKY SPORTS TENNIS FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Tennis%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -529,7 +530,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c7e0/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SPORTSNET NEW YORK [S3]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="TV",SPORTSNET NEW YORK [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTQzOTMwMDc3MTA6Y2RubGl2ZXR2LnR2OmU2MGFiMjJmZGE2MjBjN2IuOWFiODE1ZGQ1NDdkYWU3MmI4ZTgxMGQ0ZGY0MGFjMDhlOTU4MGM4ZWI1OGE0NTdiNmEyMjYyZjFkYTNmZTU1Ng
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTQ0MDIwMDgzNzI6Y2RubGl2ZXR2LnR2OmM5NDBhN2JmZjVkMjJiYTguNDg2OWFlNDRiMGE5M2Y2MTNhMDUyYjRkMzI4NzllM2ZiMWNmNDU4YWVkMTBiODNlZWQ4NDc3YjdiMDI0MTE3Yg
 
 #EXTINF:-1 tvg-id="SportsNetNewYorkFHDUS." tvg-name="SPORTSNET NEW YORK FHD US [S1]" tvg-logo="" group-title="TV",SPORTSNET NEW YORK FHD US [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=&user=streamsports99&plan=vip
@@ -539,7 +540,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT SPORTS 1 [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="TV",TNT SPORTS 1 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTQzOTMwMDc5MDg6Y2RubGl2ZXR2LnR2Ojg2MGZhZjZkOTM2NWE3ZmIuNDhhYmU5NzM5OTIzZWNlNzJhZjU0NjdmODAzMzQ2ZjQ5ZjQwYzBjYzk3NjQ2ZmMyZWIzNTJiYjIzNzEwYjIyYQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTQ0MDIwMDg1ODY6Y2RubGl2ZXR2LnR2OjJlZGRlMWY3NTg2OGE5ODQuNzAxZDkzMmEyM2FlOGMxZDUxMTViOWQ1MGZlMTg4ZGMxNDU2MjdmY2Q2MTM1MTdmMDYyMWQ0MjgxY2QzZmFkNg
 
 #EXTINF:-1 tvg-id="TNTSports1FHDUK." tvg-name="TNT SPORTS 1 FHD UK [S1]" tvg-logo="" group-title="TV",TNT SPORTS 1 FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -549,7 +550,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT SPORTS 2 [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="TV",TNT SPORTS 2 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTQzOTMwMDgxMTk6Y2RubGl2ZXR2LnR2OjdjNGI3Yzk0MmU2ODIwMDguMzBkODFhNDVlNTk0YWNmNTUwMWQ4OTY3ZDgzYjJhNGUzYTI3YjcwYjgyNWIwZGQ3YzZkNGYzYTdjMjY0NzE0Yw
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTQ0MDIwMDg3ODA6Y2RubGl2ZXR2LnR2OmQ3ODkwOTRhZDVmYjA2ODAuODcwZDU1NmU5YTgyMTZkZWM1ZjVkZWYxZWYxZTQ5OWNhODA0NGMwNWYxMzg1NTcxZDM3NmVmMmFlMTNhYWQxMw
 
 #EXTINF:-1 tvg-id="TNTSports2FHDUK." tvg-name="TNT SPORTS 2 FHD UK [S1]" tvg-logo="" group-title="TV",TNT SPORTS 2 FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -559,7 +560,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT SPORTS 3 [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="TV",TNT SPORTS 3 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTQzOTMwMDgzMTk6Y2RubGl2ZXR2LnR2OjIzMTQ4NTgyNWEzNGIxOGUuZTJjMjYwMzQ0NGNhZGY4ZmJkNTMxOTQ0YWFlOGYyZGRiOTgwOWFiOTk4YzVmYzAxOTA0YmZlMjY5MTUwNjAzOQ
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTQ0MDIwMDg5ODM6Y2RubGl2ZXR2LnR2OjljMDMzMDVlMTlkZDBiMmIuZjdkMTA2ZTNjNTNjOGExMWNmYTgyYTE2OTQxYjhmMDMxNzU2YzM5NTg1OTE4NmFkMjZlOTIwM2VhY2E5NjU5Mg
 
 #EXTINF:-1 tvg-id="TNTSports3FHDUK." tvg-name="TNT SPORTS 3 FHD UK [S1]" tvg-logo="" group-title="TV",TNT SPORTS 3 FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -569,7 +570,7 @@ https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT SPORTS 4 [S3]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="TV",TNT SPORTS 4 [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTQzOTMwMDg1MjI6Y2RubGl2ZXR2LnR2OjZiYzJkY2IxZWNlZmU2YTguYmExZWVlMTJmZmJhNWQ1NmVjNDY4MDgzMjI4MjVmZmEwOTVmOWJhNjZlMGRhZWI5NWNkZDRjYmQ2YjI4NjgxMw
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTQ0MDIwMDkxODg6Y2RubGl2ZXR2LnR2OmJlZGRjMzRhMjFmNjM2YWQuOGIwODA4ZGE0NWQyZmIzN2E2ZWU2YzcwYWY2MTM5NjAyOWVlOTA5NzI2OTM4YWZlYzI1MDVjODViYTIyZGRjMg
 
 #EXTINF:-1 tvg-id="TNTSports4FHDUK." tvg-name="TNT SPORTS 4 FHD UK [S1]" tvg-logo="" group-title="TV",TNT SPORTS 4 FHD UK [S1]
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=&user=streamsports99&plan=vip
@@ -3999,6 +4000,16 @@ http://vipzd.co:88/02076158735281/9532311259/1562462
 #EXTINF:-1 tvg-ID="" tvg-name="|PH| ONE SPORTS" tvg-logo="" group-title="Sport Channels",|PH| ONE SPORTS
 http://vipzd.co:88/02076158735281/9532311259/1562478
 
+#EXTINF:-1 tvg-id="India Vs Maldives - HD QUALITY" tvg-name="India Vs Maldives - HD QUALITY" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/India%20Vs%20Maldives.jpg" group-title="[S3] Football",India Vs Maldives - HD QUALITY
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?
+#EXTINF:-1 tvg-id="India Vs Maldives - STREAM TV + HD" tvg-name="India Vs Maldives - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/India%20Vs%20Maldives.jpg" group-title="[S3] Football",India Vs Maldives - STREAM TV + HD
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel21.m3u8?
+#EXTINF:-1 tvg-id="India Vs Maldives - T SPORTS HD" tvg-name="India Vs Maldives - T SPORTS HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/India%20Vs%20Maldives.jpg" group-title="[S3] Football",India Vs Maldives - T SPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-id="India Vs Maldives - VETO FHD" tvg-name="India Vs Maldives - VETO FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/India%20Vs%20Maldives.jpg" group-title="[S3] Football",India Vs Maldives - VETO FHD
+https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
 #EXTINF:-1 tvg-id="Africa Cup of Nations Qual.(Football)" tvg-name="DR Congo - Sierra Leone - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Africa Cup of Nations Qual.",DR Congo - Sierra Leone - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="Africa Cup of Nations Qual.(Football)" tvg-name="Ghana - Somalia - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Africa Cup of Nations Qual.",Ghana - Somalia - Link 1
@@ -4007,21 +4018,6 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="Africa Cup of Nations Qual.(Football)" tvg-name="Madagascar - Guinea-Bissau - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Africa Cup of Nations Qual.",Madagascar - Guinea-Bissau - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="Copa del Rey(Football)" tvg-name="CD Anaitasuna FT - Deportivo Alavés - SK LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Copa del Rey",CD Anaitasuna FT - Deportivo Alavés - SK LIVE
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/sd-1-4658636.m3u8?txSecret=0a392fea1b6a67c8aa520aafc4d57bf1&txTime=6AF36BE9
-#EXTINF:-1 tvg-id="Copa del Rey(Football)" tvg-name="Pamplona - Eibar - SK LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Copa del Rey",Pamplona - Eibar - SK LIVE
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/sd-1-4658635.m3u8?txSecret=15e843d62d7f02d07ba49c9d9392bd62&txTime=6AF36BBF
-#EXTINF:-1 tvg-id="Copa del Rey(Football)" tvg-name="Tavernes - Valencia - CricFy" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Copa del Rey",Tavernes - Valencia - CricFy
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/sd-1-4658654.m3u8?txSecret=55f8cc772878f2a68c31707fdc02d0d0&txTime=6AF38A86
-#EXTINF:-1 tvg-id="Copa del Rey(Football)" tvg-name="Tavernes - Valencia - CricFy HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Copa del Rey",Tavernes - Valencia - CricFy HD
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8?
-#EXTINF:-1 tvg-id="Copa del Rey(Football)" tvg-name="Trival Valderas Alcorcón - Leganés - SK LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Copa del Rey",Trival Valderas Alcorcón - Leganés - SK LIVE
-#EXTVLCOPT:http-referrer=https://player.on8on8.com/
-https://live.vivo155.com/live/sd-1-4568716.m3u8?txSecret=2b3701c816f09f7793cfb774882f7965&txTime=6AF37B9D
 #EXTINF:-1 tvg-id="EPL | Premier League Goals Rush(Football)" tvg-name="EPL Goals Rush - EPL Goals Rush - PlayZ TV" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/17/image" group-title="EPL | Premier League Goals Rush",EPL Goals Rush - EPL Goals Rush - PlayZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4110,6 +4106,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="International Friendly Games(Football)" tvg-name="Vietnam - Chinese Taipei - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="International Friendly Games",Vietnam - Chinese Taipei - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 tvg-id="International Friendly Games(Football)" tvg-name="Vietnam - Chinese Taipei - SK LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="International Friendly Games",Vietnam - Chinese Taipei - SK LIVE
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-id="ISL(Football)" tvg-name="ISL - ISL - PRIME VIDEO FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image" group-title="ISL",ISL - ISL - PRIME VIDEO FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4138,8 +4136,20 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive0711/HIN/std_lrh
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8
 #EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="Bangladesh - Sri Lanka - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",Bangladesh - Sri Lanka - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="India - Maldives - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",India - Maldives - Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="India - Maldives - Cricfy HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",India - Maldives - Cricfy HD
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?
+#EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="India - Maldives - MYCO" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",India - Maldives - MYCO
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8
+#EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="India - Maldives - MYCO FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",India - Maldives - MYCO FHD
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8
+#EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="India - Maldives - SK LIVE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",India - Maldives - SK LIVE
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?
+#EXTINF:-1 tvg-id="SAFF Championship(Football)" tvg-name="India - Maldives - VITO 🇮🇳" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="SAFF Championship",India - Maldives - VITO 🇮🇳
+https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
 #EXTINF:-1 tvg-id="The - Golazo Show(Football)" tvg-name="Golazo Show - Golazo Show - ES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10" group-title="The - Golazo Show",Golazo Show - Golazo Show - ES
 https://a116.azplay55.me/hls/streama271255/index.m3u8?cst=02c3295409e4b2321981c051dc3cdaca
 #EXTINF:-1 tvg-id="The - Golazo Show(Football)" tvg-name="Golazo Show - Golazo Show - ViX ESPANOL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10" group-title="The - Golazo Show",Golazo Show - Golazo Show - ViX ESPANOL FHD
@@ -4185,57 +4195,6 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="UEFA Nations League(Football)" tvg-name="Türkiye - Belgium - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="UEFA Nations League",Türkiye - Belgium - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="BK Häcken FF - Chelsea FC - CBS SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",BK Häcken FF - Chelsea FC - CBS SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="BK Häcken FF - Chelsea FC - FANCODE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",BK Häcken FF - Chelsea FC - FANCODE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="BK Häcken FF - Chelsea FC - HD SERVER" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",BK Häcken FF - Chelsea FC - HD SERVER
-https://www.rtmpcdn.com/live/cffb1a77-fa2b-400d-86e1-4728fa150947.m3u8
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="BK Häcken FF - Chelsea FC - PARAMOUNT+" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",BK Häcken FF - Chelsea FC - PARAMOUNT+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c559d07ccfd1b2024558710893333f5:d0dbaa1c429b5a01ea1d46c22368769d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="Inter - Man City - PARAMOUNT+ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",Inter - Man City - PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3586dd615eebc5504bb9b45fc9003797:8f0a760469969e5fdc0fcacf7cbe561a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mtmbz5zsb/out/v1/3a1028ef03ab426fbad3a6ab4660d30c/cenc.mpd
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="PSG - Bayern - PARAMOUNT+ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",PSG - Bayern - PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8c919d45cbaa02568cbdd76e5520326:f87d4bea5c630a008e267deefc8c0354
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7sdi5ribnv/out/v1/124536cfa5414911b33298c7a236243f/cenc.mpd
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="Real Madrid - Paris FC - PARAMOUNT+" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",Real Madrid - Paris FC - PARAMOUNT+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f201a6e86e8a486e2c48d796c2de78e0:9dbe7adfd1776760c0e6dd67ecf92030
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd
-#EXTINF:-1 tvg-id="UEFA Women's Champions League(Football)" tvg-name="Roma - Servette FCCF - PARAMOUNT+ FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="UEFA Women's Champions League",Roma - Servette FCCF - PARAMOUNT+ FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0a78977471b32c0e495a6d7dbe0ddaf:be86ffcfa8a6cc66b46b7b26de4c7f26
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/krwoklim9x/out/v1/ebf6dd7e3343462eb3f4d6a4ac38b3ff/cenc.mpd
 #EXTINF:-1 tvg-id="Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)" tvg-name="Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="[S3] Cricket",Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -4261,8 +4220,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd
 #EXTINF:-1 tvg-id="Women's Big Bash League Vs Women's Big Bash League - WILLOW HD" tvg-name="Women's Big Bash League Vs Women's Big Bash League - WILLOW HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Women%27s%20Big%20Bash%20League%20Vs%20Women%27s%20Big%20Bash%20League.jpg" group-title="[S3] Cricket",Women's Big Bash League Vs Women's Big Bash League - WILLOW HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4432,12 +4391,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/
 #EXTINF:-1 tvg-id="NFL | NFL REDZONE(American football)" tvg-name="NFL REDZONE - NFL REDZONE - USA TV" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/9464/image" group-title="American football",NFL REDZONE - NFL REDZONE - USA TV
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/59601/load-playlist?
-#EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="76ers - Celtics - Nova Sports HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",76ers - Celtics - Nova Sports HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="NBA(Basketball)" tvg-name="Portland Trail Blazers - Oklahoma City Thunder - NBA LEAGUEPASS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball",Portland Trail Blazers - Oklahoma City Thunder - NBA LEAGUEPASS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4595,12 +4548,6 @@ http://193.47.62.41/hls/CCCCAA.m3u8
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="Monday Night Raw(Boxing)" tvg-name="WWE Monday Night RAW - WWE Monday Night RAW - RAW Stream" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJX8VFtwdb0AWq64lhOVYbkKvFoiSROOixJeEU73uUDp25NzGuWNynMuEWC6ezIWj4Jyp3VN3rrQDufJZuMQ67Sys-xPilS4jvh-Ujk3-B0shI1O-RdhuZB9cRJ7oeMbIZZe9wih7krgECdqYLQiYYFX3N6pFL6QX3XsKc4ihKOyZ8mH0_QZcL0uqirs/s1600/1000025200.png" group-title="Boxing",WWE Monday Night RAW - WWE Monday Night RAW - RAW Stream
 https://admin.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="WWE: NXT(Boxing)" tvg-name="WWE: NXT - NXT FHD" tvg-logo="https://iili.io/n9v6ZNV.png" group-title="Boxing",WWE: NXT - NXT FHD
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
-#EXTINF:-1 tvg-id="WWE: NXT(Boxing)" tvg-name="WWE: NXT - NXT HD" tvg-logo="https://iili.io/n9v6ZNV.png" group-title="Boxing",WWE: NXT - NXT HD
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
-#EXTINF:-1 tvg-id="WWE: NXT(Boxing)" tvg-name="WWE: NXT - NXT SD" tvg-logo="https://iili.io/n9v6ZNV.png" group-title="Boxing",WWE: NXT - NXT SD
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi T10 League(Cricket)" tvg-name="Abu Dhabi - T10 League - A Sports FHD" tvg-logo="o" group-title="Cricket",Abu Dhabi - T10 League - A Sports FHD
 https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi T10 League(Cricket)" tvg-name="Abu Dhabi - T10 League - MYCO LIVE HD" tvg-logo="o" group-title="Cricket",Abu Dhabi - T10 League - MYCO LIVE HD
@@ -4974,6 +4921,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?
+#EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="PAK - SL - Low" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",PAK - SL - Low
+#EXTVLCOPT:http-referrer=http://fawanews.sc/
+http://193.47.62.44/hls/D222AWX.m3u8
 #EXTINF:-1 tvg-id="Pakistan vs Sri Lanka(Cricket)" tvg-name="PAK - SL - LOW SERVER" tvg-logo="o" group-title="Cricket",PAK - SL - LOW SERVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -4998,8 +4948,8 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 #EXTINF:-1 tvg-id="Pakistan vs Sri Lanka(Cricket)" tvg-name="PAK - SL - WILLOW ALT" tvg-logo="o" group-title="Cricket",PAK - SL - WILLOW ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5011,8 +4961,8 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 #EXTINF:-1 tvg-id="Pakistan vs Sri Lanka(Cricket)" tvg-name="PAK - SL - WILLOW FHD" tvg-logo="o" group-title="Cricket",PAK - SL - WILLOW FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5045,15 +4995,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd976e47eff3942879f7d0f243bc82d0:b66a35dcdb61c0f0fd4b60a6c207dfbb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lspl6vxgj8/out/v1/1a1a94976b6a45a69e5f78a41aaca108/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd?
 #EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="Pakistan - Sri Lanka - WILLOW ALT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",Pakistan - Sri Lanka - WILLOW ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd976e47eff3942879f7d0f243bc82d0:b66a35dcdb61c0f0fd4b60a6c207dfbb
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lspl6vxgj8/out/v1/1a1a94976b6a45a69e5f78a41aaca108/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd
 #EXTINF:-1 tvg-id="ICC World Test Championship(Cricket)" tvg-name="Pakistan - Sri Lanka - WILLOW S2 - AQ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",Pakistan - Sri Lanka - WILLOW S2 - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5096,7 +5046,7 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="WBBL | Womens Big Bash League(Cricket)" tvg-name="WBBL - WBBL - SKY CRICKET FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - SKY CRICKET FHD
+#EXTINF:-1 tvg-id="WBBL | Womens Big Bash League(Cricket)" tvg-name="WBBL - WBBL - SK CRICKET FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - SK CRICKET FHD
 #EXTVLCOPT:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-id="WBBL(Cricket)" tvg-name="WBBL - WBBL - SKY SPORTS" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - SKY SPORTS
@@ -5110,27 +5060,27 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=a4a88dfd0faa47c37f51cfb848198772:0d32f4914a3469afa1d8386fa6f3d3e8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd?
 #EXTINF:-1 tvg-id="WBBL | Womens Big Bash League(Cricket)" tvg-name="WBBL - WBBL - WILLOW ALT" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - WILLOW ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a4a88dfd0faa47c37f51cfb848198772:0d32f4914a3469afa1d8386fa6f3d3e8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd
 #EXTINF:-1 tvg-id="WBBL(Cricket)" tvg-name="WBBL - WBBL - WILLOW ALT" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - WILLOW ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a4a88dfd0faa47c37f51cfb848198772:0d32f4914a3469afa1d8386fa6f3d3e8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd
 #EXTINF:-1 tvg-id="WBBL | Womens Big Bash League(Cricket)" tvg-name="WBBL - WBBL - WILLOW FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - WILLOW FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd?
+#KODIPROP:inputstream.adaptive.license_key=a4a88dfd0faa47c37f51cfb848198772:0d32f4914a3469afa1d8386fa6f3d3e8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd?
 #EXTINF:-1 tvg-id="WBBL | Womens Big Bash League(Cricket)" tvg-name="WBBL - WBBL - WILLOW HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Cricket",WBBL - WBBL - WILLOW HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5233,36 +5183,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 #EXTINF:-1 tvg-id="Vietnam vs Chinese Taipei(FIFA Friendlies)" tvg-name="Vietnam - Chinese Taipei - Default" tvg-logo="o" group-title="FIFA Friendlies",Vietnam - Chinese Taipei - Default
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Canadiens - Wild - Nova Sports HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Canadiens - Wild - Nova Sports HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Canadiens - Wild - Premier Sports HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Canadiens - Wild - Premier Sports HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Canadiens - Wild - TSN 2 FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Canadiens - Wild - TSN 2 FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Ducks - Predators - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Ducks - Predators - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Flames - Rangers - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Flames - Rangers - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Golden Knights - Mammoth - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Golden Knights - Mammoth - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Jets - Devils - TSN 3 FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Jets - Devils - TSN 3 FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Los Angeles Kings - Nashville Predators - PlayZTV Live" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Los Angeles Kings - Nashville Predators - PlayZTV Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -5279,22 +5205,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a303a19d-9d30-4284-b19d-5371a2a17d19/master.m3u8
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Maple Leafs - Avalanche - TSN FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Maple Leafs - Avalanche - TSN FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Oilers - Flyers - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Oilers - Flyers - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Sabres - Lightning - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Sabres - Lightning - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
-#EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Senators - Capitals - TSN FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Senators - Capitals - TSN FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 #EXTINF:-1 tvg-id="NHL(Hockey)" tvg-name="Sharks - Penguins - Link 1" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="Hockey",Sharks - Penguins - Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 tvg-id="AEW Dynamite(Live Events)" tvg-name="AEW - AEW - AEW TV HD" tvg-logo="https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png" group-title="Live Events",AEW - AEW - AEW TV HD
@@ -5832,21 +5746,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kczwedhkgn/out/v1
 #EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
 #EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
 http://193.47.62.59/hls/PPPPA.m3u8
-#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - FAST SERVER HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - FAST SERVER HD
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1793890435-0-0-cfa8e67b7f53e252d7d0f5887fccec2a
-#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - GHD SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - GHD SPORTS HD
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - GHD SPORTS SD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - GHD SPORTS SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.55/hls/RHHHAAAAAQQ.m3u8
-#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - MYCO PK - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - MYCO PK - AQ
+#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - GHD SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - GHD SPORTS - HD
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - MYCO TV - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - MYCO TV - AQ
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8
-#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - T SPORTS HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - T SPORTS HD
-http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - T SPORTS - HD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - T SPORTS - HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-id="SAFF Championship(Live Events)" tvg-name="India - Maldives - VETO TV - AQ" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Live Events",India - Maldives - VETO TV - AQ
+https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
 #EXTINF:-1 tvg-id="UEFA Women's Champions League(Live Events)" tvg-name="Inter - Man City - CBS SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Live Events",Inter - Man City - CBS SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6308,8 +6216,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-referrer=http%3A%2F%2Fwww.fawanews.sc%2F
 #EXTVLCOPT:http-origin=http%3A%2F%2Fwww.fawanews.sc
 http://193.47.62.50/hls/NNNNA.m3u8
-#EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - PTV SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - PTV SPORTS HD
-https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - TAPMAD - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - TAPMAD - AQ
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
@@ -6317,28 +6223,23 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145
 #EXTVLCOPT:http-referrer=https://tapmad.com/
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - WILLOW - HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - WILLOW - HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
-http://193.47.62.44/hls/D222AW.m3u8
-#EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - WILLOW CRICBUZZ - ALT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - WILLOW CRICBUZZ - ALT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd
+http://193.47.62.44/hls/D222AWX.m3u8
 #EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - WILLOW CRICBUZZ - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - WILLOW CRICBUZZ - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd
-#EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - WILLOW SPORTS AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - WILLOW SPORTS AQ
+#KODIPROP:inputstream.adaptive.license_key=e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd
+#EXTINF:-1 tvg-id="SRI LANKA TOUR OF PAKISTAN(Live Events)" tvg-name="PAK - SL - WILLOW CRICBUZZ - SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkotXSF-rp1zW3Fzn9RCdZO4Omt9ESLb9B66S8X5QSbHS8tFbTytXybI&s=10" group-title="Live Events",PAK - SL - WILLOW CRICBUZZ - SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
 #EXTINF:-1 tvg-id="U19 Asia Cup(Live Events)" tvg-name="PAK-U19 - BAN-U19 - PRIME VIDEO FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Live Events",PAK-U19 - BAN-U19 - PRIME VIDEO FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6879,14 +6780,14 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd
 #EXTINF:-1 tvg-id="WOMENS BIG BASH LEAGUE(Live Events)" tvg-name="WBBL - WBBL - WILLOW CRICBUZZ SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="Live Events",WBBL - WBBL - WILLOW CRICBUZZ SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd
 #EXTINF:-1 tvg-id="WOMENS BIG BASH LEAGUE(Live Events)" tvg-name="WBBL - WBBL - WILLOW SPORTS AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHV3Swjw0NCcdISEXkyuJyRpcpiJuJsScPeyk7feRjpg&s=10" group-title="Live Events",WBBL - WBBL - WILLOW SPORTS AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
