@@ -69,45 +69,55 @@ https://tedesco.formaturamaxi.com.br/fubo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/fs2.m3u8
 
+#EXTINF:-1 tvg-id="other" tvg-name="Portugal vs Denmark" tvg-logo="" group-title="SOCCER",Portugal vs Denmark
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/vix.m3u8
+
 #EXTINF:-1 tvg-id="other" tvg-name="Mirassol vs Atlético Mineiro" tvg-logo="" group-title="SOCCER",Mirassol vs Atlético Mineiro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/ecu.m3u8
+https://admin.formaturamaxi.com.br/fana.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Mirassol vs Atlético Mineiro" tvg-logo="" group-title="SOCCER",Mirassol vs Atlético Mineiro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin.formaturamaxi.com.br/fanaes.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Haiti vs USA" tvg-logo="" group-title="SOCCER",Haiti vs USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/ncaa4.m3u8
+https://admin2.formaturamaxi.com.br/concacaf.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Haiti vs USA" tvg-logo="" group-title="SOCCER",Haiti vs USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://admin2.formaturamaxi.com.br/peacock.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Banfield vs Boca Juniors" tvg-logo="" group-title="SOCCER",Banfield vs Boca Juniors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/atv.m3u8
+https://admin.formaturamaxi.com.br/tyc.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Querétaro vs Monterrey" tvg-logo="" group-title="SOCCER",Querétaro vs Monterrey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/fs2.m3u8
-
-#EXTINF:-1 tvg-id="other" tvg-name="Querétaro vs Monterrey" tvg-logo="" group-title="SOCCER",Querétaro vs Monterrey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/tudnus.m3u8
+https://admin2.formaturamaxi.com.br/foxmx.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Chapecoense vs Vasco Gama" tvg-logo="" group-title="SOCCER",Chapecoense vs Vasco Gama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/fana.m3u8
+https://admin.formaturamaxi.com.br/fana2.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Jamaica vs Mexico" tvg-logo="" group-title="SOCCER",Jamaica vs Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://admin2.formaturamaxi.com.br/primemx.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Jamaica vs Mexico" tvg-logo="" group-title="SOCCER",Jamaica vs Mexico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/prem.m3u8
+https://admin2.formaturamaxi.com.br/concacaf.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Denver Nuggets vs New Orleans Pelicans" tvg-logo="" group-title="NBA",Denver Nuggets vs New Orleans Pelicans
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -222,7 +232,12 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="Minnesota Wild vs Boston Bruins" tvg-logo="" group-title="NHL",Minnesota Wild vs Boston Bruins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nhl3.m3u8
+https://admin2.formaturamaxi.com.br/nhl4.m3u8
+
+#EXTINF:-1 tvg-id="other" tvg-name="Colorado Avalanche vs Montreal Canadiens" tvg-logo="" group-title="NHL",Colorado Avalanche vs Montreal Canadiens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Detroit Red Wings vs Tampa Bay Lightning" tvg-logo="" group-title="NHL",Detroit Red Wings vs Tampa Bay Lightning
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -237,7 +252,7 @@ https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="New Jersey Devils vs Washington Capitals" tvg-logo="" group-title="NHL",New Jersey Devils vs Washington Capitals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/nhl8.m3u8
+https://tedesco.formaturamaxi.com.br/nhl8.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="Philadelphia Flyers vs Columbus Blue Jackets" tvg-logo="" group-title="NHL",Philadelphia Flyers vs Columbus Blue Jackets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -287,17 +302,17 @@ https://admin2.formaturamaxi.com.br/ppv4.m3u8
 #EXTINF:-1 tvg-id="other" tvg-name="UFC 334: Gane vs. Hokit" tvg-logo="" group-title="FIGHTING",UFC 334: Gane vs. Hokit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
+https://temp.formaturamaxi.com.br/tnt.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="UFC 334: Gane vs. Hokit" tvg-logo="" group-title="FIGHTING",UFC 334: Gane vs. Hokit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://admin2.formaturamaxi.com.br/tnt.m3u8
+https://temp.formaturamaxi.com.br/abbiecadabrii.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="UFC 334: Gane vs. Hokit" tvg-logo="" group-title="FIGHTING",UFC 334: Gane vs. Hokit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://temp.formaturamaxi.com.br/ufc.m3u8
+https://temp.formaturamaxi.com.br/simplyabby.m3u8
 
 #EXTINF:-1 tvg-id="other" tvg-name="AEW Full Gear" tvg-logo="" group-title="FIGHTING",AEW Full Gear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -334,22 +349,7 @@ https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/nas.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: پرتغال - دانمارک" tvg-logo="https://live.cdn.asset.aparatsport.ir/0b14467da247cb8d536eaa19b66a6ea5/preview/AparatSport1_small.jpg?7319" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: پرتغال - دانمارک
-https://www.aparatsport.ir/adele/getAparatManifest/vD06d58bA6AA618/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="انتخابی جام ملت‌های آفریقا ۲۰۲۷: الجزایر - توگو" tvg-logo="https://live.cdn.asset.aparatsport.ir/7a32ffd60c58d09c056ffc441dc9c285/preview/AparatSport_small.jpg?36764" group-title="Aparat Sport Live",انتخابی جام ملت‌های آفریقا ۲۰۲۷: الجزایر - توگو
-https://www.aparatsport.ir/adele/getAparatManifest/hCQ7576c8641FA3/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="نیمه نهایی اسنوکر قهرمان قهرمانان: شاون مورفی - کایرن ویلسون" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/aparatsport10_small.jpg?48001" group-title="Aparat Sport Live",نیمه نهایی اسنوکر قهرمان قهرمانان: شاون مورفی - کایرن ویلسون
-https://www.aparatsport.ir/adele/getAparatManifest/eUV1251bBBBBB0C/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="والیبال تائورون لیگا لهستان: زاویرچه - استیلون گورژوف" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/aparatsport6_small.jpg?257" group-title="Aparat Sport Live",والیبال تائورون لیگا لهستان: زاویرچه - استیلون گورژوف
-https://www.aparatsport.ir/adele/getAparatManifest/WBw1b4f80F626C8/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: اتریش - جمهوری ایرلند" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport2_small.jpg?43555" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: اتریش - جمهوری ایرلند
-https://www.aparatsport.ir/adele/getAparatManifest/JNF1eecb31D5E6D/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: سوئد - بوسنی و هرزگوین" tvg-logo="https://live.cdn.asset.aparatsport.ir/b123e113afea84195b323d2377c215b2/preview/AparatSport5_small.jpg?19663" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: سوئد - بوسنی و هرزگوین
-https://www.aparatsport.ir/adele/getAparatManifest/8WB886501BA8868/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: ایرلند شمالی - اوکراین" tvg-logo="https://live.cdn.asset.aparatsport.ir/98aa6f6cd5a4156c5dc66d296dbb2429/preview/AparatSport3_small.jpg?69187" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: ایرلند شمالی - اوکراین
-https://www.aparatsport.ir/adele/getAparatManifest/qXP259f17EA3172/master.m3u8
-#EXTINF:-1 tvg-id="other" tvg-name="لیگ ملت‌های اروپا: رومانی - لهستان" tvg-logo="https://live.cdn.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport4_small.jpg?14585" group-title="Aparat Sport Live",لیگ ملت‌های اروپا: رومانی - لهستان
-https://www.aparatsport.ir/adele/getAparatManifest/Rgb6b5074AC1C2E/master.m3u8
+
 
 
 
