@@ -139,8 +139,7 @@ https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 https://admin2.formaturamaxi.com.br/nas.m3u8
 
-#EXTINF:-1 tvg-id="other" tvg-name="بسکتبال NBA: مینسوتا - پورتلند" tvg-logo="https://live.asset.aparatsport.ir/b72fc6ed6d15e46c09a0606135dcd436/preview/AparatSport.NBA_small.jpg?20016" group-title="Aparat Sport Live",بسکتبال NBA: مینسوتا - پورتلند
-https://www.aparatsport.ir/adele/getAparatManifest/nWCd5b5dECE63E7/master.m3u8
+
 
 
 
@@ -4001,25 +4000,6 @@ http://vipzd.co:88/02076158735281/9532311259/1562462
 #EXTINF:-1 tvg-ID="" tvg-name="|PH| ONE SPORTS" tvg-logo="" group-title="Sport Channels",|PH| ONE SPORTS
 http://vipzd.co:88/02076158735281/9532311259/1562478
 
-#EXTINF:-1 tvg-id="Canada Vs Guatemala - FOX1 SPORTS FHD" tvg-name="Canada Vs Guatemala - FOX1 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg" group-title="[S3] Football",Canada Vs Guatemala - FOX1 SPORTS FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-#EXTINF:-1 tvg-id="Canada Vs Guatemala - HD QUALITY" tvg-name="Canada Vs Guatemala - HD QUALITY" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg" group-title="[S3] Football",Canada Vs Guatemala - HD QUALITY
-https://www.rtmpcdn.com/live/c3d9e0d5-dd8b-4152-8e01-3685fa454274.m3u8
-#EXTINF:-1 tvg-id="Canada Vs Guatemala - LOW QUALITY (USE VPN)" tvg-name="Canada Vs Guatemala - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg" group-title="[S3] Football",Canada Vs Guatemala - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.41/hls/CUUUAAA.m3u8
-#EXTINF:-1 tvg-id="Canada Vs Guatemala - TSN5 SPORTS FHD" tvg-name="Canada Vs Guatemala - TSN5 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Canada%20Vs%20Guatemala.jpg" group-title="[S3] Football",Canada Vs Guatemala - TSN5 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 #EXTINF:-1 tvg-id="Africa Cup of Nations Qual.(Football)" tvg-name="Somalia - Ghana - beIN SPORTS FHD" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Africa Cup of Nations Qual.",Somalia - Ghana - beIN SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4666,52 +4646,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-#EXTINF:-1 tvg-id="Boston Celtics Vs Orlando Magic - HD QUALITY 2" tvg-name="Boston Celtics Vs Orlando Magic - HD QUALITY 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg" group-title="[S3] Basketball",Boston Celtics Vs Orlando Magic - HD QUALITY 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60287/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Boston Celtics Vs Orlando Magic - HD QUALITY 3" tvg-name="Boston Celtics Vs Orlando Magic - HD QUALITY 3" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg" group-title="[S3] Basketball",Boston Celtics Vs Orlando Magic - HD QUALITY 3
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60288/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Boston Celtics Vs Orlando Magic - HD QUALITY+" tvg-name="Boston Celtics Vs Orlando Magic - HD QUALITY+" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg" group-title="[S3] Basketball",Boston Celtics Vs Orlando Magic - HD QUALITY+
-https://www.rtmpcdn.com/live/12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8
-#EXTINF:-1 tvg-id="Boston Celtics Vs Orlando Magic - LOW QUALITY (USE VPN)" tvg-name="Boston Celtics Vs Orlando Magic - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg" group-title="[S3] Basketball",Boston Celtics Vs Orlando Magic - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.44/hls/RGGG.m3u8
-#EXTINF:-1 tvg-id="Boston Celtics Vs Orlando Magic - STREAM TV + HD" tvg-name="Boston Celtics Vs Orlando Magic - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg" group-title="[S3] Basketball",Boston Celtics Vs Orlando Magic - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60279/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Boston Celtics Vs Orlando Magic - TSN4 SPORTS FHD" tvg-name="Boston Celtics Vs Orlando Magic - TSN4 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Boston%20Celtics%20Vs%20Orlando%20Magic.jpg" group-title="[S3] Basketball",Boston Celtics Vs Orlando Magic - TSN4 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY 2" tvg-name="Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg" group-title="[S3] Basketball",Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60290/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY+" tvg-name="Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY+" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg" group-title="[S3] Basketball",Brooklyn Nets Vs Philadelphia 76ers - HD QUALITY+
-https://www.rtmpcdn.com/live/bb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8
-#EXTINF:-1 tvg-id="Brooklyn Nets Vs Philadelphia 76ers - LOW QUALITY (USE VPN)" tvg-name="Brooklyn Nets Vs Philadelphia 76ers - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg" group-title="[S3] Basketball",Brooklyn Nets Vs Philadelphia 76ers - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.59/hls/TKKKA.m3u8
-#EXTINF:-1 tvg-id="Brooklyn Nets Vs Philadelphia 76ers - STREAM TV + HD" tvg-name="Brooklyn Nets Vs Philadelphia 76ers - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Brooklyn%20Nets%20Vs%20Philadelphia%2076ers.jpg" group-title="[S3] Basketball",Brooklyn Nets Vs Philadelphia 76ers - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60292/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY 2" tvg-name="Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg" group-title="[S3] Basketball",Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60286/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY+" tvg-name="Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY+" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg" group-title="[S3] Basketball",Cleveland Cavaliers Vs Chicago Bulls - HD QUALITY+
-https://www.rtmpcdn.com/live/d21103a3-c32e-424d-b8ea-50436f519f40.m3u8
-#EXTINF:-1 tvg-id="Cleveland Cavaliers Vs Chicago Bulls - LOW QUALITY (USE VPN)" tvg-name="Cleveland Cavaliers Vs Chicago Bulls - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg" group-title="[S3] Basketball",Cleveland Cavaliers Vs Chicago Bulls - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.59/hls/TKKK.m3u8
-#EXTINF:-1 tvg-id="Cleveland Cavaliers Vs Chicago Bulls - STREAM TV + HD" tvg-name="Cleveland Cavaliers Vs Chicago Bulls - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Cleveland%20Cavaliers%20Vs%20Chicago%20Bulls.jpg" group-title="[S3] Basketball",Cleveland Cavaliers Vs Chicago Bulls - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60275/load-playlist?&.m3u8
 #EXTINF:-1 tvg-id="Denver Nuggets Vs Phoenix Suns - LOW QUALITY (USE VPN)" tvg-name="Denver Nuggets Vs Phoenix Suns - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Phoenix%20Suns.jpg" group-title="[S3] Basketball",Denver Nuggets Vs Phoenix Suns - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
@@ -4719,21 +4653,6 @@ http://193.47.62.59/hls/TKKKAAA.m3u8
 #EXTINF:-1 tvg-id="Denver Nuggets Vs Phoenix Suns - STREAM TV + HD" tvg-name="Denver Nuggets Vs Phoenix Suns - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Denver%20Nuggets%20Vs%20Phoenix%20Suns.jpg" group-title="[S3] Basketball",Denver Nuggets Vs Phoenix Suns - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/60304/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Kentucky Wildcats Vs Grambling St Tigers - STREAM TV + HD" tvg-name="Kentucky Wildcats Vs Grambling St Tigers - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Kentucky%20Wildcats%20Vs%20Grambling%20St%20Tigers.jpg" group-title="[S3] Basketball",Kentucky Wildcats Vs Grambling St Tigers - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60274/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Miami Heat Vs Houston Rockets - HD QUALITY" tvg-name="Miami Heat Vs Houston Rockets - HD QUALITY" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg" group-title="[S3] Basketball",Miami Heat Vs Houston Rockets - HD QUALITY
-https://www.rtmpcdn.com/live/62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8
-#EXTINF:-1 tvg-id="Miami Heat Vs Houston Rockets - HD QUALITY 2" tvg-name="Miami Heat Vs Houston Rockets - HD QUALITY 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg" group-title="[S3] Basketball",Miami Heat Vs Houston Rockets - HD QUALITY 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60293/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Miami Heat Vs Houston Rockets - LOW QUALITY (USE VPN)" tvg-name="Miami Heat Vs Houston Rockets - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg" group-title="[S3] Basketball",Miami Heat Vs Houston Rockets - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.44/hls/RGGGAA.m3u8
-#EXTINF:-1 tvg-id="Miami Heat Vs Houston Rockets - STREAM TV + HD" tvg-name="Miami Heat Vs Houston Rockets - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Miami%20Heat%20Vs%20Houston%20Rockets.jpg" group-title="[S3] Basketball",Miami Heat Vs Houston Rockets - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60289/load-playlist?&.m3u8
 #EXTINF:-1 tvg-id="Minnesota Timberwolves Vs Portland Trail Blazers - HD QUALITY+" tvg-name="Minnesota Timberwolves Vs Portland Trail Blazers - HD QUALITY+" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers.jpg" group-title="[S3] Basketball",Minnesota Timberwolves Vs Portland Trail Blazers - HD QUALITY+
 https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8
 #EXTINF:-1 tvg-id="Minnesota Timberwolves Vs Portland Trail Blazers - LOW QUALITY (USE VPN)" tvg-name="Minnesota Timberwolves Vs Portland Trail Blazers - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Minnesota%20Timberwolves%20Vs%20Portland%20Trail%20Blazers.jpg" group-title="[S3] Basketball",Minnesota Timberwolves Vs Portland Trail Blazers - LOW QUALITY (USE VPN)
@@ -4752,27 +4671,9 @@ http://193.47.62.44/hls/RGGGAAA.m3u8
 #EXTINF:-1 tvg-id="New Orleans Pelicans Vs Golden State Warriors - STREAM TV + HD" tvg-name="New Orleans Pelicans Vs Golden State Warriors - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20Orleans%20Pelicans%20Vs%20Golden%20State%20Warriors.jpg" group-title="[S3] Basketball",New Orleans Pelicans Vs Golden State Warriors - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/60295/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Rutgers Scarlet Knights Vs Albany Great Danes - STREAM TV + HD" tvg-name="Rutgers Scarlet Knights Vs Albany Great Danes - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Rutgers%20Scarlet%20Knights%20Vs%20Albany%20Great%20Danes.jpg" group-title="[S3] Basketball",Rutgers Scarlet Knights Vs Albany Great Danes - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60283/load-playlist?&.m3u8
 #EXTINF:-1 tvg-id="UCLA Bruins Vs Long Beach State 49ers - STREAM TV + HD" tvg-name="UCLA Bruins Vs Long Beach State 49ers - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/UCLA%20Bruins%20Vs%20Long%20Beach%20State%2049ers.jpg" group-title="[S3] Basketball",UCLA Bruins Vs Long Beach State 49ers - STREAM TV + HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Washington Wizards Vs Memphis Grizzlies - HD QUALITY 2" tvg-name="Washington Wizards Vs Memphis Grizzlies - HD QUALITY 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg" group-title="[S3] Basketball",Washington Wizards Vs Memphis Grizzlies - HD QUALITY 2
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60285/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Washington Wizards Vs Memphis Grizzlies - HD QUALITY 3" tvg-name="Washington Wizards Vs Memphis Grizzlies - HD QUALITY 3" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg" group-title="[S3] Basketball",Washington Wizards Vs Memphis Grizzlies - HD QUALITY 3
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60284/load-playlist?&.m3u8
-#EXTINF:-1 tvg-id="Washington Wizards Vs Memphis Grizzlies - HD QUALITY+" tvg-name="Washington Wizards Vs Memphis Grizzlies - HD QUALITY+" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg" group-title="[S3] Basketball",Washington Wizards Vs Memphis Grizzlies - HD QUALITY+
-https://www.rtmpcdn.com/live/51735357-c195-4b4a-a97c-96191309b1c0.m3u8
-#EXTINF:-1 tvg-id="Washington Wizards Vs Memphis Grizzlies - LOW QUALITY (USE VPN)" tvg-name="Washington Wizards Vs Memphis Grizzlies - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg" group-title="[S3] Basketball",Washington Wizards Vs Memphis Grizzlies - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
-http://193.47.62.44/hls/RGGGA.m3u8
-#EXTINF:-1 tvg-id="Washington Wizards Vs Memphis Grizzlies - STREAM TV + HD" tvg-name="Washington Wizards Vs Memphis Grizzlies - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Memphis%20Grizzlies.jpg" group-title="[S3] Basketball",Washington Wizards Vs Memphis Grizzlies - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60280/load-playlist?&.m3u8
 #EXTINF:-1 tvg-id="Monday Night RAW Vs Monday Night RAW - HD QUALITY" tvg-name="Monday Night RAW Vs Monday Night RAW - HD QUALITY" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg" group-title="[S3] Boxing",Monday Night RAW Vs Monday Night RAW - HD QUALITY
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8
@@ -4791,25 +4692,24 @@ https://admin2.formaturamaxi.com.br/wwealt.m3u8
 https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 #EXTINF:-1 tvg-id="Monday Night RAW Vs Monday Night RAW - WWE RAW+ HD 2" tvg-name="Monday Night RAW Vs Monday Night RAW - WWE RAW+ HD 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Monday%20Night%20RAW%20Vs%20Monday%20Night%20RAW.jpg" group-title="[S3] Boxing",Monday Night RAW Vs Monday Night RAW - WWE RAW+ HD 2
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-id="New York Rangers Vs Montréal Canadiens - PREMIERE2 SPORTS FHD" tvg-name="New York Rangers Vs Montréal Canadiens - PREMIERE2 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg" group-title="[S3] Hockey",New York Rangers Vs Montréal Canadiens - PREMIERE2 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)" tvg-name="Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="[S3] Cricket",Pakistan Vs Sri Lanka - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/RREGEGE.m3u8
+#EXTINF:-1 tvg-id="Pakistan Vs Sri Lanka - T SPORTS HD" tvg-name="Pakistan Vs Sri Lanka - T SPORTS HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="[S3] Cricket",Pakistan Vs Sri Lanka - T SPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-id="Pakistan Vs Sri Lanka - WILLOW ALT" tvg-name="Pakistan Vs Sri Lanka - WILLOW ALT" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="[S3] Cricket",Pakistan Vs Sri Lanka - WILLOW ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="New York Rangers Vs Montréal Canadiens - SKY SPORTS MIX" tvg-name="New York Rangers Vs Montréal Canadiens - SKY SPORTS MIX" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg" group-title="[S3] Hockey",New York Rangers Vs Montréal Canadiens - SKY SPORTS MIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+#EXTINF:-1 tvg-id="Pakistan Vs Sri Lanka - WILLOW FHD" tvg-name="Pakistan Vs Sri Lanka - WILLOW FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Pakistan%20Vs%20Sri%20Lanka.jpg" group-title="[S3] Cricket",Pakistan Vs Sri Lanka - WILLOW FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd
-#EXTINF:-1 tvg-id="New York Rangers Vs Montréal Canadiens - SPORTSCAST" tvg-name="New York Rangers Vs Montréal Canadiens - SPORTSCAST" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg" group-title="[S3] Hockey",New York Rangers Vs Montréal Canadiens - SPORTSCAST
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b501ef9-a9d9-4463-90cc-8a1cac530097/master.m3u8
-#EXTINF:-1 tvg-id="New York Rangers Vs Montréal Canadiens - STREAM TV + HD" tvg-name="New York Rangers Vs Montréal Canadiens - STREAM TV + HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/New%20York%20Rangers%20Vs%20Montr%C3%A9al%20Canadiens.jpg" group-title="[S3] Hockey",New York Rangers Vs Montréal Canadiens - STREAM TV + HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/60291/load-playlist?&.m3u8
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
 #EXTINF:-1 tvg-id="Utah Mammoth Vs Vancouver Canucks - PREMIER1 SPORTS FHD" tvg-name="Utah Mammoth Vs Vancouver Canucks - PREMIER1 SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Utah%20Mammoth%20Vs%20Vancouver%20Canucks.jpg" group-title="[S3] Hockey",Utah Mammoth Vs Vancouver Canucks - PREMIER1 SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
